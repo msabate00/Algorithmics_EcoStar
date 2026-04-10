@@ -1,0 +1,3757 @@
+fileFormatVersion: 2
+guid: 8b8dc5b61f9e72f4fb98b3b11470533a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8587803379208278276
+    second: LoadCircles_0
+  - first:
+      213: 2278033851641636236
+    second: LoadCircles_1
+  - first:
+      213: -6398261695360667473
+    second: LoadCircles_2
+  - first:
+      213: -5946038082528412827
+    second: LoadCircles_3
+  - first:
+      213: 772072509850561764
+    second: LoadCircles_4
+  - first:
+      213: -3434235529481359485
+    second: LoadCircles_5
+  - first:
+      213: -4723890318228419168
+    second: LoadCircles_6
+  - first:
+      213: 3725397736781639545
+    second: LoadCircles_7
+  - first:
+      213: -5415473388052193214
+    second: LoadCircles_8
+  - first:
+      213: -8264826872064944378
+    second: LoadCircles_9
+  - first:
+      213: -5545627207011664149
+    second: LoadCircles_10
+  - first:
+      213: -8871153735588202936
+    second: LoadCircles_11
+  - first:
+      213: 4730951055675564320
+    second: LoadCircles_12
+  - first:
+      213: -5046126274230938560
+    second: LoadCircles_13
+  - first:
+      213: 6139797603326257603
+    second: LoadCircles_14
+  - first:
+      213: -8550152041367422488
+    second: LoadCircles_15
+  - first:
+      213: -7860416685796701701
+    second: LoadCircles_16
+  - first:
+      213: 6331213603726851195
+    second: LoadCircles_17
+  - first:
+      213: 3340968065606876622
+    second: LoadCircles_18
+  - first:
+      213: 7610304033835463870
+    second: LoadCircles_19
+  - first:
+      213: 7572273075724470717
+    second: LoadCircles_20
+  - first:
+      213: 1470620224406661238
+    second: LoadCircles_21
+  - first:
+      213: 9199007339299486124
+    second: LoadCircles_22
+  - first:
+      213: -1997452271507241583
+    second: LoadCircles_23
+  - first:
+      213: 5553815312448279018
+    second: LoadCircles_24
+  - first:
+      213: -4965519574105455605
+    second: LoadCircles_25
+  - first:
+      213: -4048350279407791156
+    second: LoadCircles_26
+  - first:
+      213: 5020736647173110245
+    second: LoadCircles_27
+  - first:
+      213: -1531066047469897389
+    second: LoadCircles_28
+  - first:
+      213: -166139035368466203
+    second: LoadCircles_29
+  - first:
+      213: -1406418902659862057
+    second: LoadCircles_30
+  - first:
+      213: -4021076234113297310
+    second: LoadCircles_31
+  - first:
+      213: -5765730462609204005
+    second: LoadCircles_32
+  - first:
+      213: -1049396398984496519
+    second: LoadCircles_33
+  - first:
+      213: -853976783827498981
+    second: LoadCircles_34
+  - first:
+      213: 260185091546580169
+    second: LoadCircles_35
+  - first:
+      213: 1566667569091205762
+    second: LoadCircles_36
+  - first:
+      213: 6174274657231420155
+    second: LoadCircles_37
+  - first:
+      213: 1301929745079756626
+    second: LoadCircles_38
+  - first:
+      213: -5915657823638105815
+    second: LoadCircles_39
+  - first:
+      213: 7797321130537657978
+    second: LoadCircles_40
+  - first:
+      213: 881875410982400839
+    second: LoadCircles_41
+  - first:
+      213: -2227469695190686370
+    second: LoadCircles_42
+  - first:
+      213: 5470786289283565449
+    second: LoadCircles_43
+  - first:
+      213: -8529967215336795002
+    second: LoadCircles_44
+  - first:
+      213: 4516040904275826668
+    second: LoadCircles_45
+  - first:
+      213: -4200660407413970788
+    second: LoadCircles_46
+  - first:
+      213: -8251382682400260296
+    second: LoadCircles_47
+  - first:
+      213: -3018248805518066219
+    second: LoadCircles_48
+  - first:
+      213: -3744112898821087115
+    second: LoadCircles_49
+  - first:
+      213: -6692553292369686111
+    second: LoadCircles_50
+  - first:
+      213: -5925508951288649190
+    second: LoadCircles_51
+  - first:
+      213: 7399087964772561784
+    second: LoadCircles_52
+  - first:
+      213: -3490793752930132954
+    second: LoadCircles_53
+  - first:
+      213: -4834969472940947218
+    second: LoadCircles_54
+  - first:
+      213: 6025408369686373757
+    second: LoadCircles_55
+  - first:
+      213: 3682119755111359546
+    second: LoadCircles_56
+  - first:
+      213: 8148886164315096270
+    second: LoadCircles_57
+  - first:
+      213: -9081948872399138269
+    second: LoadCircles_58
+  - first:
+      213: 7611256428422637841
+    second: LoadCircles_59
+  - first:
+      213: -6604361938560477077
+    second: LoadCircles_60
+  - first:
+      213: -7121333815566638565
+    second: LoadCircles_61
+  - first:
+      213: 8639384699805531197
+    second: LoadCircles_62
+  - first:
+      213: 1348548923368511434
+    second: LoadCircles_63
+  - first:
+      213: -54218774606202230
+    second: LoadCircles_64
+  - first:
+      213: -5669527507672072579
+    second: LoadCircles_65
+  - first:
+      213: 4352933600463953161
+    second: LoadCircles_66
+  - first:
+      213: -3268894689908397733
+    second: LoadCircles_67
+  - first:
+      213: 442548914149772213
+    second: LoadCircles_68
+  - first:
+      213: 4063358667708580418
+    second: LoadCircles_69
+  - first:
+      213: 2778328734955005499
+    second: LoadCircles_70
+  - first:
+      213: -5164638612097566877
+    second: LoadCircles_71
+  - first:
+      213: 1255129967455473526
+    second: LoadCircles_72
+  - first:
+      213: 593119944492728929
+    second: LoadCircles_73
+  - first:
+      213: -3750952834694183586
+    second: LoadCircles_74
+  - first:
+      213: -8768626834763965119
+    second: LoadCircles_75
+  - first:
+      213: 951429400359405313
+    second: LoadCircles_76
+  - first:
+      213: -6192282788250623687
+    second: LoadCircles_77
+  - first:
+      213: 5574716375294557733
+    second: LoadCircles_78
+  - first:
+      213: 6026825836210886287
+    second: LoadCircles_79
+  - first:
+      213: -7574294545535075837
+    second: LoadCircles_80
+  - first:
+      213: 173307069919114781
+    second: LoadCircles_81
+  - first:
+      213: 8982353951756816639
+    second: LoadCircles_82
+  - first:
+      213: -5259122255264880040
+    second: LoadCircles_83
+  - first:
+      213: -5412959211643422262
+    second: LoadCircles_84
+  - first:
+      213: 892498615563994983
+    second: LoadCircles_85
+  - first:
+      213: 1077558365351955777
+    second: LoadCircles_86
+  - first:
+      213: 6484521024141918075
+    second: LoadCircles_87
+  - first:
+      213: -7812361793061323314
+    second: LoadCircles_88
+  - first:
+      213: -6037883376600559099
+    second: LoadCircles_89
+  - first:
+      213: 2970399191868906413
+    second: LoadCircles_90
+  - first:
+      213: -3885738035123224576
+    second: LoadCircles_91
+  - first:
+      213: 2024947665493947933
+    second: LoadCircles_92
+  - first:
+      213: -4921682335399767109
+    second: LoadCircles_93
+  - first:
+      213: 5627574475176266722
+    second: LoadCircles_94
+  - first:
+      213: -6027051075368160502
+    second: LoadCircles_95
+  - first:
+      213: 6341129215373930869
+    second: LoadCircles_96
+  - first:
+      213: 1908667005377314503
+    second: LoadCircles_97
+  - first:
+      213: -8492964313294623220
+    second: LoadCircles_98
+  - first:
+      213: -321627693764138931
+    second: LoadCircles_99
+  - first:
+      213: 7182616952536737106
+    second: LoadCircles_100
+  - first:
+      213: 6176624616204690022
+    second: LoadCircles_101
+  - first:
+      213: 5424140113376051902
+    second: LoadCircles_102
+  - first:
+      213: -802438491345194085
+    second: LoadCircles_103
+  - first:
+      213: 6676883179191241220
+    second: LoadCircles_104
+  - first:
+      213: -8012730417140972914
+    second: LoadCircles_105
+  - first:
+      213: 2001652021177517702
+    second: LoadCircles_106
+  - first:
+      213: -6466880226056907436
+    second: LoadCircles_107
+  - first:
+      213: -1994892731477192113
+    second: LoadCircles_108
+  - first:
+      213: -3942344410967444570
+    second: LoadCircles_109
+  - first:
+      213: -6819041524487178339
+    second: LoadCircles_110
+  - first:
+      213: -6452842479250752427
+    second: LoadCircles_111
+  - first:
+      213: 1586490699313768683
+    second: LoadCircles_112
+  - first:
+      213: 5324815527631867550
+    second: LoadCircles_113
+  - first:
+      213: -1601711403772580988
+    second: LoadCircles_114
+  - first:
+      213: 1695708676374949190
+    second: LoadCircles_115
+  - first:
+      213: 6360685431563282715
+    second: LoadCircles_116
+  - first:
+      213: 4941819350266930827
+    second: LoadCircles_117
+  - first:
+      213: 8838202559802854271
+    second: LoadCircles_118
+  - first:
+      213: 4969700032085190892
+    second: LoadCircles_119
+  - first:
+      213: 2029626144099480676
+    second: LoadCircles_120
+  - first:
+      213: -982067620923422879
+    second: LoadCircles_121
+  - first:
+      213: 2862466801683645438
+    second: LoadCircles_122
+  - first:
+      213: 3712348652746583086
+    second: LoadCircles_123
+  - first:
+      213: -5871113722709226085
+    second: LoadCircles_124
+  - first:
+      213: -8583970238073265360
+    second: LoadCircles_125
+  - first:
+      213: 2443409406851243448
+    second: LoadCircles_126
+  - first:
+      213: 742146456723513270
+    second: LoadCircles_127
+  - first:
+      213: -8840028906761986307
+    second: LoadCircles_128
+  - first:
+      213: -7326224956747591676
+    second: LoadCircles_129
+  - first:
+      213: 1789574689568947728
+    second: LoadCircles_130
+  - first:
+      213: 6757260430175341817
+    second: LoadCircles_131
+  - first:
+      213: 3895183136054627140
+    second: LoadCircles_132
+  - first:
+      213: 1161727633577019761
+    second: LoadCircles_133
+  - first:
+      213: 1860820616420655386
+    second: LoadCircles_134
+  - first:
+      213: -5253153146261737334
+    second: LoadCircles_135
+  - first:
+      213: -5140001389470059566
+    second: LoadCircles_136
+  - first:
+      213: -7099258050832373672
+    second: LoadCircles_137
+  - first:
+      213: -7613166785833105723
+    second: LoadCircles_138
+  - first:
+      213: 5869585269717204367
+    second: LoadCircles_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoadCircles_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2465a35ef1d880800000000000000
+      internalID: -8587803379208278276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c852a61f7b33d9f10800000000000000
+      internalID: 2278033851641636236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0f90433eec437a0800000000000000
+      internalID: -6398261695360667473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf2fd0edd6b7da0800000000000000
+      internalID: -5946038082528412827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecac7a6bd3f6ba00800000000000000
+      internalID: 772072509850561764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fec363bf42750d0800000000000000
+      internalID: -3434235529481359485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8618a8ce517eb0800000000000000
+      internalID: -4723890318228419168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe9ebe08543b330800000000000000
+      internalID: 3725397736781639545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240619e55af58d4b0800000000000000
+      internalID: -5415473388052193214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075770bfbf6d4d80800000000000000
+      internalID: -8264826872064944378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef35def69f903b0800000000000000
+      internalID: -5545627207011664149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b26acda453e480800000000000000
+      internalID: -8871153735588202936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212d436be6b7a140800000000000000
+      internalID: 4730951055675564320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 135
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04413bc93ee88f9b0800000000000000
+      internalID: -5046126274230938560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c96e03e361f43550800000000000000
+      internalID: 6139797603326257603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b6bed402c75980800000000000000
+      internalID: -8550152041367422488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c888aba03ae290800000000000000
+      internalID: -7860416685796701701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c72477a3dfcd750800000000000000
+      internalID: 6331213603726851195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfb6421c08d5e20800000000000000
+      internalID: 3340968065606876622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb43c79923b3d9960800000000000000
+      internalID: 7610304033835463870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9cfc42e3e161960800000000000000
+      internalID: 7572273075724470717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a34b6d41b86410800000000000000
+      internalID: 1470620224406661238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93829cf6079af70800000000000000
+      internalID: 9199007339299486124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958305fdbf9744e0800000000000000
+      internalID: -1997452271507241583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1da9ee99d131d40800000000000000
+      internalID: 5553815312448279018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04023c714ee61bb0800000000000000
+      internalID: -4965519574105455605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc39b85bede51d7c0800000000000000
+      internalID: -4048350279407791156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9f98d216d3da540800000000000000
+      internalID: 5020736647173110245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35935e0ba8f80cae0800000000000000
+      internalID: -1531066047469897389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e859857d61c1bdf0800000000000000
+      internalID: -166139035368466203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17095a5756b7ce0800000000000000
+      internalID: -1406418902659862057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26459ea38744238c0800000000000000
+      internalID: -4021076234113297310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc978141b20cffa0800000000000000
+      internalID: -5765730462609204005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a74f9f88bcf61f0800000000000000
+      internalID: -1049396398984496519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b180881c3a01624f0800000000000000
+      internalID: -853976783827498981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c48c7556fc5c9300800000000000000
+      internalID: 260185091546580169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a5ec08adbedb510800000000000000
+      internalID: 1566667569091205762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab9f9861e6fa550800000000000000
+      internalID: 6174274657231420155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576ef98432611210800000000000000
+      internalID: 1301929745079756626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215a494d8c57eda0800000000000000
+      internalID: -5915657823638105815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7628599146a53c60800000000000000
+      internalID: 7797321130537657978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f1cf830d0d3c00800000000000000
+      internalID: 881875410982400839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5526362d107611e0800000000000000
+      internalID: -2227469695190686370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98703d605232ceb40800000000000000
+      internalID: 5470786289283565449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845f18e2087f9980800000000000000
+      internalID: -8529967215336795002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce79e7286433cae30800000000000000
+      internalID: 4516040904275826668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ea029d9144b5c0800000000000000
+      internalID: -4200660407413970788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff8b50b233d7d80800000000000000
+      internalID: -8251382682400260296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3957e3b60d16d0800000000000000
+      internalID: -3018248805518066219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570afcad72d3a0cc0800000000000000
+      internalID: -3744112898821087115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11fef3d364f13a0800000000000000
+      internalID: -6692553292369686111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aea05e00d54cda0800000000000000
+      internalID: -5925508951288649190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873f22a4d47dea660800000000000000
+      internalID: 7399087964772561784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5274a3953e8fc0800000000000000
+      internalID: -3490793752930132954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_54
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84f7191ecb6ecb0800000000000000
+      internalID: -4834969472940947218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7562ddfcfc8e9350800000000000000
+      internalID: 6025408369686373757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346cd79864891330800000000000000
+      internalID: 3682119755111359546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4c813bac8a61170800000000000000
+      internalID: 8148886164315096270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d3686e9f66f180800000000000000
+      internalID: -9081948872399138269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1192a8e356d90a960800000000000000
+      internalID: 7611256428422637841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681efbeec79854a0800000000000000
+      internalID: -6604361938560477077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b126c2c00a0fb2d90800000000000000
+      internalID: -7121333815566638565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7add6c9245e770800000000000000
+      internalID: 8639384699805531197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac79d93d91207b210800000000000000
+      internalID: 1348548923368511434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab07fcf406f3ff0800000000000000
+      internalID: -54218774606202230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e76ec25cac151b0800000000000000
+      internalID: -5669527507672072579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d148afb0ab86c30800000000000000
+      internalID: 4352933600463953161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5969df499d82a2d0800000000000000
+      internalID: -3268894689908397733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc1a784ef342600800000000000000
+      internalID: 442548914149772213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_69
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24246cffd23f36830800000000000000
+      internalID: 4063358667708580418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e044a34b9e8620800000000000000
+      internalID: 2778328734955005499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36778a4bb848358b0800000000000000
+      internalID: -5164638612097566877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f81213e0e1b6110800000000000000
+      internalID: 1255129967455473526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16240b0727f2b3800800000000000000
+      internalID: 593119944492728929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550fce2540f1fbc0800000000000000
+      internalID: -3750952834694183586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d9fe91a549f4680800000000000000
+      internalID: -8768626834763965119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107094daff7243d00800000000000000
+      internalID: 951429400359405313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9316e89bc97901aa0800000000000000
+      internalID: -6192282788250623687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e3cf8d10f5d5d40800000000000000
+      internalID: 5574716375294557733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861f72aa2693a350800000000000000
+      internalID: 6026825836210886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af33dbd33b2e690800000000000000
+      internalID: -7574294545535075837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b793acd5b76200800000000000000
+      internalID: 173307069919114781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09a4d145bb7ac70800000000000000
+      internalID: 8982353951756816639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_83
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ae5904c28d307b0800000000000000
+      internalID: -5259122255264880040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b05ea64e41e4b0800000000000000
+      internalID: -5412959211643422262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_85
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767483f13cac26c00800000000000000
+      internalID: 892498615563994983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_86
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dcd87cf9144fe00800000000000000
+      internalID: 1077558365351955777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff786d385adf950800000000000000
+      internalID: 6484521024141918075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfeb3475ae49390800000000000000
+      internalID: -7812361793061323314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502dc7e1f01253ca0800000000000000
+      internalID: -6037883376600559099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_90
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab1470c35af83920800000000000000
+      internalID: 2970399191868906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000814638d5131ac0800000000000000
+      internalID: -3885738035123224576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f5825c2f0a1c10800000000000000
+      internalID: 2024947665493947933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_93
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39e2dfdfba2bbb0800000000000000
+      internalID: -4921682335399767109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebcfe34b29291e40800000000000000
+      internalID: 5627574475176266722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a037b89cafc9b5ca0800000000000000
+      internalID: -6027051075368160502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571f635bc67300850800000000000000
+      internalID: 6341129215373930869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef5026782fc7a10800000000000000
+      internalID: 1908667005377314503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e210864fde22a80800000000000000
+      internalID: -8492964313294623220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48a24b0159598bf0800000000000000
+      internalID: -321627693764138931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a6ad2018cda360800000000000000
+      internalID: 7182616952536737106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66260dffc57c7b550800000000000000
+      internalID: 6176624616204690022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20abdd1ba664b40800000000000000
+      internalID: 5424140113376051902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_103
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f441917a2dd4f0800000000000000
+      internalID: -802438491345194085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a897630ed09ac50800000000000000
+      internalID: 6676883179191241220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82485d83201dc090800000000000000
+      internalID: -8012730417140972914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6868a3678eb47cb10800000000000000
+      internalID: 2001652021177517702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_107
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45551e882b60146a0800000000000000
+      internalID: -6466880226056907436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f421b4f41a7b054e0800000000000000
+      internalID: -1994892731477192113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3f90a45aaf949c0800000000000000
+      internalID: -3942344410967444570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_110
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97bd40ccd5ed51a0800000000000000
+      internalID: -6819041524487178339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c35b824f5e276a0800000000000000
+      internalID: -6452842479250752427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_112
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ee0ca2e8540610800000000000000
+      internalID: 1586490699313768683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4bf2a28b85e940800000000000000
+      internalID: 5324815527631867550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_114
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b6179e6f395c9e0800000000000000
+      internalID: -1601711403772580988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d60e19e0e588710800000000000000
+      internalID: 1695708676374949190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e45c13b1b54850800000000000000
+      internalID: 6360685431563282715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86efc4248ed49440800000000000000
+      internalID: 4941819350266930827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_118
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4ffdb66a97aa70800000000000000
+      internalID: 8838202559802854271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86fac39dbe7f440800000000000000
+      internalID: 4969700032085190892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_120
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46435e1893eaa2c10800000000000000
+      internalID: 2029626144099480676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674275b3befe52f0800000000000000
+      internalID: -982067620923422879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c3bfd36689b720800000000000000
+      internalID: 2862466801683645438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_123
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2c594e69e48330800000000000000
+      internalID: 3712348652746583086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dcef9fc2d958ea0800000000000000
+      internalID: -5871113722709226085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332e1d5c8c9fd880800000000000000
+      internalID: -8583970238073265360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_126
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd5738e8ebb8e120800000000000000
+      internalID: 2443409406851243448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd1543542ac4a00800000000000000
+      internalID: 742146456723513270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe5448bb88e15580800000000000000
+      internalID: -8840028906761986307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_129
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005574c735045a90800000000000000
+      internalID: -7326224956747591676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e79c6d2b8d5d810800000000000000
+      internalID: 1789574689568947728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc876b4f8c96cd50800000000000000
+      internalID: 6757260430175341817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_132
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bc0a7bc687e0630800000000000000
+      internalID: 3895183136054627140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790d1da0294f1010800000000000000
+      internalID: 1161727633577019761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_134
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a110a78dd76f2d910800000000000000
+      internalID: 1860820616420655386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_135
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80f75ebb0d0917b0800000000000000
+      internalID: -5253153146261737334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_136
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37f9b18fb0ba8b0800000000000000
+      internalID: -5140001389470059566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_137
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ed4f8a6e5a7d90800000000000000
+      internalID: -7099258050832373672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_138
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c68d920529985690800000000000000
+      internalID: -7613166785833105723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoadCircles_139
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dfb5454b4f47150800000000000000
+      internalID: 5869585269717204367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LoadCircles_0: -8587803379208278276
+      LoadCircles_1: 2278033851641636236
+      LoadCircles_10: -5545627207011664149
+      LoadCircles_100: 7182616952536737106
+      LoadCircles_101: 6176624616204690022
+      LoadCircles_102: 5424140113376051902
+      LoadCircles_103: -802438491345194085
+      LoadCircles_104: 6676883179191241220
+      LoadCircles_105: -8012730417140972914
+      LoadCircles_106: 2001652021177517702
+      LoadCircles_107: -6466880226056907436
+      LoadCircles_108: -1994892731477192113
+      LoadCircles_109: -3942344410967444570
+      LoadCircles_11: -8871153735588202936
+      LoadCircles_110: -6819041524487178339
+      LoadCircles_111: -6452842479250752427
+      LoadCircles_112: 1586490699313768683
+      LoadCircles_113: 5324815527631867550
+      LoadCircles_114: -1601711403772580988
+      LoadCircles_115: 1695708676374949190
+      LoadCircles_116: 6360685431563282715
+      LoadCircles_117: 4941819350266930827
+      LoadCircles_118: 8838202559802854271
+      LoadCircles_119: 4969700032085190892
+      LoadCircles_12: 4730951055675564320
+      LoadCircles_120: 2029626144099480676
+      LoadCircles_121: -982067620923422879
+      LoadCircles_122: 2862466801683645438
+      LoadCircles_123: 3712348652746583086
+      LoadCircles_124: -5871113722709226085
+      LoadCircles_125: -8583970238073265360
+      LoadCircles_126: 2443409406851243448
+      LoadCircles_127: 742146456723513270
+      LoadCircles_128: -8840028906761986307
+      LoadCircles_129: -7326224956747591676
+      LoadCircles_13: -5046126274230938560
+      LoadCircles_130: 1789574689568947728
+      LoadCircles_131: 6757260430175341817
+      LoadCircles_132: 3895183136054627140
+      LoadCircles_133: 1161727633577019761
+      LoadCircles_134: 1860820616420655386
+      LoadCircles_135: -5253153146261737334
+      LoadCircles_136: -5140001389470059566
+      LoadCircles_137: -7099258050832373672
+      LoadCircles_138: -7613166785833105723
+      LoadCircles_139: 5869585269717204367
+      LoadCircles_14: 6139797603326257603
+      LoadCircles_15: -8550152041367422488
+      LoadCircles_16: -7860416685796701701
+      LoadCircles_17: 6331213603726851195
+      LoadCircles_18: 3340968065606876622
+      LoadCircles_19: 7610304033835463870
+      LoadCircles_2: -6398261695360667473
+      LoadCircles_20: 7572273075724470717
+      LoadCircles_21: 1470620224406661238
+      LoadCircles_22: 9199007339299486124
+      LoadCircles_23: -1997452271507241583
+      LoadCircles_24: 5553815312448279018
+      LoadCircles_25: -4965519574105455605
+      LoadCircles_26: -4048350279407791156
+      LoadCircles_27: 5020736647173110245
+      LoadCircles_28: -1531066047469897389
+      LoadCircles_29: -166139035368466203
+      LoadCircles_3: -5946038082528412827
+      LoadCircles_30: -1406418902659862057
+      LoadCircles_31: -4021076234113297310
+      LoadCircles_32: -5765730462609204005
+      LoadCircles_33: -1049396398984496519
+      LoadCircles_34: -853976783827498981
+      LoadCircles_35: 260185091546580169
+      LoadCircles_36: 1566667569091205762
+      LoadCircles_37: 6174274657231420155
+      LoadCircles_38: 1301929745079756626
+      LoadCircles_39: -5915657823638105815
+      LoadCircles_4: 772072509850561764
+      LoadCircles_40: 7797321130537657978
+      LoadCircles_41: 881875410982400839
+      LoadCircles_42: -2227469695190686370
+      LoadCircles_43: 5470786289283565449
+      LoadCircles_44: -8529967215336795002
+      LoadCircles_45: 4516040904275826668
+      LoadCircles_46: -4200660407413970788
+      LoadCircles_47: -8251382682400260296
+      LoadCircles_48: -3018248805518066219
+      LoadCircles_49: -3744112898821087115
+      LoadCircles_5: -3434235529481359485
+      LoadCircles_50: -6692553292369686111
+      LoadCircles_51: -5925508951288649190
+      LoadCircles_52: 7399087964772561784
+      LoadCircles_53: -3490793752930132954
+      LoadCircles_54: -4834969472940947218
+      LoadCircles_55: 6025408369686373757
+      LoadCircles_56: 3682119755111359546
+      LoadCircles_57: 8148886164315096270
+      LoadCircles_58: -9081948872399138269
+      LoadCircles_59: 7611256428422637841
+      LoadCircles_6: -4723890318228419168
+      LoadCircles_60: -6604361938560477077
+      LoadCircles_61: -7121333815566638565
+      LoadCircles_62: 8639384699805531197
+      LoadCircles_63: 1348548923368511434
+      LoadCircles_64: -54218774606202230
+      LoadCircles_65: -5669527507672072579
+      LoadCircles_66: 4352933600463953161
+      LoadCircles_67: -3268894689908397733
+      LoadCircles_68: 442548914149772213
+      LoadCircles_69: 4063358667708580418
+      LoadCircles_7: 3725397736781639545
+      LoadCircles_70: 2778328734955005499
+      LoadCircles_71: -5164638612097566877
+      LoadCircles_72: 1255129967455473526
+      LoadCircles_73: 593119944492728929
+      LoadCircles_74: -3750952834694183586
+      LoadCircles_75: -8768626834763965119
+      LoadCircles_76: 951429400359405313
+      LoadCircles_77: -6192282788250623687
+      LoadCircles_78: 5574716375294557733
+      LoadCircles_79: 6026825836210886287
+      LoadCircles_8: -5415473388052193214
+      LoadCircles_80: -7574294545535075837
+      LoadCircles_81: 173307069919114781
+      LoadCircles_82: 8982353951756816639
+      LoadCircles_83: -5259122255264880040
+      LoadCircles_84: -5412959211643422262
+      LoadCircles_85: 892498615563994983
+      LoadCircles_86: 1077558365351955777
+      LoadCircles_87: 6484521024141918075
+      LoadCircles_88: -7812361793061323314
+      LoadCircles_89: -6037883376600559099
+      LoadCircles_9: -8264826872064944378
+      LoadCircles_90: 2970399191868906413
+      LoadCircles_91: -3885738035123224576
+      LoadCircles_92: 2024947665493947933
+      LoadCircles_93: -4921682335399767109
+      LoadCircles_94: 5627574475176266722
+      LoadCircles_95: -6027051075368160502
+      LoadCircles_96: 6341129215373930869
+      LoadCircles_97: 1908667005377314503
+      LoadCircles_98: -8492964313294623220
+      LoadCircles_99: -321627693764138931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
