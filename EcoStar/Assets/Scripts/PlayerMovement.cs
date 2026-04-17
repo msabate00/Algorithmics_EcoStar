@@ -1,3 +1,5 @@
+using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -14,8 +16,10 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     bool isGrounded;
     float moveInput;
+    
 
-    public Vector2 groundcheck;
+    
+    bool isRolling = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
         moveInput = Input.GetAxisRaw("Horizontal");
         isGrounded = Physics2D.OverlapCircle(
         groundCheck.position,
@@ -56,12 +60,35 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("Speed", Mathf.Abs(moveInput));
                 animator.SetBool("Grounded", isGrounded);
                 animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
+
+                if (Input.GetMouseButtonDown(0) && isRolling == false) 
+                {
+                    animator.SetTrigger("Attack");
+                    isRolling = true;
+                    rb.linearVelocity = new Vector2(moveSpeed * 2, rb.linearVelocity.y);
+                    StartCoroutine(StopRolling());
+                }  
+
              }
     }
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(moveInput * moveSpeed,
-        rb.linearVelocity.y);
+        if (isRolling == false)
+        {
+            rb.linearVelocity = new Vector2(moveInput * moveSpeed,
+            rb.linearVelocity.y);
+        }
+        if(isRolling == true)
+        {
+            rb.linearVelocity = new Vector2(moveInput * moveSpeed * 4F,
+            rb.linearVelocity.y);
+        }
+    }
+
+    IEnumerator StopRolling()
+    {
+        yield return new WaitForSeconds(0.35f);
+        isRolling = false;
     }
 }
