@@ -81,8 +81,14 @@ public class PlayerMovement : MonoBehaviour
         }
         if(isRolling == true)
         {
-            rb.linearVelocity = new Vector2(moveInput * moveSpeed * 4F,
-            rb.linearVelocity.y);
+            if (spriteRenderer.flipX == true)
+            {
+                rb.linearVelocity = new Vector2(-moveSpeed * 4f, rb.linearVelocityY);
+            }
+            else
+            {
+                rb.linearVelocity = new Vector2(moveSpeed * 4f, rb.linearVelocityY);
+            }
         }
     }
 
