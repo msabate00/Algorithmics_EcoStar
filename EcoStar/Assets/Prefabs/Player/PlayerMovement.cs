@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Diagnostics;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -16,60 +17,58 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     bool isGrounded;
     float moveInput;
-    
+
+    bool isDefeat = false;
 
     
     bool isRolling = false;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
-        
-        moveInput = Input.GetAxisRaw("Horizontal");
-        isGrounded = Physics2D.OverlapCircle(
-        groundCheck.position,
-        groundCheckRadius,
-        groundLayer
-        );
-
-        if (Input.GetButtonDown("Jump") &&
-        isGrounded)
+        if (!isDefeat)
         {
-            rb.linearVelocity = new
-           Vector2(rb.linearVelocity.x, jumpForce);
-        }
+            moveInput = Input.GetAxisRaw("Horizontal");
+            isGrounded = Physics2D.OverlapCircle(
+            groundCheck.position,
+            groundCheckRadius,
+            groundLayer
+            );
 
-             if (spriteRenderer != null)
-             {
+            if ((Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.UpArrow)) &&
+            isGrounded)
+            {
+                rb.linearVelocity = new
+               Vector2(rb.linearVelocity.x, jumpForce);
+            }
+
+            if (spriteRenderer != null)
+            {
                 if (moveInput > 0) spriteRenderer.flipX = false;
                 else if (moveInput < 0) spriteRenderer.flipX = true;
-             }
-        
-             if (Input.GetKeyDown(KeyCode.J))
-             {
+            }
+
+            if (Input.GetKeyDown(KeyCode.J))
+            {
                 if (animator != null) animator.SetTrigger("Attack");
-             }
-        
-             if (animator != null)
-             {
+            }
+
+            if (animator != null)
+            {
                 animator.SetFloat("Speed", Mathf.Abs(moveInput));
                 animator.SetBool("Grounded", isGrounded);
                 animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
 
-                if (Input.GetMouseButtonDown(0) && isRolling == false) 
+                if (Input.GetMouseButtonDown(0) && isRolling == false)
                 {
                     animator.SetTrigger("Attack");
                     isRolling = true;
                     rb.linearVelocity = new Vector2(moveSpeed * 2, rb.linearVelocity.y);
                     StartCoroutine(StopRolling());
-                }  
+                }
 
-             }
+            }
+        }
     }
 
     private void FixedUpdate()
@@ -96,5 +95,17 @@ public class PlayerMovement : MonoBehaviour
     {
         yield return new WaitForSeconds(0.35f);
         isRolling = false;
+    }
+
+    public void StartingDefeat()
+    {
+        isDefeat = true;
+
+        UnityEngine.Debug.Log("Gay");
+    }
+
+    void Defeat()
+    {
+        Destroy(gameObject);
     }
 }

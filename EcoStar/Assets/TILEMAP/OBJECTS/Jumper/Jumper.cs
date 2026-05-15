@@ -6,6 +6,7 @@ public class Jumper : MonoBehaviour
 
     Animator animator;
 
+
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -16,9 +17,14 @@ public class Jumper : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            Rigidbody2D rigidbody = collision.GetComponent<Rigidbody2D>();
+
+
             animator.SetTrigger("IsPressed");
 
-            collision.GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumperForce, ForceMode2D.Impulse);
+            rigidbody.linearVelocity = Vector2.zero;
+
+            rigidbody.AddForce(Vector2.up * jumperForce, ForceMode2D.Impulse);
         }
     }
 }
