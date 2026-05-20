@@ -1,12 +1,15 @@
+using System.Collections;
 using UnityEngine;
 
-public class Lever : MonoBehaviour
+public class Button : MonoBehaviour
 {
     Animator animator;
 
 
     [Tooltip("Objetos que se activan o desactivan al activar la palabra")]
     public GameObject[] ObjectsToEdit;
+
+    public float secondsToWait;
 
 
     private void Awake()
@@ -19,10 +22,9 @@ public class Lever : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            animator.SetTrigger("IsActivated");
+            animator.SetBool("IsPressed", true);
 
-
-            ChangeObjects();
+            StartCoroutine(ButtonSequence());
         }
     }
 
@@ -36,5 +38,21 @@ public class Lever : MonoBehaviour
                 obj.SetActive(!obj.activeSelf);
             }
         }
+    }
+
+
+    private IEnumerator ButtonSequence()
+    {
+        ChangeObjects();
+
+        animator.SetBool("IsPressed", true);
+
+
+        yield return new WaitForSeconds(secondsToWait);
+
+        
+        ChangeObjects();
+
+        animator.SetBool("IsPressed", false);
     }
 }

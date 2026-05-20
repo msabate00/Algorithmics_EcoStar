@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
             groundLayer
             );
 
-            if ((Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.UpArrow)) &&
+            if ((Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) &&
             isGrounded)
             {
                 rb.linearVelocity = new
