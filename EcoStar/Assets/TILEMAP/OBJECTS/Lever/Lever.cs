@@ -2,25 +2,39 @@ using UnityEngine;
 
 public class Lever : MonoBehaviour
 {
-    public GameObject[] gameObjects;
+    Animator animator;
 
-    public enum Modes
+
+    [Tooltip("Objetos que se activan o desactivan al activar la palabra")]
+    public GameObject[] ObjectsToEdit;
+
+
+    private void Awake()
     {
-        DestroyBox,
-        SpawnCoins
+        animator = GetComponent<Animator>();
     }
 
-    public Modes mode;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        switch (mode)
+        if (collision.CompareTag("Player"))
         {
-            case Modes.DestroyBox:
-                break;
-            
-            case Modes.SpawnCoins:
-                break;
+            animator.SetTrigger("IsActivated");
+
+
+            ChangeObjects();
+        }
+    }
+
+
+    void ChangeObjects()
+    {
+        foreach (GameObject obj in ObjectsToEdit)
+        {
+            if (obj != null)
+            {
+                obj.SetActive(!obj.activeSelf);
+            }
         }
     }
 }
