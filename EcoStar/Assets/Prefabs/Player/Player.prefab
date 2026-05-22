@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6326525563271066435}
   - component: {fileID: 8484429028722973582}
   - component: {fileID: 43174682321788129}
+  - component: {fileID: 1869001089169238284}
   - component: {fileID: 1897122211317404086}
   - component: {fileID: 4071106610560987709}
   - component: {fileID: 4932576678124122759}
@@ -81,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 4495478712733764576, guid: e1b6b2de112b3874da6ca5f249df6a86, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -115,6 +116,20 @@ MonoBehaviour:
   rb: {fileID: 1897122211317404086}
   spriteRenderer: {fileID: 8484429028722973582}
   animator: {fileID: 4071106610560987709}
+--- !u!114 &1869001089169238284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4014948402033989927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 457276293a3882c42951dc5985c754e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Coins: {fileID: 0}
+  Diamonds: {fileID: 0}
 --- !u!50 &1897122211317404086
 Rigidbody2D:
   serializedVersion: 5
@@ -280,7 +295,7 @@ CapsuleCollider2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2

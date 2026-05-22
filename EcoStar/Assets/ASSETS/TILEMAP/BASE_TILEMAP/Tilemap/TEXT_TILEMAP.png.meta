@@ -1,0 +1,1203 @@
+fileFormatVersion: 2
+guid: a5ce8b7822ba05d4eb10c2c57a0c1bd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 216119709186161780
+    second: TILEMAP_0
+  - first:
+      213: 1736960801551711327
+    second: TILEMAP_1
+  - first:
+      213: 2020279144049068510
+    second: TILEMAP_2
+  - first:
+      213: 2116165262278691319
+    second: TILEMAP_3
+  - first:
+      213: 5825242102227229766
+    second: TILEMAP_4
+  - first:
+      213: -6783495106993163485
+    second: TILEMAP_5
+  - first:
+      213: -8444795766779821838
+    second: TILEMAP_6
+  - first:
+      213: -6750573826564333838
+    second: TILEMAP_7
+  - first:
+      213: -4390083486539721961
+    second: TILEMAP_8
+  - first:
+      213: -8150602906195491914
+    second: TILEMAP_9
+  - first:
+      213: -8314683371887680275
+    second: TILEMAP_10
+  - first:
+      213: -4815451381722474423
+    second: TILEMAP_11
+  - first:
+      213: -8140379742665492278
+    second: TILEMAP_12
+  - first:
+      213: 5913071673814337637
+    second: TILEMAP_13
+  - first:
+      213: 6656057826159749593
+    second: TILEMAP_14
+  - first:
+      213: 1894014125100066119
+    second: TILEMAP_15
+  - first:
+      213: 4390105908891939512
+    second: TILEMAP_16
+  - first:
+      213: -5360563242606688570
+    second: TILEMAP_17
+  - first:
+      213: 3702080850400348940
+    second: TILEMAP_18
+  - first:
+      213: 636211414992552890
+    second: TILEMAP_19
+  - first:
+      213: 5778634302267866899
+    second: TILEMAP_20
+  - first:
+      213: 8330522339291636437
+    second: TILEMAP_21
+  - first:
+      213: -2472254725594936663
+    second: TILEMAP_22
+  - first:
+      213: -7529191398690230470
+    second: TILEMAP_23
+  - first:
+      213: 303538912005500244
+    second: TILEMAP_24
+  - first:
+      213: 6047476268645283152
+    second: TILEMAP_25
+  - first:
+      213: 6373565903534628909
+    second: TILEMAP_26
+  - first:
+      213: 5078495761968729600
+    second: TILEMAP_27
+  - first:
+      213: 1522878221513558721
+    second: TILEMAP_28
+  - first:
+      213: 4601268535999110569
+    second: TILEMAP_29
+  - first:
+      213: 127345867943565478
+    second: TILEMAP_30
+  - first:
+      213: 1668529952927707673
+    second: TILEMAP_31
+  - first:
+      213: 2641545759296418856
+    second: TILEMAP_32
+  - first:
+      213: 8718488328635866288
+    second: TILEMAP_33
+  - first:
+      213: 531680711866800862
+    second: TILEMAP_34
+  - first:
+      213: -7985500729299667284
+    second: TILEMAP_35
+  - first:
+      213: -6084305234569133029
+    second: TILEMAP_36
+  - first:
+      213: 5742994136609742550
+    second: TILEMAP_37
+  - first:
+      213: 4857365221369471026
+    second: TILEMAP_38
+  - first:
+      213: -2770922585684470292
+    second: TILEMAP_39
+  - first:
+      213: -4490836539032127859
+    second: TILEMAP_40
+  - first:
+      213: 8849063711113764733
+    second: TILEMAP_41
+  - first:
+      213: 6990946097414325541
+    second: TILEMAP_42
+  - first:
+      213: -2652064648922371989
+    second: TILEMAP_43
+  - first:
+      213: -6401467022414545552
+    second: TILEMAP_44
+  - first:
+      213: -5480307026533777948
+    second: TILEMAP_45
+  - first:
+      213: -3966447870540417481
+    second: TILEMAP_46
+  - first:
+      213: -8540376184278674430
+    second: TILEMAP_47
+  - first:
+      213: 2403147433763253855
+    second: TILEMAP_48
+  - first:
+      213: -2292379197646074095
+    second: TILEMAP_49
+  - first:
+      213: -1151559160152362408
+    second: TILEMAP_50
+  - first:
+      213: -6314996967520927066
+    second: TILEMAP_51
+  - first:
+      213: 4188372268193039977
+    second: TILEMAP_52
+  - first:
+      213: 3060307483233226301
+    second: TILEMAP_53
+  - first:
+      213: -6230199458177342923
+    second: TILEMAP_54
+  - first:
+      213: -3387386870096903777
+    second: TILEMAP_55
+  - first:
+      213: -9215116237246480118
+    second: TILEMAP_56
+  - first:
+      213: -7348112443086315315
+    second: TILEMAP_57
+  - first:
+      213: 7928911845314267589
+    second: TILEMAP_58
+  - first:
+      213: -7647815049636466670
+    second: TILEMAP_59
+  - first:
+      213: 7689018786951685851
+    second: TILEMAP_60
+  - first:
+      213: 3647562518887718261
+    second: TILEMAP_61
+  - first:
+      213: -7622970448689005412
+    second: TILEMAP_62
+  - first:
+      213: 6065757810104674304
+    second: TILEMAP_63
+  - first:
+      213: 5967196285416213540
+    second: TILEMAP_64
+  - first:
+      213: -5074515110043698798
+    second: TILEMAP_65
+  - first:
+      213: 6989388313439026481
+    second: TILEMAP_66
+  - first:
+      213: 4499087279566892273
+    second: TILEMAP_67
+  - first:
+      213: 1864809905279351069
+    second: TILEMAP_68
+  - first:
+      213: -3493743073395695885
+    second: TILEMAP_69
+  - first:
+      213: 5556511007354607256
+    second: TILEMAP_70
+  - first:
+      213: 5503970251481805769
+    second: TILEMAP_71
+  - first:
+      213: -1939368381795541903
+    second: TILEMAP_72
+  - first:
+      213: -4360131977434678249
+    second: TILEMAP_73
+  - first:
+      213: -4763288704534719863
+    second: TILEMAP_74
+  - first:
+      213: 9057226286487418047
+    second: TILEMAP_75
+  - first:
+      213: 4410168098119658556
+    second: TILEMAP_76
+  - first:
+      213: -8035387022114100695
+    second: TILEMAP_77
+  - first:
+      213: 1735435846772678298
+    second: TILEMAP_78
+  - first:
+      213: -1098376955179191220
+    second: TILEMAP_79
+  - first:
+      213: 4410243639015255638
+    second: TILEMAP_80
+  - first:
+      213: -167087951164769239
+    second: TILEMAP_81
+  - first:
+      213: -3686225631920023707
+    second: TILEMAP_82
+  - first:
+      213: -8503270375252438883
+    second: TILEMAP_83
+  - first:
+      213: 1047136431306068851
+    second: TILEMAP_84
+  - first:
+      213: 5916703236138239295
+    second: TILEMAP_85
+  - first:
+      213: -8724728529696899211
+    second: TILEMAP_86
+  - first:
+      213: 2339909290952696067
+    second: TILEMAP_87
+  - first:
+      213: -6758679063640410803
+    second: TILEMAP_88
+  - first:
+      213: 8747844214602040203
+    second: TILEMAP_89
+  - first:
+      213: -3610796346798336178
+    second: TILEMAP_90
+  - first:
+      213: -1732825929027824438
+    second: TILEMAP_91
+  - first:
+      213: -3635163668970525531
+    second: TILEMAP_92
+  - first:
+      213: -9164434692685635580
+    second: TILEMAP_93
+  - first:
+      213: 8121609486218791948
+    second: TILEMAP_94
+  - first:
+      213: 7193009684401026140
+    second: TILEMAP_95
+  - first:
+      213: 7660042026268835450
+    second: TILEMAP_96
+  - first:
+      213: -7286940505619397877
+    second: TILEMAP_97
+  - first:
+      213: 1841449228927288461
+    second: TILEMAP_98
+  - first:
+      213: -1725959660977183154
+    second: TILEMAP_99
+  - first:
+      213: 7806328581524627825
+    second: TILEMAP_100
+  - first:
+      213: 7915277788657638430
+    second: TILEMAP_101
+  - first:
+      213: 4643169631623115987
+    second: TILEMAP_102
+  - first:
+      213: 2812389911324573019
+    second: TILEMAP_103
+  - first:
+      213: 4147761460314107020
+    second: TILEMAP_104
+  - first:
+      213: 2922849965744168903
+    second: TILEMAP_105
+  - first:
+      213: -7949071084548948338
+    second: TILEMAP_106
+  - first:
+      213: 1200859679090371144
+    second: TILEMAP_107
+  - first:
+      213: 8675163342699731491
+    second: TILEMAP_108
+  - first:
+      213: 3474522334004552314
+    second: TILEMAP_109
+  - first:
+      213: -8422972380356444590
+    second: TILEMAP_110
+  - first:
+      213: -4728335413203815715
+    second: TILEMAP_111
+  - first:
+      213: -8438331121819140005
+    second: TILEMAP_112
+  - first:
+      213: -518919724671533888
+    second: TILEMAP_113
+  - first:
+      213: -7215124488594036413
+    second: TILEMAP_114
+  - first:
+      213: 9184964075319944212
+    second: TILEMAP_115
+  - first:
+      213: 1878122413401865058
+    second: TILEMAP_116
+  - first:
+      213: 8181428894617028390
+    second: TILEMAP_117
+  - first:
+      213: 4785764437123727169
+    second: TILEMAP_118
+  - first:
+      213: -8893721858662519621
+    second: TILEMAP_119
+  - first:
+      213: -7541874352271955828
+    second: TILEMAP_120
+  - first:
+      213: 9163685299795654133
+    second: TILEMAP_121
+  - first:
+      213: -3411319675625499046
+    second: TILEMAP_122
+  - first:
+      213: -487070603356817929
+    second: TILEMAP_123
+  - first:
+      213: 6268869721267099641
+    second: TILEMAP_124
+  - first:
+      213: -261517544684116830
+    second: TILEMAP_125
+  - first:
+      213: -2178681730929004959
+    second: TILEMAP_126
+  - first:
+      213: 2400836918290208664
+    second: TILEMAP_127
+  - first:
+      213: 8942052465614441147
+    second: TILEMAP_128
+  - first:
+      213: 8075949425482426209
+    second: TILEMAP_129
+  - first:
+      213: -119811508395715204
+    second: TILEMAP_130
+  - first:
+      213: -6507689342203279130
+    second: TILEMAP_131
+  - first:
+      213: -4428621035345362885
+    second: TILEMAP_132
+  - first:
+      213: 1264534619939406351
+    second: TILEMAP_133
+  - first:
+      213: 1635788841205472854
+    second: TILEMAP_134
+  - first:
+      213: -811665291718839394
+    second: TILEMAP_135
+  - first:
+      213: -1896798199558446688
+    second: TILEMAP_136
+  - first:
+      213: -2462434702788398905
+    second: TILEMAP_137
+  - first:
+      213: -8831529716340126332
+    second: TILEMAP_138
+  - first:
+      213: -4315168038559833138
+    second: TILEMAP_139
+  - first:
+      213: 7914326173567757818
+    second: TILEMAP_140
+  - first:
+      213: 478931136672798690
+    second: TILEMAP_141
+  - first:
+      213: -525692483126476609
+    second: TILEMAP_142
+  - first:
+      213: -3160318909961011491
+    second: TILEMAP_143
+  - first:
+      213: -4939893891944064224
+    second: TILEMAP_144
+  - first:
+      213: -8117743742534808655
+    second: TILEMAP_145
+  - first:
+      213: 2645595716759366883
+    second: TILEMAP_146
+  - first:
+      213: -8698393282925052208
+    second: TILEMAP_147
+  - first:
+      213: -5951805084801015975
+    second: TILEMAP_148
+  - first:
+      213: 6839523953359717968
+    second: TILEMAP_149
+  - first:
+      213: 413557941904207794
+    second: TILEMAP_150
+  - first:
+      213: -7435868518591890467
+    second: TILEMAP_151
+  - first:
+      213: -240159200395034937
+    second: TILEMAP_152
+  - first:
+      213: -818938440595889177
+    second: TILEMAP_153
+  - first:
+      213: -8784831831685927317
+    second: TILEMAP_154
+  - first:
+      213: 4486718076278164483
+    second: TILEMAP_155
+  - first:
+      213: 7757315455510139056
+    second: TILEMAP_156
+  - first:
+      213: -6492919454061818139
+    second: TILEMAP_157
+  - first:
+      213: -7980659282790616299
+    second: TILEMAP_158
+  - first:
+      213: 6242497301077290075
+    second: TILEMAP_159
+  - first:
+      213: -4842063857642341164
+    second: TILEMAP_160
+  - first:
+      213: 4450825150559136805
+    second: TILEMAP_161
+  - first:
+      213: -5573446193897484418
+    second: TILEMAP_162
+  - first:
+      213: 3848701988807423447
+    second: TILEMAP_163
+  - first:
+      213: 6137945545884627821
+    second: TILEMAP_164
+  - first:
+      213: 3269077075063474544
+    second: TILEMAP_165
+  - first:
+      213: 8334138812915358087
+    second: TILEMAP_166
+  - first:
+      213: -8214913023451745012
+    second: TILEMAP_167
+  - first:
+      213: 2571332015021102344
+    second: TILEMAP_168
+  - first:
+      213: 6777886999456129129
+    second: TILEMAP_169
+  - first:
+      213: -8401648733653149298
+    second: TILEMAP_170
+  - first:
+      213: 3306904476889684195
+    second: TILEMAP_171
+  - first:
+      213: 838461775406853802
+    second: TILEMAP_172
+  - first:
+      213: -5645209419994140979
+    second: TILEMAP_173
+  - first:
+      213: 3097738691668103037
+    second: TILEMAP_174
+  - first:
+      213: -4067862857426672598
+    second: TILEMAP_175
+  - first:
+      213: -1170583567305105420
+    second: TILEMAP_176
+  - first:
+      213: 3604041245078424020
+    second: TILEMAP_177
+  - first:
+      213: 2555000232966978952
+    second: TILEMAP_178
+  - first:
+      213: 823482797204698168
+    second: TILEMAP_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b40d6a0dc24f449b595cf8ff0f5637
+      internalID: -1698612484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a8061cad4f0b44b2d65011b677ab2
+      internalID: 83005922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfa8662a2dc0a409ed548f345567cc
+      internalID: -1518193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2019a5eb8ed6e41a5f6ca4300a43cc
+      internalID: 869260164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bcfd015af889d4399397f8c3bdaee3
+      internalID: 620389214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44d0ff648de284c8ec12a23ff1f550
+      internalID: -669174574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198e3b4f68a4cc4a99a0391209ad798
+      internalID: 1799294743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b608bed98b4f4b8d4441c0a338382
+      internalID: -513711649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27600b227bf42f4c9190bab95d12903
+      internalID: 1704871409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877419847455bb247ab8edad968be708
+      internalID: 100436493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327dc9491ce926744bd6657f5b88ac3e
+      internalID: 857008263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c36286dbbc364baef0e37ea8f6293
+      internalID: 639698149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea164c86c93a5204284fe86904c25001
+      internalID: 1367877120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd12153d9646139468f91249370224e9
+      internalID: 303404779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4f7617bff7d747b1a7c73bafb4bff
+      internalID: -471412398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed91f74756c77a40af342cb68f5064d
+      internalID: -1851906958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b26836c17c3b4da1e4a4b24529862
+      internalID: 752679815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4f7567113ae342882bdc95c308916
+      internalID: 1806692890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9f189ebe7303458fab79f3396cb29
+      internalID: -2093283408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8866c6cec2d7c7488516c4a859f74bf
+      internalID: 629938777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ff39e2f11c994f998cca9df593a1c
+      internalID: -199728706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bce64a632d06d4fb1abff1bd3981cf
+      internalID: 756390840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEXT_TILEMAP_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a1382fe5f5cf42bce708d8320deeb
+      internalID: -786962053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50b242d64aa3e4f44b04527a55133397
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TEXT_TILEMAP_0: 1343309427
+      TEXT_TILEMAP_1: -1344549810
+      TEXT_TILEMAP_10: -1154954624
+      TEXT_TILEMAP_11: -1505536374
+      TEXT_TILEMAP_12: -1924763871
+      TEXT_TILEMAP_13: -1615752692
+      TEXT_TILEMAP_14: 934627766
+      TEXT_TILEMAP_15: -1800921503
+      TEXT_TILEMAP_16: -1932313859
+      TEXT_TILEMAP_17: -1698612484
+      TEXT_TILEMAP_18: 83005922
+      TEXT_TILEMAP_19: -1518193159
+      TEXT_TILEMAP_2: -263001702
+      TEXT_TILEMAP_20: 869260164
+      TEXT_TILEMAP_21: 620389214
+      TEXT_TILEMAP_22: -669174574
+      TEXT_TILEMAP_23: 1799294743
+      TEXT_TILEMAP_24: -513711649
+      TEXT_TILEMAP_25: 1704871409
+      TEXT_TILEMAP_26: 100436493
+      TEXT_TILEMAP_27: 857008263
+      TEXT_TILEMAP_28: 639698149
+      TEXT_TILEMAP_29: 1367877120
+      TEXT_TILEMAP_3: -1196366086
+      TEXT_TILEMAP_30: 303404779
+      TEXT_TILEMAP_31: -471412398
+      TEXT_TILEMAP_32: -1851906958
+      TEXT_TILEMAP_33: 752679815
+      TEXT_TILEMAP_34: 1806692890
+      TEXT_TILEMAP_35: -2093283408
+      TEXT_TILEMAP_36: 629938777
+      TEXT_TILEMAP_37: -199728706
+      TEXT_TILEMAP_38: 756390840
+      TEXT_TILEMAP_39: -786962053
+      TEXT_TILEMAP_4: 309050476
+      TEXT_TILEMAP_5: -1195591672
+      TEXT_TILEMAP_6: 688953906
+      TEXT_TILEMAP_7: 1805286310
+      TEXT_TILEMAP_8: -1738545188
+      TEXT_TILEMAP_9: -2001344167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
