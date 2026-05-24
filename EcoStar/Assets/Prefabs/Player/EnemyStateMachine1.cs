@@ -3,7 +3,6 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class EnemyStateMachine : MonoBehaviour
 {
-#if false
     [Header("Referencias")]
     public Transform[] patrolPoints;
     public Transform player;
@@ -401,5 +400,4 @@ public class EnemyStateMachine : MonoBehaviour
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
     }
-#endif
 }
