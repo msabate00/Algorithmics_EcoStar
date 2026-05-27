@@ -1,0 +1,3107 @@
+fileFormatVersion: 2
+guid: 57ab66405ec243740929dde4335daa91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3501835624726338942
+    second: Flairs_0
+  - first:
+      213: -3334268231096168010
+    second: Flairs_1
+  - first:
+      213: 1548198180310780195
+    second: Flairs_2
+  - first:
+      213: -1857100621124359553
+    second: Flairs_3
+  - first:
+      213: 8808108619439868296
+    second: Flairs_4
+  - first:
+      213: -6550462252022022949
+    second: Flairs_5
+  - first:
+      213: -3843761669168404464
+    second: Flairs_6
+  - first:
+      213: 1491176025557218125
+    second: Flairs_7
+  - first:
+      213: 7940971400625352533
+    second: Flairs_8
+  - first:
+      213: 3840403331247180684
+    second: Flairs_9
+  - first:
+      213: 3609266186842724636
+    second: Flairs_10
+  - first:
+      213: 3314074750498411698
+    second: Flairs_11
+  - first:
+      213: -6616943181496919733
+    second: Flairs_12
+  - first:
+      213: -5990654101424918082
+    second: Flairs_13
+  - first:
+      213: 4122879677368736105
+    second: Flairs_14
+  - first:
+      213: -3391918950671137127
+    second: Flairs_15
+  - first:
+      213: 1673377107365289292
+    second: Flairs_16
+  - first:
+      213: 349389415230850614
+    second: Flairs_17
+  - first:
+      213: -4103073233506562802
+    second: Flairs_18
+  - first:
+      213: -6040246501877867567
+    second: Flairs_19
+  - first:
+      213: -3918402686391739779
+    second: Flairs_20
+  - first:
+      213: 6849868975280418581
+    second: Flairs_21
+  - first:
+      213: -4339024452960884935
+    second: Flairs_22
+  - first:
+      213: -314958582086177427
+    second: Flairs_23
+  - first:
+      213: 8836375077860016780
+    second: Flairs_24
+  - first:
+      213: 5441042090390687618
+    second: Flairs_25
+  - first:
+      213: 884828970097542580
+    second: Flairs_26
+  - first:
+      213: -1600090727059679006
+    second: Flairs_27
+  - first:
+      213: -6350169103185265406
+    second: Flairs_28
+  - first:
+      213: 1959838229149398949
+    second: Flairs_29
+  - first:
+      213: -5994234771381415349
+    second: Flairs_30
+  - first:
+      213: 1809345867249649905
+    second: Flairs_31
+  - first:
+      213: -6050382038562408228
+    second: Flairs_32
+  - first:
+      213: -1666807319305165474
+    second: Flairs_33
+  - first:
+      213: 5481991922183323569
+    second: Flairs_34
+  - first:
+      213: -3648335736266434740
+    second: Flairs_35
+  - first:
+      213: 7607472327379552716
+    second: Flairs_36
+  - first:
+      213: -948693501041064779
+    second: Flairs_37
+  - first:
+      213: -9145735531465203352
+    second: Flairs_38
+  - first:
+      213: -2383594325733139470
+    second: Flairs_39
+  - first:
+      213: -8318468661646299933
+    second: Flairs_40
+  - first:
+      213: -3144764705239189235
+    second: Flairs_41
+  - first:
+      213: -5247823047099687554
+    second: Flairs_42
+  - first:
+      213: 355440126744438552
+    second: Flairs_43
+  - first:
+      213: 1650876871047782299
+    second: Flairs_44
+  - first:
+      213: -6158054010739824400
+    second: Flairs_45
+  - first:
+      213: 1865003899936002125
+    second: Flairs_46
+  - first:
+      213: 5063062917939305140
+    second: Flairs_47
+  - first:
+      213: -1629116819303720883
+    second: Flairs_48
+  - first:
+      213: 2567005919793691402
+    second: Flairs_49
+  - first:
+      213: 4753286716020288542
+    second: Flairs_50
+  - first:
+      213: 6788094382504986708
+    second: Flairs_51
+  - first:
+      213: -1013145351264679401
+    second: Flairs_52
+  - first:
+      213: 2334134482478099541
+    second: Flairs_53
+  - first:
+      213: -7019328125885508052
+    second: Flairs_54
+  - first:
+      213: 336197025115541506
+    second: Flairs_55
+  - first:
+      213: -2614283401463597026
+    second: Flairs_56
+  - first:
+      213: 6341502669098124198
+    second: Flairs_57
+  - first:
+      213: -7070962047988293339
+    second: Flairs_58
+  - first:
+      213: 1616188130298510629
+    second: Flairs_59
+  - first:
+      213: 3491963295928968929
+    second: Flairs_60
+  - first:
+      213: 5921434323278689963
+    second: Flairs_61
+  - first:
+      213: -5227819738325734682
+    second: Flairs_62
+  - first:
+      213: 9088980938961190411
+    second: Flairs_63
+  - first:
+      213: -6520567216589258436
+    second: Flairs_64
+  - first:
+      213: -2541039165764341180
+    second: Flairs_65
+  - first:
+      213: -4173245798180276059
+    second: Flairs_66
+  - first:
+      213: -8945667504058544269
+    second: Flairs_67
+  - first:
+      213: 2589255975539037314
+    second: Flairs_68
+  - first:
+      213: 4446969980408375236
+    second: Flairs_69
+  - first:
+      213: 8407534982689699816
+    second: Flairs_70
+  - first:
+      213: -7918435344728527087
+    second: Flairs_71
+  - first:
+      213: 6221562937339612888
+    second: Flairs_72
+  - first:
+      213: -2179612974867987810
+    second: Flairs_73
+  - first:
+      213: 4524115934795658352
+    second: Flairs_74
+  - first:
+      213: 6249394016031620746
+    second: Flairs_75
+  - first:
+      213: 2569303357964625914
+    second: Flairs_76
+  - first:
+      213: 8828301954883104253
+    second: Flairs_77
+  - first:
+      213: -2168736277733490151
+    second: Flairs_78
+  - first:
+      213: -4493480259895758623
+    second: Flairs_79
+  - first:
+      213: 3479587916206699380
+    second: Flairs_80
+  - first:
+      213: -2369386220335046866
+    second: Flairs_81
+  - first:
+      213: -304124500193965021
+    second: Flairs_82
+  - first:
+      213: -8712691963871971353
+    second: Flairs_83
+  - first:
+      213: 1266565663810606886
+    second: Flairs_84
+  - first:
+      213: -199962208905939612
+    second: Flairs_85
+  - first:
+      213: 6728211457430882411
+    second: Flairs_86
+  - first:
+      213: -6368991590477027972
+    second: Flairs_87
+  - first:
+      213: -4295889346612360479
+    second: Flairs_88
+  - first:
+      213: -1641925649484456111
+    second: Flairs_89
+  - first:
+      213: -8036657689161286230
+    second: Flairs_90
+  - first:
+      213: -6587250596807066783
+    second: Flairs_91
+  - first:
+      213: 228109976899747840
+    second: Flairs_92
+  - first:
+      213: -4827751786196107728
+    second: Flairs_93
+  - first:
+      213: -1566984273603442615
+    second: Flairs_94
+  - first:
+      213: 6083734657109033309
+    second: Flairs_95
+  - first:
+      213: 4926234218526702643
+    second: Flairs_96
+  - first:
+      213: 8204973398875913152
+    second: Flairs_97
+  - first:
+      213: 153856520759540429
+    second: Flairs_98
+  - first:
+      213: 836214362732598262
+    second: Flairs_99
+  - first:
+      213: 6466857471217155025
+    second: Flairs_100
+  - first:
+      213: 1424533640903820891
+    second: Flairs_101
+  - first:
+      213: -2622821432041277492
+    second: Flairs_102
+  - first:
+      213: -5693397482042400665
+    second: Flairs_103
+  - first:
+      213: 6563732500195867908
+    second: Flairs_104
+  - first:
+      213: -7688810540212290458
+    second: Flairs_105
+  - first:
+      213: -1033315160880771909
+    second: Flairs_106
+  - first:
+      213: 5698136469668955221
+    second: Flairs_107
+  - first:
+      213: 6195601312409232064
+    second: Flairs_108
+  - first:
+      213: -2408582338275477237
+    second: Flairs_109
+  - first:
+      213: -4435435475261553093
+    second: Flairs_110
+  - first:
+      213: 4838601084273139841
+    second: Flairs_111
+  - first:
+      213: -8663577161428861248
+    second: Flairs_112
+  - first:
+      213: -761345445460203435
+    second: Flairs_113
+  - first:
+      213: 8026518034208936106
+    second: Flairs_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flairs_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1161
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e0668d0bf66fc0800000000000000
+      internalID: -3501835624726338942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1171
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b194a3a5bc4ab1d0800000000000000
+      internalID: -3334268231096168010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1165
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298453da0e4c7510800000000000000
+      internalID: 1548198180310780195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1151
+        width: 897
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa9bd03d04a36e0800000000000000
+      internalID: -1857100621124359553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1039
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88905cc3f10bc3a70800000000000000
+      internalID: 8808108619439868296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1039
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc3f91a9451815a0800000000000000
+      internalID: -6550462252022022949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1067
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01864f3802738aac0800000000000000
+      internalID: -3843761669168404464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43bae4d1b8b1b410800000000000000
+      internalID: 1491176025557218125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f6fc17a6ff33e60800000000000000
+      internalID: 7940971400625352533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b07318b7adb4530800000000000000
+      internalID: 3840403331247180684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d6966970b61230800000000000000
+      internalID: 3609266186842724636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b49c864d65fdfd20800000000000000
+      internalID: 3314074750498411698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_12
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1033
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49dee70c35eb24a0800000000000000
+      internalID: -6616943181496919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_13
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1039
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b458a5dbecdca0800000000000000
+      internalID: -5990654101424918082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 911
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9699d3df839673930800000000000000
+      internalID: 4122879677368736105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 911
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996c45e7fab7de0d0800000000000000
+      internalID: -3391918950671137127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d57cbfc97093710800000000000000
+      internalID: 1673377107365289292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636cd1f62d749d400800000000000000
+      internalID: 349389415230850614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_18
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d8d6512a4fe07c0800000000000000
+      internalID: -4103073233506562802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db16c32fcbbc2ca0800000000000000
+      internalID: -6040246501877867567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1fae64890f99c0800000000000000
+      internalID: -3918402686391739779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fee857a8f9f0f50800000000000000
+      internalID: 6849868975280418581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_22
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 911
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9376889cf30b8c3c0800000000000000
+      internalID: -4339024452960884935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_23
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 911
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6deacb96da01abf0800000000000000
+      internalID: -314958582086177427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 777
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8206f1f05c11aa70800000000000000
+      internalID: 8836375077860016780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 777
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f8fad04f6728b40800000000000000
+      internalID: 5441042090390687618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 783
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b583a1a24b874c00800000000000000
+      internalID: 884828970097542580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 783
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8163d16f55bc9e0800000000000000
+      internalID: -1600090727059679006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_28
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 783
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d3bf468daafd7a0800000000000000
+      internalID: -6350169103185265406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 783
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73ea95c7eb23b10800000000000000
+      internalID: 1959838229149398949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_30
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 783
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b421487fb3330dca0800000000000000
+      internalID: -5994234771381415349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 783
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f88c3dda761c1910800000000000000
+      internalID: 1809345867249649905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_32
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 783
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8751c9799b80ca0800000000000000
+      internalID: -6050382038562408228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_33
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 783
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e556bcff29f4ed8e0800000000000000
+      internalID: -1666807319305165474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf3c4fbb92f31c40800000000000000
+      internalID: 5481991922183323569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d9724af18e5dc0800000000000000
+      internalID: -3648335736266434740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9821096cb239960800000000000000
+      internalID: 7607472327379552716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 728
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c9b5894095d2f0800000000000000
+      internalID: -948693501041064779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 734
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86129558df1d31180800000000000000
+      internalID: -9145735531465203352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1a0ee695cbeed0800000000000000
+      internalID: -2383594325733139470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6a5b43dcde8c80800000000000000
+      internalID: -8318468661646299933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_41
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 649
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09380a892d8b54d0800000000000000
+      internalID: -3144764705239189235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_42
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dd3892ebcfb27b0800000000000000
+      internalID: -5247823047099687554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 679
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817a58d79e6cee400800000000000000
+      internalID: 355440126744438552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 679
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f16ba74c719e610800000000000000
+      internalID: 1650876871047782299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_45
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 687
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8ee2601823a8aa0800000000000000
+      internalID: -6158054010739824400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_46
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 655
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4057607a23d1e910800000000000000
+      internalID: 1865003899936002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_47
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 655
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba993b06ec934640800000000000000
+      internalID: 5063062917939305140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4899cf52e63469e0800000000000000
+      internalID: -1629116819303720883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb0a19846df9320800000000000000
+      internalID: 2567005919793691402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce8ff851117f140800000000000000
+      internalID: 4753286716020288542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c80340e7243e50800000000000000
+      internalID: 6788094382504986708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac700cba590f1f0800000000000000
+      internalID: -1013145351264679401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce81ee1f2846020800000000000000
+      internalID: 2334134482478099541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_54
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269fae6246569e90800000000000000
+      internalID: -7019328125885508052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2001e80c9696aa400800000000000000
+      internalID: 336197025115541506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ff81f81338bbd0800000000000000
+      internalID: -2614283401463597026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_57
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a309cd241b810850800000000000000
+      internalID: 6341502669098124198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 479
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a36d1b75eedd90800000000000000
+      internalID: -7070962047988293339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 479
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d35a4aa8add6610800000000000000
+      internalID: 1616188130298510629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e66c8ecd12f57030800000000000000
+      internalID: 3491963295928968929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_61
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f4d7d4292d2250800000000000000
+      internalID: 5921434323278689963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_62
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa15b65ad0377b0800000000000000
+      internalID: -5227819738325734682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_63
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ef31d220c822e70800000000000000
+      internalID: 9088980938961190411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_64
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c329f9aa4285a0800000000000000
+      internalID: -6520567216589258436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f24c775a6cbcd0800000000000000
+      internalID: -2541039165764341180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 425
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b21fae07a516c0800000000000000
+      internalID: -4173245798180276059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 425
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc5dd1dca9ad380800000000000000
+      internalID: -8945667504058544269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_68
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 383
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284df8e5792eee320800000000000000
+      internalID: 2589255975539037314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_69
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 351
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c72119d2afc6bd30800000000000000
+      internalID: 4446969980408375236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b3ef85809da470800000000000000
+      internalID: 8407534982689699816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_71
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 271
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fee84f1011c1290800000000000000
+      internalID: -7918435344728527087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 299
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0ddb378e675650800000000000000
+      internalID: 6221562937339612888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_73
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 299
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9249252c8570c1e0800000000000000
+      internalID: -2179612974867987810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_74
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 297
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074fd201973e8ce30800000000000000
+      internalID: 4524115934795658352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_75
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 297
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e34033fbe4ab650800000000000000
+      internalID: 6249394016031620746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_76
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af723b39acff7a320800000000000000
+      internalID: 2569303357964625914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_77
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda1b68add648a70800000000000000
+      internalID: 8828301954883104253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_78
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912413a88d917e1e0800000000000000
+      internalID: -2168736277733490151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_79
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 341
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0fea7d283f3a1c0800000000000000
+      internalID: -4493480259895758623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 257
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fd3e26caf94030800000000000000
+      internalID: 3479587916206699380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_81
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 255
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f593149cf3e1fd0800000000000000
+      internalID: -2369386220335046866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_82
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c027ed06887cbf0800000000000000
+      internalID: -304124500193965021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_83
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7b20812dc461780800000000000000
+      internalID: -8712691963871971353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_84
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627532cb2ceb39110800000000000000
+      internalID: 1266565663810606886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_85
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 261
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465b8a13e67993df0800000000000000
+      internalID: -199962208905939612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_86
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 255
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6881e54ca86f5d50800000000000000
+      internalID: 6728211457430882411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 203
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75aa2094ebcc97a0800000000000000
+      internalID: -6368991590477027972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 203
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea09cc566fe164c0800000000000000
+      internalID: -4295889346612360479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 202
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f50e23255b639e0800000000000000
+      internalID: -1641925649484456111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_90
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 161
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad3128696e087090800000000000000
+      internalID: -8036657689161286230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_91
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 129
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb5d2ab726594a0800000000000000
+      internalID: -6587250596807066783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_92
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 143
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00005deb0d86a2300800000000000000
+      internalID: 228109976899747840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_93
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 161
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef5083451600db0800000000000000
+      internalID: -4827751786196107728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_94
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 191
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9484e3bfa14f04ae0800000000000000
+      internalID: -1566984273603442615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_95
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 161
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5187b80074cd6450800000000000000
+      internalID: 6083734657109033309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_96
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c78a3ebef7d5440800000000000000
+      internalID: 4926234218526702643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb378f95dbedd170800000000000000
+      internalID: 8204973398875913152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaff32c0bb922200800000000000000
+      internalID: 153856520759540429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_99
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f391ce4884da9b00800000000000000
+      internalID: 836214362732598262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_100
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 90
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbbaf07b94eeb950800000000000000
+      internalID: 6466857471217155025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 83
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b568aa48cc5f4c310800000000000000
+      internalID: 1424533640903820891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_102
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 83
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7f5e9cdcdd99bd0800000000000000
+      internalID: -2622821432041277492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 33
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76062cda72dfcf0b0800000000000000
+      internalID: -5693397482042400665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_104
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 33
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7cdaceef071b50800000000000000
+      internalID: 6563732500195867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_105
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cfd5dfc8bdb4590800000000000000
+      internalID: -7688810540212290458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc0daef55de8a1f0800000000000000
+      internalID: -1033315160880771909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 21
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554015cdde8d31f40800000000000000
+      internalID: 5698136469668955221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 19
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a81461923bf550800000000000000
+      internalID: 6195601312409232064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 19
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b097fc2ef1ff29ed0800000000000000
+      internalID: -2408582338275477237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_110
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 21
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b368ed86fea2272c0800000000000000
+      internalID: -4435435475261553093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_111
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180abe5dc0a262340800000000000000
+      internalID: 4838601084273139841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_112
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce78d8297ac4c780800000000000000
+      internalID: -8663577161428861248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_113
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558abf3e9582f65f0800000000000000
+      internalID: -761345445460203435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flairs_114
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 15
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05a4430abe36f60800000000000000
+      internalID: 8026518034208936106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flairs_0: -3501835624726338942
+      Flairs_1: -3334268231096168010
+      Flairs_10: 3609266186842724636
+      Flairs_100: 6466857471217155025
+      Flairs_101: 1424533640903820891
+      Flairs_102: -2622821432041277492
+      Flairs_103: -5693397482042400665
+      Flairs_104: 6563732500195867908
+      Flairs_105: -7688810540212290458
+      Flairs_106: -1033315160880771909
+      Flairs_107: 5698136469668955221
+      Flairs_108: 6195601312409232064
+      Flairs_109: -2408582338275477237
+      Flairs_11: 3314074750498411698
+      Flairs_110: -4435435475261553093
+      Flairs_111: 4838601084273139841
+      Flairs_112: -8663577161428861248
+      Flairs_113: -761345445460203435
+      Flairs_114: 8026518034208936106
+      Flairs_12: -6616943181496919733
+      Flairs_13: -5990654101424918082
+      Flairs_14: 4122879677368736105
+      Flairs_15: -3391918950671137127
+      Flairs_16: 1673377107365289292
+      Flairs_17: 349389415230850614
+      Flairs_18: -4103073233506562802
+      Flairs_19: -6040246501877867567
+      Flairs_2: 1548198180310780195
+      Flairs_20: -3918402686391739779
+      Flairs_21: 6849868975280418581
+      Flairs_22: -4339024452960884935
+      Flairs_23: -314958582086177427
+      Flairs_24: 8836375077860016780
+      Flairs_25: 5441042090390687618
+      Flairs_26: 884828970097542580
+      Flairs_27: -1600090727059679006
+      Flairs_28: -6350169103185265406
+      Flairs_29: 1959838229149398949
+      Flairs_3: -1857100621124359553
+      Flairs_30: -5994234771381415349
+      Flairs_31: 1809345867249649905
+      Flairs_32: -6050382038562408228
+      Flairs_33: -1666807319305165474
+      Flairs_34: 5481991922183323569
+      Flairs_35: -3648335736266434740
+      Flairs_36: 7607472327379552716
+      Flairs_37: -948693501041064779
+      Flairs_38: -9145735531465203352
+      Flairs_39: -2383594325733139470
+      Flairs_4: 8808108619439868296
+      Flairs_40: -8318468661646299933
+      Flairs_41: -3144764705239189235
+      Flairs_42: -5247823047099687554
+      Flairs_43: 355440126744438552
+      Flairs_44: 1650876871047782299
+      Flairs_45: -6158054010739824400
+      Flairs_46: 1865003899936002125
+      Flairs_47: 5063062917939305140
+      Flairs_48: -1629116819303720883
+      Flairs_49: 2567005919793691402
+      Flairs_5: -6550462252022022949
+      Flairs_50: 4753286716020288542
+      Flairs_51: 6788094382504986708
+      Flairs_52: -1013145351264679401
+      Flairs_53: 2334134482478099541
+      Flairs_54: -7019328125885508052
+      Flairs_55: 336197025115541506
+      Flairs_56: -2614283401463597026
+      Flairs_57: 6341502669098124198
+      Flairs_58: -7070962047988293339
+      Flairs_59: 1616188130298510629
+      Flairs_6: -3843761669168404464
+      Flairs_60: 3491963295928968929
+      Flairs_61: 5921434323278689963
+      Flairs_62: -5227819738325734682
+      Flairs_63: 9088980938961190411
+      Flairs_64: -6520567216589258436
+      Flairs_65: -2541039165764341180
+      Flairs_66: -4173245798180276059
+      Flairs_67: -8945667504058544269
+      Flairs_68: 2589255975539037314
+      Flairs_69: 4446969980408375236
+      Flairs_7: 1491176025557218125
+      Flairs_70: 8407534982689699816
+      Flairs_71: -7918435344728527087
+      Flairs_72: 6221562937339612888
+      Flairs_73: -2179612974867987810
+      Flairs_74: 4524115934795658352
+      Flairs_75: 6249394016031620746
+      Flairs_76: 2569303357964625914
+      Flairs_77: 8828301954883104253
+      Flairs_78: -2168736277733490151
+      Flairs_79: -4493480259895758623
+      Flairs_8: 7940971400625352533
+      Flairs_80: 3479587916206699380
+      Flairs_81: -2369386220335046866
+      Flairs_82: -304124500193965021
+      Flairs_83: -8712691963871971353
+      Flairs_84: 1266565663810606886
+      Flairs_85: -199962208905939612
+      Flairs_86: 6728211457430882411
+      Flairs_87: -6368991590477027972
+      Flairs_88: -4295889346612360479
+      Flairs_89: -1641925649484456111
+      Flairs_9: 3840403331247180684
+      Flairs_90: -8036657689161286230
+      Flairs_91: -6587250596807066783
+      Flairs_92: 228109976899747840
+      Flairs_93: -4827751786196107728
+      Flairs_94: -1566984273603442615
+      Flairs_95: 6083734657109033309
+      Flairs_96: 4926234218526702643
+      Flairs_97: 8204973398875913152
+      Flairs_98: 153856520759540429
+      Flairs_99: 836214362732598262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

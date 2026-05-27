@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 705dd3751d3c78d479103f6d9c4f0860
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4825608499726953727
+    second: MetaQuest_0
+  - first:
+      213: 8862036021887714762
+    second: MetaQuest_1
+  - first:
+      213: -3681386359403126160
+    second: MetaQuest_2
+  - first:
+      213: 154952046939816291
+    second: MetaQuest_3
+  - first:
+      213: 5347949015221584699
+    second: MetaQuest_4
+  - first:
+      213: -1079901351811051124
+    second: MetaQuest_5
+  - first:
+      213: -7935438179666127446
+    second: MetaQuest_6
+  - first:
+      213: 1039046199439387748
+    second: MetaQuest_7
+  - first:
+      213: 2278264719966784714
+    second: MetaQuest_8
+  - first:
+      213: -401518703116587383
+    second: MetaQuest_9
+  - first:
+      213: -6489186452217664410
+    second: MetaQuest_10
+  - first:
+      213: 5101821027300850591
+    second: MetaQuest_11
+  - first:
+      213: -512596898098550509
+    second: MetaQuest_12
+  - first:
+      213: -7353865288540596823
+    second: MetaQuest_13
+  - first:
+      213: 4961931790941612123
+    second: MetaQuest_14
+  - first:
+      213: 7461259748846465938
+    second: MetaQuest_15
+  - first:
+      213: 5942892012953789842
+    second: MetaQuest_16
+  - first:
+      213: 4743042950148303795
+    second: MetaQuest_17
+  - first:
+      213: 862167384844138863
+    second: MetaQuest_18
+  - first:
+      213: 1968717483147513863
+    second: MetaQuest_19
+  - first:
+      213: 4878018890782866658
+    second: MetaQuest_20
+  - first:
+      213: 1054043422425266179
+    second: MetaQuest_21
+  - first:
+      213: 4202296422764720522
+    second: MetaQuest_22
+  - first:
+      213: 4243084906449554524
+    second: MetaQuest_23
+  - first:
+      213: -2096941543835665843
+    second: MetaQuest_24
+  - first:
+      213: -68649517535599296
+    second: MetaQuest_25
+  - first:
+      213: -1020481146548779856
+    second: MetaQuest_26
+  - first:
+      213: 2210595100539261214
+    second: MetaQuest_27
+  - first:
+      213: 6584299987689900592
+    second: MetaQuest_28
+  - first:
+      213: 2525379801693996914
+    second: MetaQuest_29
+  - first:
+      213: -9020266935071158851
+    second: MetaQuest_30
+  - first:
+      213: -6004097144071353278
+    second: MetaQuest_31
+  - first:
+      213: 5065406170789211444
+    second: MetaQuest_32
+  - first:
+      213: -1784384408793974449
+    second: MetaQuest_33
+  - first:
+      213: 575046867833264525
+    second: MetaQuest_34
+  - first:
+      213: 4822980557728171083
+    second: MetaQuest_35
+  - first:
+      213: -1388771062441900478
+    second: MetaQuest_36
+  - first:
+      213: -1975844987520366885
+    second: MetaQuest_37
+  - first:
+      213: 7259104883982393446
+    second: MetaQuest_38
+  - first:
+      213: -6807549953737142382
+    second: MetaQuest_39
+  - first:
+      213: -1779198883713684822
+    second: MetaQuest_40
+  - first:
+      213: 4912479338994813522
+    second: MetaQuest_41
+  - first:
+      213: 5199307461749655549
+    second: MetaQuest_42
+  - first:
+      213: -1590345008651629826
+    second: MetaQuest_43
+  - first:
+      213: 6059022709717705406
+    second: MetaQuest_44
+  - first:
+      213: 1827310376932173533
+    second: MetaQuest_45
+  - first:
+      213: -114778941611959363
+    second: MetaQuest_46
+  - first:
+      213: -9079938742174072878
+    second: MetaQuest_47
+  - first:
+      213: 3433283084780249746
+    second: MetaQuest_48
+  - first:
+      213: 6749207049393003597
+    second: MetaQuest_49
+  - first:
+      213: -2767535810739417512
+    second: MetaQuest_50
+  - first:
+      213: -7044933436365219618
+    second: MetaQuest_51
+  - first:
+      213: 8946787532634544977
+    second: MetaQuest_52
+  - first:
+      213: 3634328328705623477
+    second: MetaQuest_53
+  - first:
+      213: 5001165270641456411
+    second: MetaQuest_54
+  - first:
+      213: 6483286858414138644
+    second: MetaQuest_55
+  - first:
+      213: -2884549849745516902
+    second: MetaQuest_56
+  - first:
+      213: -2628194971424707992
+    second: MetaQuest_57
+  - first:
+      213: -3505556112415362321
+    second: MetaQuest_58
+  - first:
+      213: -1657717349179492797
+    second: MetaQuest_59
+  - first:
+      213: -6707262180734210756
+    second: MetaQuest_60
+  - first:
+      213: -8419087009579435840
+    second: MetaQuest_61
+  - first:
+      213: -7154875291752038205
+    second: MetaQuest_62
+  - first:
+      213: -2293332874590787185
+    second: MetaQuest_63
+  - first:
+      213: -1516822583211423864
+    second: MetaQuest_64
+  - first:
+      213: 5788810507600939097
+    second: MetaQuest_65
+  - first:
+      213: -2510062261099236280
+    second: MetaQuest_66
+  - first:
+      213: 4476459996027750580
+    second: MetaQuest_67
+  - first:
+      213: -5154734488544264583
+    second: MetaQuest_68
+  - first:
+      213: 5126049132735673242
+    second: MetaQuest_69
+  - first:
+      213: -1949254359176293493
+    second: MetaQuest_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetaQuest_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 799
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1035bacf2aef70db0800000000000000
+      internalID: -4825608499726953727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 799
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5455f0fc64cfa70800000000000000
+      internalID: 8862036021887714762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 767
+        width: 769
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072eec66c9619ecc0800000000000000
+      internalID: -3681386359403126160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3614113d010862200800000000000000
+      internalID: 154952046939816291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ce217b4bb73a40800000000000000
+      internalID: 5347949015221584699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8196dc217b6301f0800000000000000
+      internalID: -1079901351811051124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa59de3f409afd190800000000000000
+      internalID: -7935438179666127446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 731
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cedc6630f6b6e00800000000000000
+      internalID: 1039046199439387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 731
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acccce921b50e9f10800000000000000
+      internalID: 2278264719966784714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e6f0aedd48d6af0800000000000000
+      internalID: -401518703116587383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce94a8d47c1f5a0800000000000000
+      internalID: -6489186452217664410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb2e7913f4dc640800000000000000
+      internalID: 5101821027300850591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196ed746d3e2e8f0800000000000000
+      internalID: -512596898098550509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_13
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a556768b72d1f990800000000000000
+      internalID: -7353865288540596823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_14
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58eac6aca25cd440800000000000000
+      internalID: 4961931790941612123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f9eac538bb8760800000000000000
+      internalID: 7461259748846465938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295ed9a8cc4697250800000000000000
+      internalID: 5942892012953789842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bba206fe6ca2d140800000000000000
+      internalID: 4743042950148303795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69ff862ba807fb00800000000000000
+      internalID: 862167384844138863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700db16ce1a425b10800000000000000
+      internalID: 1968717483147513863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf1c8165432b340800000000000000
+      internalID: 4878018890782866658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 602
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308be7b78e6b0ae00800000000000000
+      internalID: 1054043422425266179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 527
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8139cfe45e815a30800000000000000
+      internalID: 4202296422764720522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c4fb8dd3772ea30800000000000000
+      internalID: 4243084906449554524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 611
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a7ae4a6ca26e2e0800000000000000
+      internalID: -2096941543835665843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045e945a0ab1c0ff0800000000000000
+      internalID: -68649517535599296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40affcdc586d1f0800000000000000
+      internalID: -1020481146548779856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 527
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e119cdd188c9dae10800000000000000
+      internalID: 2210595100539261214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 565
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8dd424f1206b50800000000000000
+      internalID: 6584299987689900592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cae2bc83fb0320800000000000000
+      internalID: 2525379801693996914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc1e3930391d280800000000000000
+      internalID: -9020266935071158851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_31
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c80b265792daca0800000000000000
+      internalID: -6004097144071353278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 399
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d66fc1310fb4640800000000000000
+      internalID: 5065406170789211444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 399
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f61395d79c37e0800000000000000
+      internalID: -1784384408793974449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_34
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89176e541afaf700800000000000000
+      internalID: 575046867833264525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44c006934baee240800000000000000
+      internalID: 4822980557728171083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 474
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460fc4a3181abce0800000000000000
+      internalID: -1388771062441900478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_37
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 437
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6cc9bc3736494e0800000000000000
+      internalID: -1975844987520366885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 399
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e21d7e658db460800000000000000
+      internalID: 7259104883982393446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_39
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f45c09269b681a0800000000000000
+      internalID: -6807549953737142382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_40
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 483
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6977ba040f47e0800000000000000
+      internalID: -1779198883713684822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_41
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4b3f6ee1ac2440800000000000000
+      internalID: 4912479338994813522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 443
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df740afd696a72840800000000000000
+      internalID: 5199307461749655549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 399
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa010104a5fde9e0800000000000000
+      internalID: -1590345008651629826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_44
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 443
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2afba6d09f51450800000000000000
+      internalID: 6059022709717705406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_45
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 443
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd66d673b19eb5910800000000000000
+      internalID: 1827310376932173533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_46
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 443
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb16852929386ef0800000000000000
+      internalID: -114778941611959363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df386252d39df180800000000000000
+      internalID: -9079938742174072878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2922fa976c875af20800000000000000
+      internalID: 3433283084780249746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd1a67d000aad50800000000000000
+      internalID: 6749207049393003597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_50
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e44b9d7dcb799d0800000000000000
+      internalID: -2767535810739417512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_51
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8dd238d5e5b3e90800000000000000
+      internalID: -7044933436365219618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_52
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b539bdbdf592c70800000000000000
+      internalID: 8946787532634544977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_53
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 271
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b543a50c5abf6230800000000000000
+      internalID: 3634328328705623477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_54
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 271
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15ba9bf055b76540800000000000000
+      internalID: 5001165270641456411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415abbc3c0349f950800000000000000
+      internalID: 6483286858414138644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961305d13508f7d0800000000000000
+      internalID: -2884549849745516902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a23c72996c68bd0800000000000000
+      internalID: -2628194971424707992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2784bf943c95fc0800000000000000
+      internalID: -3505556112415362321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34677289ada9ef8e0800000000000000
+      internalID: -1657717349179492797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_60
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3deced45940be2a0800000000000000
+      internalID: -6707262180734210756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_61
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c879e498f4692b80800000000000000
+      internalID: -8419087009579435840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_62
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c086ee84d6c4bc90800000000000000
+      internalID: -7154875291752038205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f896a42b6e17c20e0800000000000000
+      internalID: -2293332874590787185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878464a5e923fae0800000000000000
+      internalID: -1516822583211423864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 15
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584a997c7cf55050800000000000000
+      internalID: 5788810507600939097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844f0132ca77a2dd0800000000000000
+      internalID: -2510062261099236280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_67
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80b7a26a49f1e30800000000000000
+      internalID: 4476459996027750580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_68
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e3dda2b44b678b0800000000000000
+      internalID: -5154734488544264583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_69
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b8e9f682632740800000000000000
+      internalID: 5126049132735673242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaQuest_70
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835a68ec7bd2f4e0800000000000000
+      internalID: -1949254359176293493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetaQuest_0: -4825608499726953727
+      MetaQuest_1: 8862036021887714762
+      MetaQuest_10: -6489186452217664410
+      MetaQuest_11: 5101821027300850591
+      MetaQuest_12: -512596898098550509
+      MetaQuest_13: -7353865288540596823
+      MetaQuest_14: 4961931790941612123
+      MetaQuest_15: 7461259748846465938
+      MetaQuest_16: 5942892012953789842
+      MetaQuest_17: 4743042950148303795
+      MetaQuest_18: 862167384844138863
+      MetaQuest_19: 1968717483147513863
+      MetaQuest_2: -3681386359403126160
+      MetaQuest_20: 4878018890782866658
+      MetaQuest_21: 1054043422425266179
+      MetaQuest_22: 4202296422764720522
+      MetaQuest_23: 4243084906449554524
+      MetaQuest_24: -2096941543835665843
+      MetaQuest_25: -68649517535599296
+      MetaQuest_26: -1020481146548779856
+      MetaQuest_27: 2210595100539261214
+      MetaQuest_28: 6584299987689900592
+      MetaQuest_29: 2525379801693996914
+      MetaQuest_3: 154952046939816291
+      MetaQuest_30: -9020266935071158851
+      MetaQuest_31: -6004097144071353278
+      MetaQuest_32: 5065406170789211444
+      MetaQuest_33: -1784384408793974449
+      MetaQuest_34: 575046867833264525
+      MetaQuest_35: 4822980557728171083
+      MetaQuest_36: -1388771062441900478
+      MetaQuest_37: -1975844987520366885
+      MetaQuest_38: 7259104883982393446
+      MetaQuest_39: -6807549953737142382
+      MetaQuest_4: 5347949015221584699
+      MetaQuest_40: -1779198883713684822
+      MetaQuest_41: 4912479338994813522
+      MetaQuest_42: 5199307461749655549
+      MetaQuest_43: -1590345008651629826
+      MetaQuest_44: 6059022709717705406
+      MetaQuest_45: 1827310376932173533
+      MetaQuest_46: -114778941611959363
+      MetaQuest_47: -9079938742174072878
+      MetaQuest_48: 3433283084780249746
+      MetaQuest_49: 6749207049393003597
+      MetaQuest_5: -1079901351811051124
+      MetaQuest_50: -2767535810739417512
+      MetaQuest_51: -7044933436365219618
+      MetaQuest_52: 8946787532634544977
+      MetaQuest_53: 3634328328705623477
+      MetaQuest_54: 5001165270641456411
+      MetaQuest_55: 6483286858414138644
+      MetaQuest_56: -2884549849745516902
+      MetaQuest_57: -2628194971424707992
+      MetaQuest_58: -3505556112415362321
+      MetaQuest_59: -1657717349179492797
+      MetaQuest_6: -7935438179666127446
+      MetaQuest_60: -6707262180734210756
+      MetaQuest_61: -8419087009579435840
+      MetaQuest_62: -7154875291752038205
+      MetaQuest_63: -2293332874590787185
+      MetaQuest_64: -1516822583211423864
+      MetaQuest_65: 5788810507600939097
+      MetaQuest_66: -2510062261099236280
+      MetaQuest_67: 4476459996027750580
+      MetaQuest_68: -5154734488544264583
+      MetaQuest_69: 5126049132735673242
+      MetaQuest_7: 1039046199439387748
+      MetaQuest_70: -1949254359176293493
+      MetaQuest_8: 2278264719966784714
+      MetaQuest_9: -401518703116587383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

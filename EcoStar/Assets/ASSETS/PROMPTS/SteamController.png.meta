@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: 3f65c2d83b966944aa279b3e7933bcaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3302300532486412955
+    second: SteamController_0
+  - first:
+      213: 6359235871339619549
+    second: SteamController_1
+  - first:
+      213: -6268579964859729457
+    second: SteamController_2
+  - first:
+      213: -8705519811505555213
+    second: SteamController_3
+  - first:
+      213: -3308189650124969148
+    second: SteamController_4
+  - first:
+      213: -4285320646025901054
+    second: SteamController_5
+  - first:
+      213: -7175195902072784174
+    second: SteamController_6
+  - first:
+      213: -4373143725299722092
+    second: SteamController_7
+  - first:
+      213: -6103794629811287656
+    second: SteamController_8
+  - first:
+      213: 7396493937204441709
+    second: SteamController_9
+  - first:
+      213: -2149537025401598204
+    second: SteamController_10
+  - first:
+      213: -8023841517649381660
+    second: SteamController_11
+  - first:
+      213: 4358276951140662947
+    second: SteamController_12
+  - first:
+      213: -506007383630757403
+    second: SteamController_13
+  - first:
+      213: 8311324219183172074
+    second: SteamController_14
+  - first:
+      213: 3996539681964106979
+    second: SteamController_15
+  - first:
+      213: -9212951032050680126
+    second: SteamController_16
+  - first:
+      213: -6408658861169613084
+    second: SteamController_17
+  - first:
+      213: 2071506041078082996
+    second: SteamController_18
+  - first:
+      213: -5182605698984585536
+    second: SteamController_19
+  - first:
+      213: -3855621029573469576
+    second: SteamController_20
+  - first:
+      213: -5997142184546517531
+    second: SteamController_21
+  - first:
+      213: -7138801849500256225
+    second: SteamController_22
+  - first:
+      213: 9070107641256275463
+    second: SteamController_23
+  - first:
+      213: 6855887119412880069
+    second: SteamController_24
+  - first:
+      213: 7821057632173882053
+    second: SteamController_25
+  - first:
+      213: 1841997869739478810
+    second: SteamController_26
+  - first:
+      213: 744068893588215377
+    second: SteamController_27
+  - first:
+      213: -4210052005747147928
+    second: SteamController_28
+  - first:
+      213: -3522483733339593045
+    second: SteamController_29
+  - first:
+      213: 2878095363079453493
+    second: SteamController_30
+  - first:
+      213: -6047039041225636206
+    second: SteamController_31
+  - first:
+      213: -1418937145675348812
+    second: SteamController_32
+  - first:
+      213: 3447894598405824093
+    second: SteamController_33
+  - first:
+      213: -166754176281775316
+    second: SteamController_34
+  - first:
+      213: 7590770052135316660
+    second: SteamController_35
+  - first:
+      213: -8238814633530410127
+    second: SteamController_36
+  - first:
+      213: -4225506510291332585
+    second: SteamController_37
+  - first:
+      213: -5362343981311978537
+    second: SteamController_38
+  - first:
+      213: -8484935813566057811
+    second: SteamController_39
+  - first:
+      213: 1157240880797007067
+    second: SteamController_40
+  - first:
+      213: 1747069770982451654
+    second: SteamController_41
+  - first:
+      213: -1034638761546781828
+    second: SteamController_42
+  - first:
+      213: 2314167142588098155
+    second: SteamController_43
+  - first:
+      213: 4063638591184474179
+    second: SteamController_44
+  - first:
+      213: 1291771538077026612
+    second: SteamController_45
+  - first:
+      213: -3691967015434278815
+    second: SteamController_46
+  - first:
+      213: -8672294848039525470
+    second: SteamController_47
+  - first:
+      213: -4403076454286052607
+    second: SteamController_48
+  - first:
+      213: 7341794609695587776
+    second: SteamController_49
+  - first:
+      213: -6070670309529194675
+    second: SteamController_50
+  - first:
+      213: -3358431035885963905
+    second: SteamController_51
+  - first:
+      213: -9031099007631334753
+    second: SteamController_52
+  - first:
+      213: 3491529773259757168
+    second: SteamController_53
+  - first:
+      213: -2872444679230601558
+    second: SteamController_54
+  - first:
+      213: 3299646218673293234
+    second: SteamController_55
+  - first:
+      213: -3111571442742124604
+    second: SteamController_56
+  - first:
+      213: 8762590954911120106
+    second: SteamController_57
+  - first:
+      213: -2033436738912369184
+    second: SteamController_58
+  - first:
+      213: -2742160164159673792
+    second: SteamController_59
+  - first:
+      213: -8536406731584441913
+    second: SteamController_60
+  - first:
+      213: 2958591597452611496
+    second: SteamController_61
+  - first:
+      213: -5673448411652124867
+    second: SteamController_62
+  - first:
+      213: 4753952314219383344
+    second: SteamController_63
+  - first:
+      213: 3441693698505790951
+    second: SteamController_64
+  - first:
+      213: -4848834061039239294
+    second: SteamController_65
+  - first:
+      213: -8694300927911068484
+    second: SteamController_66
+  - first:
+      213: 9003626051499896676
+    second: SteamController_67
+  - first:
+      213: -6392199055266145261
+    second: SteamController_68
+  - first:
+      213: 2416474333229832650
+    second: SteamController_69
+  - first:
+      213: -8710708178987897581
+    second: SteamController_70
+  - first:
+      213: -6980494072342442467
+    second: SteamController_71
+  - first:
+      213: -4963305990955146431
+    second: SteamController_72
+  - first:
+      213: 6592695074543045910
+    second: SteamController_73
+  - first:
+      213: 5270967431906382087
+    second: SteamController_74
+  - first:
+      213: 8722114628452646380
+    second: SteamController_75
+  - first:
+      213: 4084093832876926691
+    second: SteamController_76
+  - first:
+      213: -4807429328499978564
+    second: SteamController_77
+  - first:
+      213: -3740575673252640043
+    second: SteamController_78
+  - first:
+      213: 854099988247088653
+    second: SteamController_79
+  - first:
+      213: -3602450019770496325
+    second: SteamController_80
+  - first:
+      213: 565671597834464142
+    second: SteamController_81
+  - first:
+      213: -1025189150380383590
+    second: SteamController_82
+  - first:
+      213: 4643666017808160248
+    second: SteamController_83
+  - first:
+      213: -3020584012270139180
+    second: SteamController_84
+  - first:
+      213: -1180316469741120224
+    second: SteamController_85
+  - first:
+      213: 1362059418627319359
+    second: SteamController_86
+  - first:
+      213: 4569303866823173190
+    second: SteamController_87
+  - first:
+      213: 39681258326182
+    second: SteamController_88
+  - first:
+      213: -5627654660274484317
+    second: SteamController_89
+  - first:
+      213: 4030130621942567839
+    second: SteamController_90
+  - first:
+      213: -833967141516391148
+    second: SteamController_91
+  - first:
+      213: -3652266576714072595
+    second: SteamController_92
+  - first:
+      213: 5349794476784468177
+    second: SteamController_93
+  - first:
+      213: -3178715963155826789
+    second: SteamController_94
+  - first:
+      213: 3645033763499140854
+    second: SteamController_95
+  - first:
+      213: -5987345200046613221
+    second: SteamController_96
+  - first:
+      213: 4912090698067018002
+    second: SteamController_97
+  - first:
+      213: -1980709809635525910
+    second: SteamController_98
+  - first:
+      213: 7530022591361396792
+    second: SteamController_99
+  - first:
+      213: 4713881132568844881
+    second: SteamController_100
+  - first:
+      213: 7853447296454379100
+    second: SteamController_101
+  - first:
+      213: -114774305339225953
+    second: SteamController_102
+  - first:
+      213: -7515107264755152173
+    second: SteamController_103
+  - first:
+      213: -2227703472336948296
+    second: SteamController_104
+  - first:
+      213: -6023071552628543569
+    second: SteamController_105
+  - first:
+      213: 7305214969578614557
+    second: SteamController_106
+  - first:
+      213: 5249047261812381107
+    second: SteamController_107
+  - first:
+      213: -9075332696637007658
+    second: SteamController_108
+  - first:
+      213: 6598175446871886384
+    second: SteamController_109
+  - first:
+      213: -6407748184738461288
+    second: SteamController_110
+  - first:
+      213: -9125725244214697926
+    second: SteamController_111
+  - first:
+      213: -7506996998517980875
+    second: SteamController_112
+  - first:
+      213: 7616000679287488475
+    second: SteamController_113
+  - first:
+      213: 8653495801071369853
+    second: SteamController_114
+  - first:
+      213: 5771739262686024660
+    second: SteamController_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteamController_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9f6486d024dd20800000000000000
+      internalID: 3302300532486412955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4ae12155b804850800000000000000
+      internalID: 6359235871339619549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b76cfbb78109a0800000000000000
+      internalID: -6268579964859729457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1242
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8f512fad7cf2780800000000000000
+      internalID: -8705519811505555213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1167
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b6dae6a03f612d0800000000000000
+      internalID: -3308189650124969148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_5
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c8af8b39b7784c0800000000000000
+      internalID: -4285320646025901054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafc17c7559c6c90800000000000000
+      internalID: -7175195902072784174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49818c5a3f87f43c0800000000000000
+      internalID: -4373143725299722092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_8
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1243
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899492c9f17fa4ba0800000000000000
+      internalID: -6103794629811287656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62b66e2c00a5a660800000000000000
+      internalID: 7396493937204441709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_10
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4361d67f4b22e0800000000000000
+      internalID: -2149537025401598204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_11
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e63a7ed6a695a090800000000000000
+      internalID: -8023841517649381660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_12
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef281cbc5bb7c30800000000000000
+      internalID: 4358276951140662947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c6fc27fc4af8f0800000000000000
+      internalID: -506007383630757403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1167
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae983819751c75370800000000000000
+      internalID: 8311324219183172074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1205
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4293a8aaf867730800000000000000
+      internalID: 3996539681964106979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cefc8149d5052080800000000000000
+      internalID: -9212951032050680126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6635568bedf07a0800000000000000
+      internalID: -6408658861169613084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bde880e4c77fbc10800000000000000
+      internalID: 2071506041078082996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1167
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6db1d439fa318b0800000000000000
+      internalID: -5182605698984585536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5fbff9151e7ac0800000000000000
+      internalID: -3855621029573469576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed389615fed5cca0800000000000000
+      internalID: -5997142184546517531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b2a67a81edec90800000000000000
+      internalID: -7138801849500256225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ee2af18de7fdd70800000000000000
+      internalID: 9070107641256275463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e7c4d201052f50800000000000000
+      internalID: 6855887119412880069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_25
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1049
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf49d8a7af98c60800000000000000
+      internalID: 7821057632173882053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_26
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1049
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f09de9d47109910800000000000000
+      internalID: 1841997869739478810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1565eba67b6735a00800000000000000
+      internalID: 744068893588215377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b358fa104e295c0800000000000000
+      internalID: -4210052005747147928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_29
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6a33b15bf9d1fc0800000000000000
+      internalID: -3522483733339593045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbc02eb7c01f720800000000000000
+      internalID: 2878095363079453493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c3d4d70a941ca0800000000000000
+      internalID: -6047039041225636206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b40a611f2cee4ce0800000000000000
+      internalID: -1418937145675348812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_33
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 921
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e97f89ed169df20800000000000000
+      internalID: 3447894598405824093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 921
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2379edc5f19fadf0800000000000000
+      internalID: -166754176281775316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce2311525d75960800000000000000
+      internalID: 7590770052135316660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b312eedb9d9ad80800000000000000
+      internalID: -8238814633530410127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_37
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7121cf1773cfb55c0800000000000000
+      internalID: -4225506510291332585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_38
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d312765f802595b0800000000000000
+      internalID: -5362343981311978537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_39
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b76a25d37f3a80800000000000000
+      internalID: -8484935813566057811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc377323785f0010800000000000000
+      internalID: 1157240880797007067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c96b3943b6de3810800000000000000
+      internalID: 1747069770982451654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6723378934a1f0800000000000000
+      internalID: -1034638761546781828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6628d451c29d1020800000000000000
+      internalID: 2314167142588098155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409e13c4c1f46830800000000000000
+      internalID: 4063638591184474179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_45
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4398a0aae5b4de110800000000000000
+      internalID: 1291771538077026612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168a4927f8f73ccc0800000000000000
+      internalID: -3691967015434278815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_47
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3672398c1d5a780800000000000000
+      internalID: -8672294848039525470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_48
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b4671b4125e2c0800000000000000
+      internalID: -4403076454286052607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_49
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd78cc8c4b43e560800000000000000
+      internalID: 7341794609695587776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f600c6485a0cba0800000000000000
+      internalID: -6070670309529194675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75be5f34c47461d0800000000000000
+      internalID: -3358431035885963905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9260c62d471ba280800000000000000
+      internalID: -9031099007631334753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 671
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07619d174d7647030800000000000000
+      internalID: 3491529773259757168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6cf7978c60328d0800000000000000
+      internalID: -2872444679230601558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b78b7ce0c2bacd20800000000000000
+      internalID: 3299646218673293234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_56
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1b16324a71d4d0800000000000000
+      internalID: -3111571442742124604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_57
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea378b1c0afa9970800000000000000
+      internalID: 8762590954911120106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_58
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e546ef3f08c7c3e0800000000000000
+      internalID: -2033436738912369184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_59
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a290afbd3e1f9d0800000000000000
+      internalID: -2742160164159673792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f7a13e47988980800000000000000
+      internalID: -8536406731584441913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4e91f1670f0920800000000000000
+      internalID: 2958591597452611496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f88f39abcd341b0800000000000000
+      internalID: -5673448411652124867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a4138317e69f140800000000000000
+      internalID: 4753952314219383344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_64
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e553251f2a53cf20800000000000000
+      internalID: 3441693698505790951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff0f89c1b75bcb0800000000000000
+      internalID: -4848834061039239294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_66
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf285de53a75780800000000000000
+      internalID: -8694300927911068484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_67
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46faa1ac03e43fc70800000000000000
+      internalID: 9003626051499896676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_68
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c164993d85a47a0800000000000000
+      internalID: -6392199055266145261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_69
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac953016a9a098120800000000000000
+      internalID: 2416474333229832650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d265100195d1780800000000000000
+      internalID: -8710708178987897581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e0f4d10ad402f90800000000000000
+      internalID: -6980494072342442467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 413
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ec897f7bce1bb0800000000000000
+      internalID: -4963305990955146431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_73
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 413
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d0b9e9d35fd7b50800000000000000
+      internalID: 6592695074543045910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_74
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701de69d3fc362940800000000000000
+      internalID: 5270967431906382087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_75
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced7827fa0d2b0970800000000000000
+      internalID: 8722114628452646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_76
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e62ef9d3bd9da830800000000000000
+      internalID: 4084093832876926691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_77
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec6ff1f74984db0800000000000000
+      internalID: -4807429328499978564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_78
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 415
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da0f4c5e3ec61cc0800000000000000
+      internalID: -3740575673252640043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_79
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 415
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e02220a6f5adb00800000000000000
+      internalID: 854099988247088653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 299
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba0b7a2bc6810ec0800000000000000
+      internalID: -3602450019770496325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_81
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 299
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b6378325ba9d700800000000000000
+      internalID: 565671597834464142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a922eff36ebc5c1f0800000000000000
+      internalID: -1025189150380383590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f51207d3ad917040800000000000000
+      internalID: 4643666017808160248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_84
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 271
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d80a6638dab416d0800000000000000
+      internalID: -3020584012270139180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_85
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 313
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259982ac6cae9fe0800000000000000
+      internalID: -1180316469741120224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_86
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 271
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a14223d107e210800000000000000
+      internalID: 1362059418627319359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_87
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 271
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64460dc58ad696f30800000000000000
+      internalID: 4569303866823173190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_88
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 271
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a88e430714200000800000000000000
+      internalID: 39681258326182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_89
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 313
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab84cf27ed86e1b0800000000000000
+      internalID: -5627654660274484317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_90
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 305
+        width: 80
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939f47b276ede730800000000000000
+      internalID: 4030130621942567839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_91
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 305
+        width: 80
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4197ad472d64f0800000000000000
+      internalID: -833967141516391148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_92
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 293
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedfce526ea805dc0800000000000000
+      internalID: -3652266576714072595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_93
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 293
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0c5127bb94e3a40800000000000000
+      internalID: 5349794476784468177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_94
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 271
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97bb3e4caee2e3d0800000000000000
+      internalID: -3178715963155826789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_95
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 271
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6ebab45e2c59230800000000000000
+      internalID: 3645033763499140854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd49b434da8eca0800000000000000
+      internalID: -5987345200046613221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_97
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 167
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21109cae6704b2440800000000000000
+      internalID: 4912090698067018002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeafa812cea1384e0800000000000000
+      internalID: -1980709809635525910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_99
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83033cca6a3008860800000000000000
+      internalID: 7530022591361396792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_100
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9e243ae11b6140800000000000000
+      internalID: 4713881132568844881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_101
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564a6fe4bc0dfc60800000000000000
+      internalID: 7853447296454379100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_102
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c9ec906d386ef0800000000000000
+      internalID: -114774305339225953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_103
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dacf4b62c9f4b790800000000000000
+      internalID: -7515107264755152173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_104
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b37aae7b9511e0800000000000000
+      internalID: -2227703472336948296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_105
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafa0d0a550c96ca0800000000000000
+      internalID: -6023071552628543569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f69956f46516560800000000000000
+      internalID: 7305214969578614557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_107
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b550998cac58d840800000000000000
+      internalID: 5249047261812381107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8967edef0fd0280800000000000000
+      internalID: -9075332696637007658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_109
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac08c3c9d619b50800000000000000
+      internalID: 6598175446871886384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_110
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8998286c9fa1317a0800000000000000
+      internalID: -6407748184738461288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_111
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a4c49d39ea5180800000000000000
+      internalID: -9125725244214697926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_112
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531896de00ac1d790800000000000000
+      internalID: -7506996998517980875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_113
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf701a344871b960800000000000000
+      internalID: 7616000679287488475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_114
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 43
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e71383594671870800000000000000
+      internalID: 8653495801071369853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamController_115
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 43
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d353988746591050800000000000000
+      internalID: 5771739262686024660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SteamController_0: 3302300532486412955
+      SteamController_1: 6359235871339619549
+      SteamController_10: -2149537025401598204
+      SteamController_100: 4713881132568844881
+      SteamController_101: 7853447296454379100
+      SteamController_102: -114774305339225953
+      SteamController_103: -7515107264755152173
+      SteamController_104: -2227703472336948296
+      SteamController_105: -6023071552628543569
+      SteamController_106: 7305214969578614557
+      SteamController_107: 5249047261812381107
+      SteamController_108: -9075332696637007658
+      SteamController_109: 6598175446871886384
+      SteamController_11: -8023841517649381660
+      SteamController_110: -6407748184738461288
+      SteamController_111: -9125725244214697926
+      SteamController_112: -7506996998517980875
+      SteamController_113: 7616000679287488475
+      SteamController_114: 8653495801071369853
+      SteamController_115: 5771739262686024660
+      SteamController_12: 4358276951140662947
+      SteamController_13: -506007383630757403
+      SteamController_14: 8311324219183172074
+      SteamController_15: 3996539681964106979
+      SteamController_16: -9212951032050680126
+      SteamController_17: -6408658861169613084
+      SteamController_18: 2071506041078082996
+      SteamController_19: -5182605698984585536
+      SteamController_2: -6268579964859729457
+      SteamController_20: -3855621029573469576
+      SteamController_21: -5997142184546517531
+      SteamController_22: -7138801849500256225
+      SteamController_23: 9070107641256275463
+      SteamController_24: 6855887119412880069
+      SteamController_25: 7821057632173882053
+      SteamController_26: 1841997869739478810
+      SteamController_27: 744068893588215377
+      SteamController_28: -4210052005747147928
+      SteamController_29: -3522483733339593045
+      SteamController_3: -8705519811505555213
+      SteamController_30: 2878095363079453493
+      SteamController_31: -6047039041225636206
+      SteamController_32: -1418937145675348812
+      SteamController_33: 3447894598405824093
+      SteamController_34: -166754176281775316
+      SteamController_35: 7590770052135316660
+      SteamController_36: -8238814633530410127
+      SteamController_37: -4225506510291332585
+      SteamController_38: -5362343981311978537
+      SteamController_39: -8484935813566057811
+      SteamController_4: -3308189650124969148
+      SteamController_40: 1157240880797007067
+      SteamController_41: 1747069770982451654
+      SteamController_42: -1034638761546781828
+      SteamController_43: 2314167142588098155
+      SteamController_44: 4063638591184474179
+      SteamController_45: 1291771538077026612
+      SteamController_46: -3691967015434278815
+      SteamController_47: -8672294848039525470
+      SteamController_48: -4403076454286052607
+      SteamController_49: 7341794609695587776
+      SteamController_5: -4285320646025901054
+      SteamController_50: -6070670309529194675
+      SteamController_51: -3358431035885963905
+      SteamController_52: -9031099007631334753
+      SteamController_53: 3491529773259757168
+      SteamController_54: -2872444679230601558
+      SteamController_55: 3299646218673293234
+      SteamController_56: -3111571442742124604
+      SteamController_57: 8762590954911120106
+      SteamController_58: -2033436738912369184
+      SteamController_59: -2742160164159673792
+      SteamController_6: -7175195902072784174
+      SteamController_60: -8536406731584441913
+      SteamController_61: 2958591597452611496
+      SteamController_62: -5673448411652124867
+      SteamController_63: 4753952314219383344
+      SteamController_64: 3441693698505790951
+      SteamController_65: -4848834061039239294
+      SteamController_66: -8694300927911068484
+      SteamController_67: 9003626051499896676
+      SteamController_68: -6392199055266145261
+      SteamController_69: 2416474333229832650
+      SteamController_7: -4373143725299722092
+      SteamController_70: -8710708178987897581
+      SteamController_71: -6980494072342442467
+      SteamController_72: -4963305990955146431
+      SteamController_73: 6592695074543045910
+      SteamController_74: 5270967431906382087
+      SteamController_75: 8722114628452646380
+      SteamController_76: 4084093832876926691
+      SteamController_77: -4807429328499978564
+      SteamController_78: -3740575673252640043
+      SteamController_79: 854099988247088653
+      SteamController_8: -6103794629811287656
+      SteamController_80: -3602450019770496325
+      SteamController_81: 565671597834464142
+      SteamController_82: -1025189150380383590
+      SteamController_83: 4643666017808160248
+      SteamController_84: -3020584012270139180
+      SteamController_85: -1180316469741120224
+      SteamController_86: 1362059418627319359
+      SteamController_87: 4569303866823173190
+      SteamController_88: 39681258326182
+      SteamController_89: -5627654660274484317
+      SteamController_9: 7396493937204441709
+      SteamController_90: 4030130621942567839
+      SteamController_91: -833967141516391148
+      SteamController_92: -3652266576714072595
+      SteamController_93: 5349794476784468177
+      SteamController_94: -3178715963155826789
+      SteamController_95: 3645033763499140854
+      SteamController_96: -5987345200046613221
+      SteamController_97: 4912090698067018002
+      SteamController_98: -1980709809635525910
+      SteamController_99: 7530022591361396792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

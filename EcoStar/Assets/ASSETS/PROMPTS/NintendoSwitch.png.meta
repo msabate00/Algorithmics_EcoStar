@@ -1,0 +1,5499 @@
+fileFormatVersion: 2
+guid: 2d70d7879fe0f6946bd825bb64a95afc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2325043649586764904
+    second: NintendoSwitch_0
+  - first:
+      213: 7352675648413032269
+    second: NintendoSwitch_1
+  - first:
+      213: -2951938983189194514
+    second: NintendoSwitch_2
+  - first:
+      213: -7652459349015983464
+    second: NintendoSwitch_3
+  - first:
+      213: 7509971317881349717
+    second: NintendoSwitch_4
+  - first:
+      213: -5494679172889150725
+    second: NintendoSwitch_5
+  - first:
+      213: 4347298480946244476
+    second: NintendoSwitch_6
+  - first:
+      213: -1287322392774529587
+    second: NintendoSwitch_7
+  - first:
+      213: -7414732547500394325
+    second: NintendoSwitch_8
+  - first:
+      213: -2448375483626185927
+    second: NintendoSwitch_9
+  - first:
+      213: -2147584430637977229
+    second: NintendoSwitch_10
+  - first:
+      213: 3452815886292992260
+    second: NintendoSwitch_11
+  - first:
+      213: -253804179322184319
+    second: NintendoSwitch_12
+  - first:
+      213: -669571136391250434
+    second: NintendoSwitch_13
+  - first:
+      213: -7752357315887833551
+    second: NintendoSwitch_14
+  - first:
+      213: 3690709548184795956
+    second: NintendoSwitch_15
+  - first:
+      213: 1223800629004114836
+    second: NintendoSwitch_16
+  - first:
+      213: 152883875218740323
+    second: NintendoSwitch_17
+  - first:
+      213: -4259151478192087655
+    second: NintendoSwitch_18
+  - first:
+      213: 8151020144469162153
+    second: NintendoSwitch_19
+  - first:
+      213: -3086803332556195029
+    second: NintendoSwitch_20
+  - first:
+      213: -3561942932844867960
+    second: NintendoSwitch_21
+  - first:
+      213: -7854541511175483102
+    second: NintendoSwitch_22
+  - first:
+      213: 1345238002541305860
+    second: NintendoSwitch_23
+  - first:
+      213: -2605973600298516820
+    second: NintendoSwitch_24
+  - first:
+      213: 2408161132014901525
+    second: NintendoSwitch_25
+  - first:
+      213: 623218366067458063
+    second: NintendoSwitch_26
+  - first:
+      213: 455652487704081511
+    second: NintendoSwitch_27
+  - first:
+      213: -5727036171268983749
+    second: NintendoSwitch_28
+  - first:
+      213: 6209953960042595149
+    second: NintendoSwitch_29
+  - first:
+      213: -3433186000548038271
+    second: NintendoSwitch_30
+  - first:
+      213: -3548813788338819017
+    second: NintendoSwitch_31
+  - first:
+      213: -4022957595732228764
+    second: NintendoSwitch_32
+  - first:
+      213: 8027433773607244056
+    second: NintendoSwitch_33
+  - first:
+      213: 6069773023129869638
+    second: NintendoSwitch_34
+  - first:
+      213: 7691984488368053819
+    second: NintendoSwitch_35
+  - first:
+      213: 8744802538293021828
+    second: NintendoSwitch_36
+  - first:
+      213: -4711939280513311502
+    second: NintendoSwitch_37
+  - first:
+      213: -8758484031827287645
+    second: NintendoSwitch_38
+  - first:
+      213: -5092225171102690122
+    second: NintendoSwitch_39
+  - first:
+      213: 4692620409183756481
+    second: NintendoSwitch_40
+  - first:
+      213: -1726976751707106954
+    second: NintendoSwitch_41
+  - first:
+      213: -5380061579791953697
+    second: NintendoSwitch_42
+  - first:
+      213: -4703172133593365306
+    second: NintendoSwitch_43
+  - first:
+      213: -782800299038635261
+    second: NintendoSwitch_44
+  - first:
+      213: -1797281155919652285
+    second: NintendoSwitch_45
+  - first:
+      213: 1121516959344190585
+    second: NintendoSwitch_46
+  - first:
+      213: 8957183092659974107
+    second: NintendoSwitch_47
+  - first:
+      213: 5789151958462597834
+    second: NintendoSwitch_48
+  - first:
+      213: 8416997335893277455
+    second: NintendoSwitch_49
+  - first:
+      213: -428956816964405041
+    second: NintendoSwitch_50
+  - first:
+      213: 157687460026318737
+    second: NintendoSwitch_51
+  - first:
+      213: -4076803193969916470
+    second: NintendoSwitch_52
+  - first:
+      213: -146306488400530153
+    second: NintendoSwitch_53
+  - first:
+      213: 5208991979151077590
+    second: NintendoSwitch_54
+  - first:
+      213: 1283979572331645591
+    second: NintendoSwitch_55
+  - first:
+      213: -4911421992955112002
+    second: NintendoSwitch_56
+  - first:
+      213: -5053366005178410549
+    second: NintendoSwitch_57
+  - first:
+      213: -8388903548206337541
+    second: NintendoSwitch_58
+  - first:
+      213: 6013513677220460720
+    second: NintendoSwitch_59
+  - first:
+      213: 2166714855175997805
+    second: NintendoSwitch_60
+  - first:
+      213: -4462674113497357333
+    second: NintendoSwitch_61
+  - first:
+      213: 3709567949633584339
+    second: NintendoSwitch_62
+  - first:
+      213: 4975801582260681704
+    second: NintendoSwitch_63
+  - first:
+      213: -224843570462913194
+    second: NintendoSwitch_64
+  - first:
+      213: 7210090880716100664
+    second: NintendoSwitch_65
+  - first:
+      213: -906950493940688109
+    second: NintendoSwitch_66
+  - first:
+      213: -7870869051037633865
+    second: NintendoSwitch_67
+  - first:
+      213: 5624124551983848580
+    second: NintendoSwitch_68
+  - first:
+      213: -6995690516219695697
+    second: NintendoSwitch_69
+  - first:
+      213: 976530686391005217
+    second: NintendoSwitch_70
+  - first:
+      213: 6294287009207907127
+    second: NintendoSwitch_71
+  - first:
+      213: -5555526634399860810
+    second: NintendoSwitch_72
+  - first:
+      213: 7285792625413701701
+    second: NintendoSwitch_73
+  - first:
+      213: 6216331519943210022
+    second: NintendoSwitch_74
+  - first:
+      213: 2764446332336023983
+    second: NintendoSwitch_75
+  - first:
+      213: -5817156322811429272
+    second: NintendoSwitch_76
+  - first:
+      213: 1050174256386905691
+    second: NintendoSwitch_77
+  - first:
+      213: 3363652885483401221
+    second: NintendoSwitch_78
+  - first:
+      213: 6433888557759634803
+    second: NintendoSwitch_79
+  - first:
+      213: 797885992245434591
+    second: NintendoSwitch_80
+  - first:
+      213: 6811329870420816262
+    second: NintendoSwitch_81
+  - first:
+      213: 8348746275757704572
+    second: NintendoSwitch_82
+  - first:
+      213: 7340552072219598939
+    second: NintendoSwitch_83
+  - first:
+      213: 3388050518188817335
+    second: NintendoSwitch_84
+  - first:
+      213: -5720770833106578239
+    second: NintendoSwitch_85
+  - first:
+      213: 6108833438807724135
+    second: NintendoSwitch_86
+  - first:
+      213: -5925413799377350425
+    second: NintendoSwitch_87
+  - first:
+      213: 1598680140109392856
+    second: NintendoSwitch_88
+  - first:
+      213: 4333843026326134033
+    second: NintendoSwitch_89
+  - first:
+      213: -8076966582870965933
+    second: NintendoSwitch_90
+  - first:
+      213: 1878061856653260844
+    second: NintendoSwitch_91
+  - first:
+      213: 8704725788709357992
+    second: NintendoSwitch_92
+  - first:
+      213: 2139788487311721866
+    second: NintendoSwitch_93
+  - first:
+      213: 1839750499612823983
+    second: NintendoSwitch_94
+  - first:
+      213: -3037776430723271274
+    second: NintendoSwitch_95
+  - first:
+      213: -5960123048663004533
+    second: NintendoSwitch_96
+  - first:
+      213: 316462188150353695
+    second: NintendoSwitch_97
+  - first:
+      213: -1932607575429656498
+    second: NintendoSwitch_98
+  - first:
+      213: 6718355530094303427
+    second: NintendoSwitch_99
+  - first:
+      213: 2623189960766667871
+    second: NintendoSwitch_100
+  - first:
+      213: -5988463560264507340
+    second: NintendoSwitch_101
+  - first:
+      213: 5188579597731371567
+    second: NintendoSwitch_102
+  - first:
+      213: 623313321899085832
+    second: NintendoSwitch_103
+  - first:
+      213: 7947506269639647168
+    second: NintendoSwitch_104
+  - first:
+      213: -6386526935452524824
+    second: NintendoSwitch_105
+  - first:
+      213: 868608696971763571
+    second: NintendoSwitch_106
+  - first:
+      213: -4579792667872385825
+    second: NintendoSwitch_107
+  - first:
+      213: 1777124322141281376
+    second: NintendoSwitch_108
+  - first:
+      213: -7495413298275842986
+    second: NintendoSwitch_109
+  - first:
+      213: -3889409396831278244
+    second: NintendoSwitch_110
+  - first:
+      213: -78243109626306876
+    second: NintendoSwitch_111
+  - first:
+      213: -3939155132498196791
+    second: NintendoSwitch_112
+  - first:
+      213: 3230608951509978155
+    second: NintendoSwitch_113
+  - first:
+      213: -7223307923102110864
+    second: NintendoSwitch_114
+  - first:
+      213: -2905820902453396095
+    second: NintendoSwitch_115
+  - first:
+      213: 9173944550157537818
+    second: NintendoSwitch_116
+  - first:
+      213: -7785809533458531434
+    second: NintendoSwitch_117
+  - first:
+      213: 3449517576468782713
+    second: NintendoSwitch_118
+  - first:
+      213: -4643089750575065116
+    second: NintendoSwitch_119
+  - first:
+      213: -5849653179279219737
+    second: NintendoSwitch_120
+  - first:
+      213: 2103348604568321138
+    second: NintendoSwitch_121
+  - first:
+      213: -2945680771169222694
+    second: NintendoSwitch_122
+  - first:
+      213: -6267714798314337360
+    second: NintendoSwitch_123
+  - first:
+      213: -4668583202512415511
+    second: NintendoSwitch_124
+  - first:
+      213: 2983920320760388324
+    second: NintendoSwitch_125
+  - first:
+      213: -5567947875699011952
+    second: NintendoSwitch_126
+  - first:
+      213: 8269459830205951498
+    second: NintendoSwitch_127
+  - first:
+      213: 7148362133534749826
+    second: NintendoSwitch_128
+  - first:
+      213: -8949314914499825557
+    second: NintendoSwitch_129
+  - first:
+      213: 8805359491138538499
+    second: NintendoSwitch_130
+  - first:
+      213: -7613589635451192551
+    second: NintendoSwitch_131
+  - first:
+      213: -3528499264182464719
+    second: NintendoSwitch_132
+  - first:
+      213: 4405364018669241030
+    second: NintendoSwitch_133
+  - first:
+      213: -4946362473669130382
+    second: NintendoSwitch_134
+  - first:
+      213: -519402048060903545
+    second: NintendoSwitch_135
+  - first:
+      213: 596170802298473339
+    second: NintendoSwitch_136
+  - first:
+      213: -3914439621890941548
+    second: NintendoSwitch_137
+  - first:
+      213: -7659130517907672901
+    second: NintendoSwitch_138
+  - first:
+      213: 1652114662390519396
+    second: NintendoSwitch_139
+  - first:
+      213: 5989261886044719825
+    second: NintendoSwitch_140
+  - first:
+      213: 3615731479639777129
+    second: NintendoSwitch_141
+  - first:
+      213: 3438163942842745022
+    second: NintendoSwitch_142
+  - first:
+      213: 1041576142397212987
+    second: NintendoSwitch_143
+  - first:
+      213: -1466625969497362042
+    second: NintendoSwitch_144
+  - first:
+      213: 7626753700243533782
+    second: NintendoSwitch_145
+  - first:
+      213: -1080438827948638969
+    second: NintendoSwitch_146
+  - first:
+      213: 8646365416204798314
+    second: NintendoSwitch_147
+  - first:
+      213: 317232995863263362
+    second: NintendoSwitch_148
+  - first:
+      213: 6375527286709694499
+    second: NintendoSwitch_149
+  - first:
+      213: 1100600060824283267
+    second: NintendoSwitch_150
+  - first:
+      213: 7214336363195261946
+    second: NintendoSwitch_151
+  - first:
+      213: 3309754540675954185
+    second: NintendoSwitch_152
+  - first:
+      213: -7058097391089562653
+    second: NintendoSwitch_153
+  - first:
+      213: -1252906194892314926
+    second: NintendoSwitch_154
+  - first:
+      213: -4325107159405747113
+    second: NintendoSwitch_155
+  - first:
+      213: 6329437519410837111
+    second: NintendoSwitch_156
+  - first:
+      213: -6845826676680207147
+    second: NintendoSwitch_157
+  - first:
+      213: -421121531558262853
+    second: NintendoSwitch_158
+  - first:
+      213: -2824598089291327883
+    second: NintendoSwitch_159
+  - first:
+      213: 4931312896199535473
+    second: NintendoSwitch_160
+  - first:
+      213: 4091785892174767866
+    second: NintendoSwitch_161
+  - first:
+      213: 4294068930899951437
+    second: NintendoSwitch_162
+  - first:
+      213: 2418779899211074737
+    second: NintendoSwitch_163
+  - first:
+      213: -7135366431286211442
+    second: NintendoSwitch_164
+  - first:
+      213: -3374985772617728095
+    second: NintendoSwitch_165
+  - first:
+      213: -4768056701922394774
+    second: NintendoSwitch_166
+  - first:
+      213: 6165571378067700966
+    second: NintendoSwitch_167
+  - first:
+      213: 8398457072223433356
+    second: NintendoSwitch_168
+  - first:
+      213: 457332377628109064
+    second: NintendoSwitch_169
+  - first:
+      213: 611751208593706381
+    second: NintendoSwitch_170
+  - first:
+      213: -7101977811251575308
+    second: NintendoSwitch_171
+  - first:
+      213: 4002589778700760928
+    second: NintendoSwitch_172
+  - first:
+      213: -5889879050433231851
+    second: NintendoSwitch_173
+  - first:
+      213: -1464200731919246705
+    second: NintendoSwitch_174
+  - first:
+      213: 8058020824782417010
+    second: NintendoSwitch_175
+  - first:
+      213: -7987211028311505923
+    second: NintendoSwitch_176
+  - first:
+      213: 8899242861032522809
+    second: NintendoSwitch_177
+  - first:
+      213: -5949663931132278860
+    second: NintendoSwitch_178
+  - first:
+      213: -423832556675543080
+    second: NintendoSwitch_179
+  - first:
+      213: 61728741007735022
+    second: NintendoSwitch_180
+  - first:
+      213: 2939485998763662843
+    second: NintendoSwitch_181
+  - first:
+      213: 4337920056935122650
+    second: NintendoSwitch_182
+  - first:
+      213: 3526969025524014554
+    second: NintendoSwitch_183
+  - first:
+      213: 6366955383996541787
+    second: NintendoSwitch_184
+  - first:
+      213: -6567470948006187915
+    second: NintendoSwitch_185
+  - first:
+      213: 193142940716792676
+    second: NintendoSwitch_186
+  - first:
+      213: -2641060586431099185
+    second: NintendoSwitch_187
+  - first:
+      213: 7407016239889830833
+    second: NintendoSwitch_188
+  - first:
+      213: 5429850181063164813
+    second: NintendoSwitch_189
+  - first:
+      213: -5314921139045262755
+    second: NintendoSwitch_190
+  - first:
+      213: 400098062860057264
+    second: NintendoSwitch_191
+  - first:
+      213: 1196905902708125721
+    second: NintendoSwitch_192
+  - first:
+      213: 4080111473085299946
+    second: NintendoSwitch_193
+  - first:
+      213: -5437407981881834377
+    second: NintendoSwitch_194
+  - first:
+      213: 2114665019295755230
+    second: NintendoSwitch_195
+  - first:
+      213: -8975351487958583529
+    second: NintendoSwitch_196
+  - first:
+      213: 4879710658804239736
+    second: NintendoSwitch_197
+  - first:
+      213: 9006564794345353889
+    second: NintendoSwitch_198
+  - first:
+      213: 4068199810238095624
+    second: NintendoSwitch_199
+  - first:
+      213: -5619297057425332894
+    second: NintendoSwitch_200
+  - first:
+      213: 5945657429198868028
+    second: NintendoSwitch_201
+  - first:
+      213: -3993162596969470760
+    second: NintendoSwitch_202
+  - first:
+      213: -3146558084772367174
+    second: NintendoSwitch_203
+  - first:
+      213: -6878116104114506895
+    second: NintendoSwitch_204
+  - first:
+      213: -7561490679950618631
+    second: NintendoSwitch_205
+  - first:
+      213: -157842104644118682
+    second: NintendoSwitch_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NintendoSwitch_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1295
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8936a1b8e19cbbfd0800000000000000
+      internalID: -2325043649586764904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1295
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd25ccb83f90660800000000000000
+      internalID: 7352675648413032269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1279
+        width: 1153
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85164822b9807d0800000000000000
+      internalID: -2951938983189194514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a09cb34c00dc590800000000000000
+      internalID: -7652459349015983464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1242
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556a0b3cf17c83860800000000000000
+      internalID: 7509971317881349717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7431876afeb3b0800000000000000
+      internalID: -5494679172889150725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1167
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b65697fe4b45c30800000000000000
+      internalID: 4347298480946244476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda443ba13822ee0800000000000000
+      internalID: -1287322392774529587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba836b17804991990800000000000000
+      internalID: -7414732547500394325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b9fad387f950ed0800000000000000
+      internalID: -2448375483626185927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f9a6b65f3232e0800000000000000
+      internalID: -2147584430637977229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c15931cddaef20800000000000000
+      internalID: 3452815886292992260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dddf0917e4a7cf0800000000000000
+      internalID: -253804179322184319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1243
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd7b87599435b6f0800000000000000
+      internalID: -669571136391250434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1243
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eda9e48181a6490800000000000000
+      internalID: -7752357315887833551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_15
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b72b4a7c8083330800000000000000
+      internalID: 3690709548184795956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_16
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b90b72030dbf010800000000000000
+      internalID: 1223800629004114836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645c4213172f1200800000000000000
+      internalID: 152883875218740323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1167
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dd7c9eb4474e4c0800000000000000
+      internalID: -4259151478192087655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1205
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8332ca2ad3e1170800000000000000
+      internalID: 8151020144469162153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bfe7f39b87925d0800000000000000
+      internalID: -3086803332556195029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e819946cf619ec0800000000000000
+      internalID: -3561942932844867960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_22
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22153d85c101ff290800000000000000
+      internalID: -7854541511175483102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1167
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a4dff5de3ba210800000000000000
+      internalID: 1345238002541305860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_24
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1167
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae392c41d8b5dbd0800000000000000
+      internalID: -2605973600298516820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51996a36ac18b6120800000000000000
+      internalID: 2408161132014901525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0043fe4dcd16a800800000000000000
+      internalID: 623218366067458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764ff9ef58dc25600800000000000000
+      internalID: 455652487704081511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f2b302fa7580b0800000000000000
+      internalID: -5727036171268983749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_29
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1114
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438ed399303e2650800000000000000
+      internalID: 6209953960042595149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1039
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897d75b58fda50d0800000000000000
+      internalID: -3433186000548038271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_31
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1039
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7307e0479a410cec0800000000000000
+      internalID: -3548813788338819017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_32
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1123
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465cbe791659b28c0800000000000000
+      internalID: -4022957595732228764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_33
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1039
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81155d56c7c276f60800000000000000
+      internalID: 8027433773607244056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d97eec76a2c3450800000000000000
+      internalID: 6069773023129869638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1127
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1ef6632b6fba60800000000000000
+      internalID: 7691984488368053819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_36
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1039
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc3ed9397cb5970800000000000000
+      internalID: 8744802538293021828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_37
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1127
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5bc57034db9eb0800000000000000
+      internalID: -4711939280513311502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_38
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e0007d2d937680800000000000000
+      internalID: -8758484031827287645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b41f18cf28c459b0800000000000000
+      internalID: -5092225171102690122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_40
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1039
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0652b46698f1140800000000000000
+      internalID: 4692620409183756481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_41
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1077
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d3235bcb8808e0800000000000000
+      internalID: -1726976751707106954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd016ca7f7e2655b0800000000000000
+      internalID: -5380061579791953697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c6abecd9fabeb0800000000000000
+      internalID: -4703172133593365306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_44
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b8bb5864fe225f0800000000000000
+      internalID: -782800299038635261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 914
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ad7e3af46ce07e0800000000000000
+      internalID: -1797281155919652285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 912
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97469438bbd609f00800000000000000
+      internalID: 1121516959344190585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 911
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe12ac09e4e4c70800000000000000
+      internalID: 8957183092659974107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_48
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 911
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca8be2b803375050800000000000000
+      internalID: 5789151958462597834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_49
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 911
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf3595b7e2fc470800000000000000
+      internalID: 8416997335893277455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 915
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8bad43c0a0c0af0800000000000000
+      internalID: -428956816964405041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 912
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff660d8e7303200800000000000000
+      internalID: 157687460026318737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_52
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 911
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5ce3c48194c67c0800000000000000
+      internalID: -4076803193969916470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_53
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7153d82260738fdf0800000000000000
+      internalID: -146306488400530153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_54
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 911
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b82b4b9e0a4840800000000000000
+      internalID: 5208991979151077590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_55
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 975
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8fa34e9c91d110800000000000000
+      internalID: 1283979572331645591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_56
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59edf18bf17dbb0800000000000000
+      internalID: -4911421992955112002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_57
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95e456466ded9b0800000000000000
+      internalID: -5053366005178410549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_58
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 947
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1b5225ba0a49b80800000000000000
+      internalID: -8388903548206337541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 947
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8bda614da447350800000000000000
+      internalID: 6013513677220460720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 947
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c3585ea7b11e10800000000000000
+      internalID: 2166714855175997805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 947
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3a8acb9856112c0800000000000000
+      internalID: -4462674113497357333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_62
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 911
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc751465680b7330800000000000000
+      internalID: 3709567949633584339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_63
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 911
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb79771d299d0540800000000000000
+      internalID: 4975801582260681704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_64
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 911
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d0784c6f131ecf0800000000000000
+      internalID: -224843570462913194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_65
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 911
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834dd5f84736f0460800000000000000
+      internalID: 7210090880716100664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 782
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bdccbb45dd963f0800000000000000
+      internalID: -906950493940688109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 781
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2394bbc4e05c290800000000000000
+      internalID: -7870869051037633865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_68
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 783
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cdc8d6b77ec0e40800000000000000
+      internalID: 5624124551983848580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_69
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 783
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade72e4a805aee90800000000000000
+      internalID: -6995690516219695697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_70
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 783
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ba924c755d8d00800000000000000
+      internalID: 976530686391005217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_71
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 839
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337132bfacc95750800000000000000
+      internalID: 6294287009207907127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_72
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 781
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ff50e5fdc6e2b0800000000000000
+      internalID: -5555526634399860810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_73
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 839
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c1f08ac55c1560800000000000000
+      internalID: 7285792625413701701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_74
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 781
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6247744f498d44650800000000000000
+      internalID: 6216331519943210022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_75
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 783
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92587ea494d5620800000000000000
+      internalID: 2764446332336023983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_76
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 847
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e38ef152f454fa0800000000000000
+      internalID: -5817156322811429272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_77
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 783
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5693301ce7f29e00800000000000000
+      internalID: 1050174256386905691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_78
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 847
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b4fa5a781eae20800000000000000
+      internalID: 3363652885483401221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_79
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d96b91e83c94950800000000000000
+      internalID: 6433888557759634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_80
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 783
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd89c032519a21b00800000000000000
+      internalID: 797885992245434591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_81
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 819
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b07edd64b68e50800000000000000
+      internalID: 6811329870420816262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_82
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 819
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7547661184bcd370800000000000000
+      internalID: 8348746275757704572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 819
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5028efb731eed560800000000000000
+      internalID: 7340552072219598939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_84
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 819
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf8b1eef5c40f20800000000000000
+      internalID: 3388050518188817335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_85
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 783
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4544bbc3dbb90b0800000000000000
+      internalID: -5720770833106578239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_86
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 783
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760992885afe6c450800000000000000
+      internalID: 6108833438807724135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e05aec2b83b4cda0800000000000000
+      internalID: -5925413799377350425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_88
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db21b40e17af2610800000000000000
+      internalID: 1598680140109392856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_89
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d19705547e42c30800000000000000
+      internalID: 4333843026326134033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_90
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351864dbfa9d8ef80800000000000000
+      internalID: -8076966582870965933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_91
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283708ee47301a10800000000000000
+      internalID: 1878061856653260844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_92
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a904373cf56dc870800000000000000
+      internalID: 8704725788709357992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_93
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858fa8ca4e02bd10800000000000000
+      internalID: 2139788487311721866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_94
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa115ccf45b188910800000000000000
+      internalID: 1839750499612823983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_95
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957fab5e66a7d5d0800000000000000
+      internalID: -3037776430723271274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_96
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 655
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac2d25aa3694da0800000000000000
+      internalID: -5960123048663004533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_97
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 655
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f6b85feac446400800000000000000
+      internalID: 316462188150353695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_98
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 655
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40594846affd25e0800000000000000
+      internalID: -1932607575429656498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c85d0e52c46c3d50800000000000000
+      internalID: 6718355530094303427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_100
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 591
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3eddfe51776420800000000000000
+      internalID: 2623189960766667871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4302014ce14b4eca0800000000000000
+      internalID: -5988463560264507340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1e9367a9810840800000000000000
+      internalID: 5188579597731371567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_103
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 591
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800509fe92476a800800000000000000
+      internalID: 623313321899085832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_104
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf9f0438d63b4e60800000000000000
+      internalID: 7947506269639647168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_105
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee53e7e69f7e57a0800000000000000
+      internalID: -6386526935452524824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_106
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 591
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f11dff10bed0c00800000000000000
+      internalID: 868608696971763571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_107
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4278655de4170c0800000000000000
+      internalID: -4579792667872385825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c10f6c72d99a810800000000000000
+      internalID: 1777124322141281376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654878f4151faf790800000000000000
+      internalID: -7495413298275842986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_110
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b2ec3b2ca060ac0800000000000000
+      internalID: -3889409396831278244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_111
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce1a9c6e460aeef0800000000000000
+      internalID: -78243109626306876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_112
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c94c074f4559c0800000000000000
+      internalID: -3939155132498196791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_113
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c03f299bd65dc20800000000000000
+      internalID: 3230608951509978155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_114
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07beb34f6b7a1cb90800000000000000
+      internalID: -7223307923102110864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_115
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3c50f8437ca7d0800000000000000
+      internalID: -2905820902453396095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_116
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12554576f5605f70800000000000000
+      internalID: 9173944550157537818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bba55fa7f33f390800000000000000
+      internalID: -7785809533458531434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_118
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e53ef95f52fdf20800000000000000
+      internalID: 3449517576468782713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_119
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e757b4d87e609fb0800000000000000
+      internalID: -4643089750575065116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_120
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e3dd1d6bd1dea0800000000000000
+      internalID: -5849653179279219737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cbb1e6968903d10800000000000000
+      internalID: 2103348604568321138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf72cc02f6de17d0800000000000000
+      internalID: -2945680771169222694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_123
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc305499a9409a0800000000000000
+      internalID: -6267714798314337360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_124
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e454e1005cd53fb0800000000000000
+      internalID: -4668583202512415511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_125
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1ef4e8b3096920800000000000000
+      internalID: 2983920320760388324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_126
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec11548ecaab2b0800000000000000
+      internalID: -5567947875699011952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_127
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea9cfe6e503c270800000000000000
+      internalID: 8269459830205951498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_128
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284313f9c75143360800000000000000
+      internalID: 7148362133534749826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_129
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f1223085adc380800000000000000
+      internalID: -8949314914499825557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_130
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4decedcbe23a70800000000000000
+      internalID: 8805359491138538499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_131
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bf559a098175690800000000000000
+      internalID: -7613589635451192551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_132
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f4d203d90480fc0800000000000000
+      internalID: -3528499264182464719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_133
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2411ffb3ff22d30800000000000000
+      internalID: 4405364018669241030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_134
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27701a2898dfa5bb0800000000000000
+      internalID: -4946362473669130382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_135
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f28b5d696bac8f0800000000000000
+      internalID: -519402048060903545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_136
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc570af26064800800000000000000
+      internalID: 596170802298473339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_137
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd97a47ed1da9c0800000000000000
+      internalID: -3914439621890941548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_138
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb072cfaf5d45b590800000000000000
+      internalID: -7659130517907672901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_139
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466500c388d7de610800000000000000
+      internalID: 1652114662390519396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_140
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da4b70f3f12e1350800000000000000
+      internalID: 5989261886044719825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_141
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f502faf98ad2230800000000000000
+      internalID: 3615731479639777129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_142
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0c2bcc3efc6bf20800000000000000
+      internalID: 3438163942842745022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_143
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398b16abfb647e00800000000000000
+      internalID: 1041576142397212987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_144
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813fb5837f75abe0800000000000000
+      internalID: -1466625969497362042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_145
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6964051ca7d960800000000000000
+      internalID: 7626753700243533782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_146
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df4924c928101f0800000000000000
+      internalID: -1080438827948638969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_147
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a690c1f198f0ef770800000000000000
+      internalID: 8646365416204798314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_148
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288767d9ab9076400800000000000000
+      internalID: 317232995863263362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_149
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320342cc94c6a7850800000000000000
+      internalID: 6375527286709694499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_150
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38864319ced164f00800000000000000
+      internalID: 1100600060824283267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_151
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 431
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3ef6af2b87e1460800000000000000
+      internalID: 7214336363195261946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_152
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f9ba083c9eed20800000000000000
+      internalID: 3309754540675954185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_153
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebcef571d99c0e90800000000000000
+      internalID: -7058097391089562653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_154
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ae843478cc9ee0800000000000000
+      internalID: -1252906194892314926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_155
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542f1434f12af3c0800000000000000
+      internalID: -4325107159405747113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_156
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776338c93eda6d750800000000000000
+      internalID: 6329437519410837111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_157
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4559688ecbef0a0800000000000000
+      internalID: -6845826676680207147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_158
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78330c230e72af0800000000000000
+      internalID: -421121531558262853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_159
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761b8ec0030dc8d0800000000000000
+      internalID: -2824598089291327883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_160
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba64ea3fa8f6440800000000000000
+      internalID: 4931312896199535473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_161
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af62808f691f8c830800000000000000
+      internalID: 4091785892174767866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_162
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 399
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f355311f8979b30800000000000000
+      internalID: 4294068930899951437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcc45ac08b319120800000000000000
+      internalID: 2418779899211074737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_164
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c40f819061afc90800000000000000
+      internalID: -7135366431286211442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_165
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af7f1d3254a921d0800000000000000
+      internalID: -3374985772617728095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_166
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dbefc11b574ddb0800000000000000
+      internalID: -4768056701922394774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_167
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec7a037082809550800000000000000
+      internalID: 6165571378067700966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_168
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82be33d5305d8470800000000000000
+      internalID: 8398457072223433356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_169
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 275
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809eec8df55c85600800000000000000
+      internalID: 457332377628109064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_170
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 275
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc427ab706d7800800000000000000
+      internalID: 611751208593706381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_171
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 275
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5c4adfec4b07d90800000000000000
+      internalID: -7101977811251575308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_172
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 275
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677115723e0c8730800000000000000
+      internalID: 4002589778700760928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_173
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51489e4a532f24ea0800000000000000
+      internalID: -5889879050433231851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_174
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 335
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1616213d1eabe0800000000000000
+      internalID: -1464200731919246705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_175
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2bd53f37d3df60800000000000000
+      internalID: 8058020824782417010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_176
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 271
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3096743e9b72190800000000000000
+      internalID: -7987211028311505923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_177
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 151
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93446cd5b36708b70800000000000000
+      internalID: 8899242861032522809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_178
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b708e36d2c8e6da0800000000000000
+      internalID: -5949663931132278860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_179
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfcb17098e3e1af0800000000000000
+      internalID: -423832556675543080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_180
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8b23086fd4bd000800000000000000
+      internalID: 61728741007735022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_181
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdda8a11f62bc820800000000000000
+      internalID: 2939485998763662843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_182
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 151
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad609a9fe43633c30800000000000000
+      internalID: 4337920056935122650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_183
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 151
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add1a2c54af42f030800000000000000
+      internalID: 3526969025524014554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_184
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5befdb2038fb5850800000000000000
+      internalID: 6366955383996541787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_185
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ca46ff7f7abd4a0800000000000000
+      internalID: -6567470948006187915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_186
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b7c443b7e2ea200800000000000000
+      internalID: 193142940716792676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_187
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce4d7bb361195bd0800000000000000
+      internalID: -2641060586431099185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_188
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3de20b6020bc660800000000000000
+      internalID: 7407016239889830833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_189
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d834cd998f3ba5b40800000000000000
+      internalID: 5429850181063164813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_190
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 41
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a1ef9326b9d36b0800000000000000
+      internalID: -5314921139045262755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_191
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 73
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7810811f6d8500800000000000000
+      internalID: 400098062860057264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_192
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 35
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107c78b3934c9010800000000000000
+      internalID: 1196905902708125721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_193
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 73
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbe3574c77f9830800000000000000
+      internalID: 4080111473085299946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_194
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 35
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7744f05cf327a84b0800000000000000
+      internalID: -5437407981881834377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_195
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb611e81acc85d10800000000000000
+      internalID: 2114665019295755230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_196
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71774f90065217380800000000000000
+      internalID: -8975351487958583529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_197
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc6b88df638b340800000000000000
+      internalID: 4879710658804239736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_198
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a27e7d26febdfc70800000000000000
+      internalID: 9006564794345353889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_199
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801ad845c26257830800000000000000
+      internalID: 4068199810238095624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_200
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265e3cc391f3402b0800000000000000
+      internalID: -5619297057425332894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_201
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8f8f2ee7338250800000000000000
+      internalID: 5945657429198868028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_202
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 23
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4224556cf6598c0800000000000000
+      internalID: -3993162596969470760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_203
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 21
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47204d71e2554d0800000000000000
+      internalID: -3146558084772367174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_204
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1737c5a58d50c80a0800000000000000
+      internalID: -6878116104114506895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_205
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffcd110a40301790800000000000000
+      internalID: -7561490679950618631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoSwitch_206
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 23
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667561e217b3fcdf0800000000000000
+      internalID: -157842104644118682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NintendoSwitch_0: -2325043649586764904
+      NintendoSwitch_1: 7352675648413032269
+      NintendoSwitch_10: -2147584430637977229
+      NintendoSwitch_100: 2623189960766667871
+      NintendoSwitch_101: -5988463560264507340
+      NintendoSwitch_102: 5188579597731371567
+      NintendoSwitch_103: 623313321899085832
+      NintendoSwitch_104: 7947506269639647168
+      NintendoSwitch_105: -6386526935452524824
+      NintendoSwitch_106: 868608696971763571
+      NintendoSwitch_107: -4579792667872385825
+      NintendoSwitch_108: 1777124322141281376
+      NintendoSwitch_109: -7495413298275842986
+      NintendoSwitch_11: 3452815886292992260
+      NintendoSwitch_110: -3889409396831278244
+      NintendoSwitch_111: -78243109626306876
+      NintendoSwitch_112: -3939155132498196791
+      NintendoSwitch_113: 3230608951509978155
+      NintendoSwitch_114: -7223307923102110864
+      NintendoSwitch_115: -2905820902453396095
+      NintendoSwitch_116: 9173944550157537818
+      NintendoSwitch_117: -7785809533458531434
+      NintendoSwitch_118: 3449517576468782713
+      NintendoSwitch_119: -4643089750575065116
+      NintendoSwitch_12: -253804179322184319
+      NintendoSwitch_120: -5849653179279219737
+      NintendoSwitch_121: 2103348604568321138
+      NintendoSwitch_122: -2945680771169222694
+      NintendoSwitch_123: -6267714798314337360
+      NintendoSwitch_124: -4668583202512415511
+      NintendoSwitch_125: 2983920320760388324
+      NintendoSwitch_126: -5567947875699011952
+      NintendoSwitch_127: 8269459830205951498
+      NintendoSwitch_128: 7148362133534749826
+      NintendoSwitch_129: -8949314914499825557
+      NintendoSwitch_13: -669571136391250434
+      NintendoSwitch_130: 8805359491138538499
+      NintendoSwitch_131: -7613589635451192551
+      NintendoSwitch_132: -3528499264182464719
+      NintendoSwitch_133: 4405364018669241030
+      NintendoSwitch_134: -4946362473669130382
+      NintendoSwitch_135: -519402048060903545
+      NintendoSwitch_136: 596170802298473339
+      NintendoSwitch_137: -3914439621890941548
+      NintendoSwitch_138: -7659130517907672901
+      NintendoSwitch_139: 1652114662390519396
+      NintendoSwitch_14: -7752357315887833551
+      NintendoSwitch_140: 5989261886044719825
+      NintendoSwitch_141: 3615731479639777129
+      NintendoSwitch_142: 3438163942842745022
+      NintendoSwitch_143: 1041576142397212987
+      NintendoSwitch_144: -1466625969497362042
+      NintendoSwitch_145: 7626753700243533782
+      NintendoSwitch_146: -1080438827948638969
+      NintendoSwitch_147: 8646365416204798314
+      NintendoSwitch_148: 317232995863263362
+      NintendoSwitch_149: 6375527286709694499
+      NintendoSwitch_15: 3690709548184795956
+      NintendoSwitch_150: 1100600060824283267
+      NintendoSwitch_151: 7214336363195261946
+      NintendoSwitch_152: 3309754540675954185
+      NintendoSwitch_153: -7058097391089562653
+      NintendoSwitch_154: -1252906194892314926
+      NintendoSwitch_155: -4325107159405747113
+      NintendoSwitch_156: 6329437519410837111
+      NintendoSwitch_157: -6845826676680207147
+      NintendoSwitch_158: -421121531558262853
+      NintendoSwitch_159: -2824598089291327883
+      NintendoSwitch_16: 1223800629004114836
+      NintendoSwitch_160: 4931312896199535473
+      NintendoSwitch_161: 4091785892174767866
+      NintendoSwitch_162: 4294068930899951437
+      NintendoSwitch_163: 2418779899211074737
+      NintendoSwitch_164: -7135366431286211442
+      NintendoSwitch_165: -3374985772617728095
+      NintendoSwitch_166: -4768056701922394774
+      NintendoSwitch_167: 6165571378067700966
+      NintendoSwitch_168: 8398457072223433356
+      NintendoSwitch_169: 457332377628109064
+      NintendoSwitch_17: 152883875218740323
+      NintendoSwitch_170: 611751208593706381
+      NintendoSwitch_171: -7101977811251575308
+      NintendoSwitch_172: 4002589778700760928
+      NintendoSwitch_173: -5889879050433231851
+      NintendoSwitch_174: -1464200731919246705
+      NintendoSwitch_175: 8058020824782417010
+      NintendoSwitch_176: -7987211028311505923
+      NintendoSwitch_177: 8899242861032522809
+      NintendoSwitch_178: -5949663931132278860
+      NintendoSwitch_179: -423832556675543080
+      NintendoSwitch_18: -4259151478192087655
+      NintendoSwitch_180: 61728741007735022
+      NintendoSwitch_181: 2939485998763662843
+      NintendoSwitch_182: 4337920056935122650
+      NintendoSwitch_183: 3526969025524014554
+      NintendoSwitch_184: 6366955383996541787
+      NintendoSwitch_185: -6567470948006187915
+      NintendoSwitch_186: 193142940716792676
+      NintendoSwitch_187: -2641060586431099185
+      NintendoSwitch_188: 7407016239889830833
+      NintendoSwitch_189: 5429850181063164813
+      NintendoSwitch_19: 8151020144469162153
+      NintendoSwitch_190: -5314921139045262755
+      NintendoSwitch_191: 400098062860057264
+      NintendoSwitch_192: 1196905902708125721
+      NintendoSwitch_193: 4080111473085299946
+      NintendoSwitch_194: -5437407981881834377
+      NintendoSwitch_195: 2114665019295755230
+      NintendoSwitch_196: -8975351487958583529
+      NintendoSwitch_197: 4879710658804239736
+      NintendoSwitch_198: 9006564794345353889
+      NintendoSwitch_199: 4068199810238095624
+      NintendoSwitch_2: -2951938983189194514
+      NintendoSwitch_20: -3086803332556195029
+      NintendoSwitch_200: -5619297057425332894
+      NintendoSwitch_201: 5945657429198868028
+      NintendoSwitch_202: -3993162596969470760
+      NintendoSwitch_203: -3146558084772367174
+      NintendoSwitch_204: -6878116104114506895
+      NintendoSwitch_205: -7561490679950618631
+      NintendoSwitch_206: -157842104644118682
+      NintendoSwitch_21: -3561942932844867960
+      NintendoSwitch_22: -7854541511175483102
+      NintendoSwitch_23: 1345238002541305860
+      NintendoSwitch_24: -2605973600298516820
+      NintendoSwitch_25: 2408161132014901525
+      NintendoSwitch_26: 623218366067458063
+      NintendoSwitch_27: 455652487704081511
+      NintendoSwitch_28: -5727036171268983749
+      NintendoSwitch_29: 6209953960042595149
+      NintendoSwitch_3: -7652459349015983464
+      NintendoSwitch_30: -3433186000548038271
+      NintendoSwitch_31: -3548813788338819017
+      NintendoSwitch_32: -4022957595732228764
+      NintendoSwitch_33: 8027433773607244056
+      NintendoSwitch_34: 6069773023129869638
+      NintendoSwitch_35: 7691984488368053819
+      NintendoSwitch_36: 8744802538293021828
+      NintendoSwitch_37: -4711939280513311502
+      NintendoSwitch_38: -8758484031827287645
+      NintendoSwitch_39: -5092225171102690122
+      NintendoSwitch_4: 7509971317881349717
+      NintendoSwitch_40: 4692620409183756481
+      NintendoSwitch_41: -1726976751707106954
+      NintendoSwitch_42: -5380061579791953697
+      NintendoSwitch_43: -4703172133593365306
+      NintendoSwitch_44: -782800299038635261
+      NintendoSwitch_45: -1797281155919652285
+      NintendoSwitch_46: 1121516959344190585
+      NintendoSwitch_47: 8957183092659974107
+      NintendoSwitch_48: 5789151958462597834
+      NintendoSwitch_49: 8416997335893277455
+      NintendoSwitch_5: -5494679172889150725
+      NintendoSwitch_50: -428956816964405041
+      NintendoSwitch_51: 157687460026318737
+      NintendoSwitch_52: -4076803193969916470
+      NintendoSwitch_53: -146306488400530153
+      NintendoSwitch_54: 5208991979151077590
+      NintendoSwitch_55: 1283979572331645591
+      NintendoSwitch_56: -4911421992955112002
+      NintendoSwitch_57: -5053366005178410549
+      NintendoSwitch_58: -8388903548206337541
+      NintendoSwitch_59: 6013513677220460720
+      NintendoSwitch_6: 4347298480946244476
+      NintendoSwitch_60: 2166714855175997805
+      NintendoSwitch_61: -4462674113497357333
+      NintendoSwitch_62: 3709567949633584339
+      NintendoSwitch_63: 4975801582260681704
+      NintendoSwitch_64: -224843570462913194
+      NintendoSwitch_65: 7210090880716100664
+      NintendoSwitch_66: -906950493940688109
+      NintendoSwitch_67: -7870869051037633865
+      NintendoSwitch_68: 5624124551983848580
+      NintendoSwitch_69: -6995690516219695697
+      NintendoSwitch_7: -1287322392774529587
+      NintendoSwitch_70: 976530686391005217
+      NintendoSwitch_71: 6294287009207907127
+      NintendoSwitch_72: -5555526634399860810
+      NintendoSwitch_73: 7285792625413701701
+      NintendoSwitch_74: 6216331519943210022
+      NintendoSwitch_75: 2764446332336023983
+      NintendoSwitch_76: -5817156322811429272
+      NintendoSwitch_77: 1050174256386905691
+      NintendoSwitch_78: 3363652885483401221
+      NintendoSwitch_79: 6433888557759634803
+      NintendoSwitch_8: -7414732547500394325
+      NintendoSwitch_80: 797885992245434591
+      NintendoSwitch_81: 6811329870420816262
+      NintendoSwitch_82: 8348746275757704572
+      NintendoSwitch_83: 7340552072219598939
+      NintendoSwitch_84: 3388050518188817335
+      NintendoSwitch_85: -5720770833106578239
+      NintendoSwitch_86: 6108833438807724135
+      NintendoSwitch_87: -5925413799377350425
+      NintendoSwitch_88: 1598680140109392856
+      NintendoSwitch_89: 4333843026326134033
+      NintendoSwitch_9: -2448375483626185927
+      NintendoSwitch_90: -8076966582870965933
+      NintendoSwitch_91: 1878061856653260844
+      NintendoSwitch_92: 8704725788709357992
+      NintendoSwitch_93: 2139788487311721866
+      NintendoSwitch_94: 1839750499612823983
+      NintendoSwitch_95: -3037776430723271274
+      NintendoSwitch_96: -5960123048663004533
+      NintendoSwitch_97: 316462188150353695
+      NintendoSwitch_98: -1932607575429656498
+      NintendoSwitch_99: 6718355530094303427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

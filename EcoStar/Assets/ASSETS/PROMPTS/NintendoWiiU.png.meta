@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 6b3336ef5e9b9eb46b9c907e390dccee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3911709211312778267
+    second: NintendoWiiU_0
+  - first:
+      213: -5001902540749690791
+    second: NintendoWiiU_1
+  - first:
+      213: -5057797277171645089
+    second: NintendoWiiU_2
+  - first:
+      213: 2886869593436973316
+    second: NintendoWiiU_3
+  - first:
+      213: 7591948012329267033
+    second: NintendoWiiU_4
+  - first:
+      213: -7736696134813094553
+    second: NintendoWiiU_5
+  - first:
+      213: 6366303612191453072
+    second: NintendoWiiU_6
+  - first:
+      213: -4442286646069075659
+    second: NintendoWiiU_7
+  - first:
+      213: -8145638493878574604
+    second: NintendoWiiU_8
+  - first:
+      213: 8227496862781357946
+    second: NintendoWiiU_9
+  - first:
+      213: 1627109839251408221
+    second: NintendoWiiU_10
+  - first:
+      213: -7327177593659485688
+    second: NintendoWiiU_11
+  - first:
+      213: 7235643742892443340
+    second: NintendoWiiU_12
+  - first:
+      213: -7750021543718629718
+    second: NintendoWiiU_13
+  - first:
+      213: -3040767878243495417
+    second: NintendoWiiU_14
+  - first:
+      213: -1756030324138038729
+    second: NintendoWiiU_15
+  - first:
+      213: 1522922842272227351
+    second: NintendoWiiU_16
+  - first:
+      213: -4407183790049430615
+    second: NintendoWiiU_17
+  - first:
+      213: 3701156237032059606
+    second: NintendoWiiU_18
+  - first:
+      213: 4377168073564804685
+    second: NintendoWiiU_19
+  - first:
+      213: 1491809726372071224
+    second: NintendoWiiU_20
+  - first:
+      213: -8273905233290116556
+    second: NintendoWiiU_21
+  - first:
+      213: -837756000890559233
+    second: NintendoWiiU_22
+  - first:
+      213: 4999450756114597842
+    second: NintendoWiiU_23
+  - first:
+      213: -8679511669070554426
+    second: NintendoWiiU_24
+  - first:
+      213: -4670380382980766852
+    second: NintendoWiiU_25
+  - first:
+      213: -9081423731922643811
+    second: NintendoWiiU_26
+  - first:
+      213: -2115339543166426732
+    second: NintendoWiiU_27
+  - first:
+      213: -2040522877637398677
+    second: NintendoWiiU_28
+  - first:
+      213: 7476127838366150179
+    second: NintendoWiiU_29
+  - first:
+      213: -8258019702665503833
+    second: NintendoWiiU_30
+  - first:
+      213: -3444299814830543359
+    second: NintendoWiiU_31
+  - first:
+      213: -5246862463476988475
+    second: NintendoWiiU_32
+  - first:
+      213: -6279894693867742113
+    second: NintendoWiiU_33
+  - first:
+      213: -8931433570746374768
+    second: NintendoWiiU_34
+  - first:
+      213: 3849009342604876315
+    second: NintendoWiiU_35
+  - first:
+      213: 3885797498051465598
+    second: NintendoWiiU_36
+  - first:
+      213: -4145973060958526800
+    second: NintendoWiiU_37
+  - first:
+      213: -7202930332554517984
+    second: NintendoWiiU_38
+  - first:
+      213: -461907364814142259
+    second: NintendoWiiU_39
+  - first:
+      213: -2335078575386639544
+    second: NintendoWiiU_40
+  - first:
+      213: 8462066052173621807
+    second: NintendoWiiU_41
+  - first:
+      213: -4362102371125193169
+    second: NintendoWiiU_42
+  - first:
+      213: -5335259975063934821
+    second: NintendoWiiU_43
+  - first:
+      213: 7402273096538775648
+    second: NintendoWiiU_44
+  - first:
+      213: 574691801502764479
+    second: NintendoWiiU_45
+  - first:
+      213: 2603251399899096069
+    second: NintendoWiiU_46
+  - first:
+      213: -7711246907022086499
+    second: NintendoWiiU_47
+  - first:
+      213: 8037895244166335102
+    second: NintendoWiiU_48
+  - first:
+      213: -703071154940883436
+    second: NintendoWiiU_49
+  - first:
+      213: -2296255350095171437
+    second: NintendoWiiU_50
+  - first:
+      213: 7123571623384303304
+    second: NintendoWiiU_51
+  - first:
+      213: -7157357361996543311
+    second: NintendoWiiU_52
+  - first:
+      213: -7377744878626775503
+    second: NintendoWiiU_53
+  - first:
+      213: 626336764687974286
+    second: NintendoWiiU_54
+  - first:
+      213: 8260472535574351793
+    second: NintendoWiiU_55
+  - first:
+      213: 1197372526469582247
+    second: NintendoWiiU_56
+  - first:
+      213: -8654086371784723731
+    second: NintendoWiiU_57
+  - first:
+      213: -113041061767709806
+    second: NintendoWiiU_58
+  - first:
+      213: -533048927095111556
+    second: NintendoWiiU_59
+  - first:
+      213: -1390289994058142391
+    second: NintendoWiiU_60
+  - first:
+      213: -3780948094149139111
+    second: NintendoWiiU_61
+  - first:
+      213: -8077209383075951648
+    second: NintendoWiiU_62
+  - first:
+      213: -2617888993450040639
+    second: NintendoWiiU_63
+  - first:
+      213: 4632691839846592961
+    second: NintendoWiiU_64
+  - first:
+      213: 2827920453645510644
+    second: NintendoWiiU_65
+  - first:
+      213: -1467201304935745336
+    second: NintendoWiiU_66
+  - first:
+      213: -2141300574680882817
+    second: NintendoWiiU_67
+  - first:
+      213: 5438917770541220589
+    second: NintendoWiiU_68
+  - first:
+      213: -2062012398099474580
+    second: NintendoWiiU_69
+  - first:
+      213: 8950722617479509434
+    second: NintendoWiiU_70
+  - first:
+      213: 8064866309857823508
+    second: NintendoWiiU_71
+  - first:
+      213: -6395634030944167102
+    second: NintendoWiiU_72
+  - first:
+      213: -5672130752766253779
+    second: NintendoWiiU_73
+  - first:
+      213: -7195956148115581118
+    second: NintendoWiiU_74
+  - first:
+      213: -5971463529222141380
+    second: NintendoWiiU_75
+  - first:
+      213: 4877977955996050178
+    second: NintendoWiiU_76
+  - first:
+      213: -6513729601430588425
+    second: NintendoWiiU_77
+  - first:
+      213: -3296103849153717713
+    second: NintendoWiiU_78
+  - first:
+      213: -5084012411344250699
+    second: NintendoWiiU_79
+  - first:
+      213: 8869395451190199068
+    second: NintendoWiiU_80
+  - first:
+      213: -6149937105280908577
+    second: NintendoWiiU_81
+  - first:
+      213: 5503118011223807419
+    second: NintendoWiiU_82
+  - first:
+      213: 7334100157290006501
+    second: NintendoWiiU_83
+  - first:
+      213: -7073767850575667744
+    second: NintendoWiiU_84
+  - first:
+      213: -798333730395039962
+    second: NintendoWiiU_85
+  - first:
+      213: -5565486124838998317
+    second: NintendoWiiU_86
+  - first:
+      213: -8588636600570814749
+    second: NintendoWiiU_87
+  - first:
+      213: 1589964885333432435
+    second: NintendoWiiU_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NintendoWiiU_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 911
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cebe47dce294630800000000000000
+      internalID: 3911709211312778267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 911
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ad71f32ca59ab0800000000000000
+      internalID: -5001902540749690791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f550f3c7c281fc9b0800000000000000
+      internalID: -5057797277171645089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 911
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409efa59998301820800000000000000
+      internalID: 2886869593436973316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6e1c4e740c5960800000000000000
+      internalID: 7591948012329267033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de35d2bdbb1a490800000000000000
+      internalID: -7736696134813094553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f25f8b767a95850800000000000000
+      internalID: 6366303612191453072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 895
+        width: 513
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5316796e4d3d952c0800000000000000
+      internalID: -4442286646069075659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 955
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ae9f72f0e4fe80800000000000000
+      internalID: -8145638493878574604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 858
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f39b83ec0fd2270800000000000000
+      internalID: 8227496862781357946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558f1b27c7a49610800000000000000
+      internalID: 1627109839251408221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80299b3bcc2a05a90800000000000000
+      internalID: -7327177593659485688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c168e5ab2a6460800000000000000
+      internalID: 7235643742892443340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaec605a774627490800000000000000
+      internalID: -7750021543718629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702d0e4b9b50dc5d0800000000000000
+      internalID: -3040767878243495417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a20fa59b351a7e0800000000000000
+      internalID: -1756030324138038729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710e6f99142822510800000000000000
+      internalID: 1522922842272227351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_17
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a37e3671b986d2c0800000000000000
+      internalID: -4407183790049430615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 858
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2748eecf52d5330800000000000000
+      internalID: 3701156237032059606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d203fb23debc30800000000000000
+      internalID: 4377168073564804685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83741ecca09f3b410800000000000000
+      internalID: 1491809726372071224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 783
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324f70070f2d2d80800000000000000
+      internalID: -8273905233290116556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 821
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff467761b51bf54f0800000000000000
+      internalID: -837756000890559233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c44679fd916540800000000000000
+      internalID: 4999450756114597842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca113d7f1e2c8780800000000000000
+      internalID: -8679511669070554426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738a7259c97f2fb0800000000000000
+      internalID: -4670380382980766852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_26
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94d2f33b3d48f180800000000000000
+      internalID: -9081423731922643811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_27
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 783
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4916a3e94edc4a2e0800000000000000
+      internalID: -2115339543166426732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_28
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 821
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6d52014b9ea3e0800000000000000
+      internalID: -2040522877637398677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_29
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2935a8aa80c760800000000000000
+      internalID: 7476127838366150179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_30
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab127255de956d80800000000000000
+      internalID: -8258019702665503833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ee41d21936330d0800000000000000
+      internalID: -3444299814830543359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c58f1773666f27b0800000000000000
+      internalID: -5246862463476988475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c17295c0559d8a0800000000000000
+      internalID: -6279894693867742113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095e9a8fc7c2d0480800000000000000
+      internalID: -8931433570746374768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a9f1baa9d6a6530800000000000000
+      internalID: 3849009342604876315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7195749c302de530800000000000000
+      internalID: 3885797498051465598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_37
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26a35a77b8676c0800000000000000
+      internalID: -4145973060958526800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_38
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a33a760d0a0c90800000000000000
+      internalID: -7202930332554517984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_39
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4cd11f2b9f699f0800000000000000
+      internalID: -461907364814142259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 529
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843447f4862289fd0800000000000000
+      internalID: -2335078575386639544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 591
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a63b19d3c4f6570800000000000000
+      internalID: 8462066052173621807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26913f3103b673c0800000000000000
+      internalID: -4362102371125193169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9864f1f15955f5b0800000000000000
+      internalID: -5335259975063934821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060ef9199282ab660800000000000000
+      internalID: 7402273096538775648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_45
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdc6eb0627b9f700800000000000000
+      internalID: 574691801502764479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50426080b5b902420800000000000000
+      internalID: 2603251399899096069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6e934bc52cf490800000000000000
+      internalID: -7711246907022086499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a065253275c8f60800000000000000
+      internalID: 8037895244166335102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_49
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ecce572803e36f0800000000000000
+      internalID: -703071154940883436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390bcf7dcef0220e0800000000000000
+      internalID: -2296255350095171437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6cfdf26a20cd260800000000000000
+      internalID: 7123571623384303304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba4bab8665fbac90800000000000000
+      internalID: -7157357361996543311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e5ef13f1cfc9990800000000000000
+      internalID: -7377744878626775503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 417
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7ef018f131b800800000000000000
+      internalID: 626336764687974286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 405
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf87c7510813a270800000000000000
+      internalID: 8260472535574351793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_56
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 463
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad080808fbed9010800000000000000
+      internalID: 1197372526469582247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_57
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 401
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2f832db4286e780800000000000000
+      internalID: -8654086371784723731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_58
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 463
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b7d44d0c56e6ef0800000000000000
+      internalID: -113041061767709806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_59
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 415
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c79433da3a98f0800000000000000
+      internalID: -533048927095111556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_60
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 405
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d6261dd92b4bce0800000000000000
+      internalID: -1390289994058142391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_61
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 463
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955ec0e9dbf578bc0800000000000000
+      internalID: -3780948094149139111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb4e496cdcf7ef80800000000000000
+      internalID: -8077209383075951648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 275
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26104a4d36babd0800000000000000
+      internalID: -2617888993450040639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c138ebeea0aa4040800000000000000
+      internalID: 4632691839846592961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 287
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72a9c6baace3720800000000000000
+      internalID: 2827920453645510644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_66
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 287
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8b05dcf2473abe0800000000000000
+      internalID: -1467201304935745336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_67
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716ec0f8729842e0800000000000000
+      internalID: -2141300574680882817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de24bab45eaea7b40800000000000000
+      internalID: 5438917770541220589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_69
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6754d026a24263e0800000000000000
+      internalID: -2062012398099474580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_70
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5bbe13cca573c70800000000000000
+      internalID: 8950722617479509434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b4718ed292cef60800000000000000
+      internalID: 8064866309857823508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b5c200cb42e37a0800000000000000
+      internalID: -6395634030944167102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 147
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d256cc1f12b8841b0800000000000000
+      internalID: -5672130752766253779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_74
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 147
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24758445204d22c90800000000000000
+      internalID: -7195956148115581118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_75
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a838fee89112da0800000000000000
+      internalID: -5971463529222141380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_76
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a4593b1f02b340800000000000000
+      internalID: 4877977955996050178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_77
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f378cf40759a95a0800000000000000
+      internalID: -6513729601430588425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_78
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a15604303e142d0800000000000000
+      internalID: -3296103849153717713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_79
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8162ce5a5f179b0800000000000000
+      internalID: -5084012411344250699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1348a8bb2c661b70800000000000000
+      internalID: 8869395451190199068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2ccb859c807aaa0800000000000000
+      internalID: -6149937105280908577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb59c08aca00f5c40800000000000000
+      internalID: 5503118011223807419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_83
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7486e3c35f7c560800000000000000
+      internalID: 7334100157290006501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_84
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eddbda4e9de4dd90800000000000000
+      internalID: -7073767850575667744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6275793b3bfbbe4f0800000000000000
+      internalID: -798333730395039962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_86
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de2b9e4bdb63c2b0800000000000000
+      internalID: -5565486124838998317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_87
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eede0e24880fc880800000000000000
+      internalID: -8588636600570814749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoWiiU_88
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d4a3a3a0b01610800000000000000
+      internalID: 1589964885333432435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NintendoWiiU_0: 3911709211312778267
+      NintendoWiiU_1: -5001902540749690791
+      NintendoWiiU_10: 1627109839251408221
+      NintendoWiiU_11: -7327177593659485688
+      NintendoWiiU_12: 7235643742892443340
+      NintendoWiiU_13: -7750021543718629718
+      NintendoWiiU_14: -3040767878243495417
+      NintendoWiiU_15: -1756030324138038729
+      NintendoWiiU_16: 1522922842272227351
+      NintendoWiiU_17: -4407183790049430615
+      NintendoWiiU_18: 3701156237032059606
+      NintendoWiiU_19: 4377168073564804685
+      NintendoWiiU_2: -5057797277171645089
+      NintendoWiiU_20: 1491809726372071224
+      NintendoWiiU_21: -8273905233290116556
+      NintendoWiiU_22: -837756000890559233
+      NintendoWiiU_23: 4999450756114597842
+      NintendoWiiU_24: -8679511669070554426
+      NintendoWiiU_25: -4670380382980766852
+      NintendoWiiU_26: -9081423731922643811
+      NintendoWiiU_27: -2115339543166426732
+      NintendoWiiU_28: -2040522877637398677
+      NintendoWiiU_29: 7476127838366150179
+      NintendoWiiU_3: 2886869593436973316
+      NintendoWiiU_30: -8258019702665503833
+      NintendoWiiU_31: -3444299814830543359
+      NintendoWiiU_32: -5246862463476988475
+      NintendoWiiU_33: -6279894693867742113
+      NintendoWiiU_34: -8931433570746374768
+      NintendoWiiU_35: 3849009342604876315
+      NintendoWiiU_36: 3885797498051465598
+      NintendoWiiU_37: -4145973060958526800
+      NintendoWiiU_38: -7202930332554517984
+      NintendoWiiU_39: -461907364814142259
+      NintendoWiiU_4: 7591948012329267033
+      NintendoWiiU_40: -2335078575386639544
+      NintendoWiiU_41: 8462066052173621807
+      NintendoWiiU_42: -4362102371125193169
+      NintendoWiiU_43: -5335259975063934821
+      NintendoWiiU_44: 7402273096538775648
+      NintendoWiiU_45: 574691801502764479
+      NintendoWiiU_46: 2603251399899096069
+      NintendoWiiU_47: -7711246907022086499
+      NintendoWiiU_48: 8037895244166335102
+      NintendoWiiU_49: -703071154940883436
+      NintendoWiiU_5: -7736696134813094553
+      NintendoWiiU_50: -2296255350095171437
+      NintendoWiiU_51: 7123571623384303304
+      NintendoWiiU_52: -7157357361996543311
+      NintendoWiiU_53: -7377744878626775503
+      NintendoWiiU_54: 626336764687974286
+      NintendoWiiU_55: 8260472535574351793
+      NintendoWiiU_56: 1197372526469582247
+      NintendoWiiU_57: -8654086371784723731
+      NintendoWiiU_58: -113041061767709806
+      NintendoWiiU_59: -533048927095111556
+      NintendoWiiU_6: 6366303612191453072
+      NintendoWiiU_60: -1390289994058142391
+      NintendoWiiU_61: -3780948094149139111
+      NintendoWiiU_62: -8077209383075951648
+      NintendoWiiU_63: -2617888993450040639
+      NintendoWiiU_64: 4632691839846592961
+      NintendoWiiU_65: 2827920453645510644
+      NintendoWiiU_66: -1467201304935745336
+      NintendoWiiU_67: -2141300574680882817
+      NintendoWiiU_68: 5438917770541220589
+      NintendoWiiU_69: -2062012398099474580
+      NintendoWiiU_7: -4442286646069075659
+      NintendoWiiU_70: 8950722617479509434
+      NintendoWiiU_71: 8064866309857823508
+      NintendoWiiU_72: -6395634030944167102
+      NintendoWiiU_73: -5672130752766253779
+      NintendoWiiU_74: -7195956148115581118
+      NintendoWiiU_75: -5971463529222141380
+      NintendoWiiU_76: 4877977955996050178
+      NintendoWiiU_77: -6513729601430588425
+      NintendoWiiU_78: -3296103849153717713
+      NintendoWiiU_79: -5084012411344250699
+      NintendoWiiU_8: -8145638493878574604
+      NintendoWiiU_80: 8869395451190199068
+      NintendoWiiU_81: -6149937105280908577
+      NintendoWiiU_82: 5503118011223807419
+      NintendoWiiU_83: 7334100157290006501
+      NintendoWiiU_84: -7073767850575667744
+      NintendoWiiU_85: -798333730395039962
+      NintendoWiiU_86: -5565486124838998317
+      NintendoWiiU_87: -8588636600570814749
+      NintendoWiiU_88: 1589964885333432435
+      NintendoWiiU_9: 8227496862781357946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

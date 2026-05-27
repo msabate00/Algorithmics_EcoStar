@@ -1,0 +1,3133 @@
+fileFormatVersion: 2
+guid: 592079b9ecfe6b8429d06b15ea5c83a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2097532245811612101
+    second: NintendoGamecube_0
+  - first:
+      213: -5019623102080558256
+    second: NintendoGamecube_1
+  - first:
+      213: -3140352477962825995
+    second: NintendoGamecube_2
+  - first:
+      213: 4920215323246656550
+    second: NintendoGamecube_3
+  - first:
+      213: 1705796345014107601
+    second: NintendoGamecube_4
+  - first:
+      213: -2207832517070688095
+    second: NintendoGamecube_5
+  - first:
+      213: 8029986594764622351
+    second: NintendoGamecube_6
+  - first:
+      213: 2171811160155715866
+    second: NintendoGamecube_7
+  - first:
+      213: 2495492820822312672
+    second: NintendoGamecube_8
+  - first:
+      213: 1774712726029744585
+    second: NintendoGamecube_9
+  - first:
+      213: 5537512503281885786
+    second: NintendoGamecube_10
+  - first:
+      213: 8494364915001482666
+    second: NintendoGamecube_11
+  - first:
+      213: -5008365035889625076
+    second: NintendoGamecube_12
+  - first:
+      213: 5383079727927084654
+    second: NintendoGamecube_13
+  - first:
+      213: -7260918778712157055
+    second: NintendoGamecube_14
+  - first:
+      213: 2065896636968893513
+    second: NintendoGamecube_15
+  - first:
+      213: -6636318754771348093
+    second: NintendoGamecube_16
+  - first:
+      213: -6817266743723011425
+    second: NintendoGamecube_17
+  - first:
+      213: 6378310137796588288
+    second: NintendoGamecube_18
+  - first:
+      213: 5042390920902304687
+    second: NintendoGamecube_19
+  - first:
+      213: 4319818993683708082
+    second: NintendoGamecube_20
+  - first:
+      213: -5910477563417428412
+    second: NintendoGamecube_21
+  - first:
+      213: 7866374756238994501
+    second: NintendoGamecube_22
+  - first:
+      213: -6895256455765133274
+    second: NintendoGamecube_23
+  - first:
+      213: 427016996115599854
+    second: NintendoGamecube_24
+  - first:
+      213: 6915693247351154784
+    second: NintendoGamecube_25
+  - first:
+      213: 564408049430473188
+    second: NintendoGamecube_26
+  - first:
+      213: -6163839220088231323
+    second: NintendoGamecube_27
+  - first:
+      213: -6875297997911054254
+    second: NintendoGamecube_28
+  - first:
+      213: -1723146601508654359
+    second: NintendoGamecube_29
+  - first:
+      213: -8429536487175633491
+    second: NintendoGamecube_30
+  - first:
+      213: -6351648050766540183
+    second: NintendoGamecube_31
+  - first:
+      213: -6464695695531259685
+    second: NintendoGamecube_32
+  - first:
+      213: -8721386785166154704
+    second: NintendoGamecube_33
+  - first:
+      213: -1494904106468117740
+    second: NintendoGamecube_34
+  - first:
+      213: 6272368383114586026
+    second: NintendoGamecube_35
+  - first:
+      213: 4015977467384207410
+    second: NintendoGamecube_36
+  - first:
+      213: 3980596743514763925
+    second: NintendoGamecube_37
+  - first:
+      213: 8588185407072191707
+    second: NintendoGamecube_38
+  - first:
+      213: 2325662158636271429
+    second: NintendoGamecube_39
+  - first:
+      213: 2170796799596436223
+    second: NintendoGamecube_40
+  - first:
+      213: -5901406596324424066
+    second: NintendoGamecube_41
+  - first:
+      213: 881408013468746601
+    second: NintendoGamecube_42
+  - first:
+      213: -2403180427733258457
+    second: NintendoGamecube_43
+  - first:
+      213: 5425424112645996768
+    second: NintendoGamecube_44
+  - first:
+      213: 3795125155994415782
+    second: NintendoGamecube_45
+  - first:
+      213: 4424135401439522818
+    second: NintendoGamecube_46
+  - first:
+      213: 2514482443879535707
+    second: NintendoGamecube_47
+  - first:
+      213: 2237489463377388055
+    second: NintendoGamecube_48
+  - first:
+      213: -3179165839297824724
+    second: NintendoGamecube_49
+  - first:
+      213: -5203001033102902364
+    second: NintendoGamecube_50
+  - first:
+      213: -2260719631156221971
+    second: NintendoGamecube_51
+  - first:
+      213: 5685201670856044790
+    second: NintendoGamecube_52
+  - first:
+      213: 4247376001688694291
+    second: NintendoGamecube_53
+  - first:
+      213: 517336787968107921
+    second: NintendoGamecube_54
+  - first:
+      213: -6121188327661423417
+    second: NintendoGamecube_55
+  - first:
+      213: 932631670337970006
+    second: NintendoGamecube_56
+  - first:
+      213: 4635078627073133072
+    second: NintendoGamecube_57
+  - first:
+      213: -2530273103613354924
+    second: NintendoGamecube_58
+  - first:
+      213: 3817500311832919987
+    second: NintendoGamecube_59
+  - first:
+      213: -2084858104898544071
+    second: NintendoGamecube_60
+  - first:
+      213: -2409981880953870841
+    second: NintendoGamecube_61
+  - first:
+      213: -5392664637296387503
+    second: NintendoGamecube_62
+  - first:
+      213: 2883371975848204304
+    second: NintendoGamecube_63
+  - first:
+      213: 5632818510690214593
+    second: NintendoGamecube_64
+  - first:
+      213: -5852690734564471993
+    second: NintendoGamecube_65
+  - first:
+      213: -7742700729254625029
+    second: NintendoGamecube_66
+  - first:
+      213: 4247736253079821984
+    second: NintendoGamecube_67
+  - first:
+      213: 8677763323163097075
+    second: NintendoGamecube_68
+  - first:
+      213: -8452953618145601878
+    second: NintendoGamecube_69
+  - first:
+      213: 385297631897448435
+    second: NintendoGamecube_70
+  - first:
+      213: -9154997957072863364
+    second: NintendoGamecube_71
+  - first:
+      213: 3132468609196173669
+    second: NintendoGamecube_72
+  - first:
+      213: -2538705960983483199
+    second: NintendoGamecube_73
+  - first:
+      213: -1144898187393140667
+    second: NintendoGamecube_74
+  - first:
+      213: 8370808470006785565
+    second: NintendoGamecube_75
+  - first:
+      213: -452164175453223500
+    second: NintendoGamecube_76
+  - first:
+      213: 5642873068114235344
+    second: NintendoGamecube_77
+  - first:
+      213: 6378238287809231733
+    second: NintendoGamecube_78
+  - first:
+      213: -1610669486810656020
+    second: NintendoGamecube_79
+  - first:
+      213: -5841735544696809643
+    second: NintendoGamecube_80
+  - first:
+      213: 3017505785827724681
+    second: NintendoGamecube_81
+  - first:
+      213: 5662656361454626434
+    second: NintendoGamecube_82
+  - first:
+      213: -8648695644186733596
+    second: NintendoGamecube_83
+  - first:
+      213: 286837317270149150
+    second: NintendoGamecube_84
+  - first:
+      213: 9093539107169254613
+    second: NintendoGamecube_85
+  - first:
+      213: 762833664971010589
+    second: NintendoGamecube_86
+  - first:
+      213: 7992257806818319783
+    second: NintendoGamecube_87
+  - first:
+      213: 6549316403467943435
+    second: NintendoGamecube_88
+  - first:
+      213: 7486802135416515923
+    second: NintendoGamecube_89
+  - first:
+      213: 3194291452258844143
+    second: NintendoGamecube_90
+  - first:
+      213: -103330279663367533
+    second: NintendoGamecube_91
+  - first:
+      213: -1260502156200633688
+    second: NintendoGamecube_92
+  - first:
+      213: 8715544745758521559
+    second: NintendoGamecube_93
+  - first:
+      213: 7685280148045226079
+    second: NintendoGamecube_94
+  - first:
+      213: -1270572397069445958
+    second: NintendoGamecube_95
+  - first:
+      213: 8771504683803929547
+    second: NintendoGamecube_96
+  - first:
+      213: -8524914660048227354
+    second: NintendoGamecube_97
+  - first:
+      213: -2234874321670334414
+    second: NintendoGamecube_98
+  - first:
+      213: -8703426774160932796
+    second: NintendoGamecube_99
+  - first:
+      213: 3754954907510580740
+    second: NintendoGamecube_100
+  - first:
+      213: -5088300670381348579
+    second: NintendoGamecube_101
+  - first:
+      213: 6536458208213913360
+    second: NintendoGamecube_102
+  - first:
+      213: 457185133749549662
+    second: NintendoGamecube_103
+  - first:
+      213: 5989791507803237352
+    second: NintendoGamecube_104
+  - first:
+      213: 8212929025217704253
+    second: NintendoGamecube_105
+  - first:
+      213: -7717639066597068344
+    second: NintendoGamecube_106
+  - first:
+      213: -6879576375113171321
+    second: NintendoGamecube_107
+  - first:
+      213: 1590770244751018958
+    second: NintendoGamecube_108
+  - first:
+      213: -1850257090063816617
+    second: NintendoGamecube_109
+  - first:
+      213: -3698918040555163868
+    second: NintendoGamecube_110
+  - first:
+      213: -4066427308512003288
+    second: NintendoGamecube_111
+  - first:
+      213: -1584361815859193504
+    second: NintendoGamecube_112
+  - first:
+      213: 5139264767977261147
+    second: NintendoGamecube_113
+  - first:
+      213: -5916588488449513918
+    second: NintendoGamecube_114
+  - first:
+      213: -7233836048357325529
+    second: NintendoGamecube_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NintendoGamecube_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1043
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c94780e67eeb1d10800000000000000
+      internalID: 2097532245811612101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1023
+        width: 1025
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd42e3267b65ab0800000000000000
+      internalID: -5019623102080558256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 986
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe02814f0a3b64d0800000000000000
+      internalID: -3140352477962825995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 911
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cfc80a4cd184440800000000000000
+      internalID: 4920215323246656550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 911
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb9b3fcb43ca710800000000000000
+      internalID: 1705796345014107601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0f178f5043c51e0800000000000000
+      internalID: -2207832517070688095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 911
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0814634e307f60800000000000000
+      internalID: 8029986594764622351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a197f405eb2d32e10800000000000000
+      internalID: 2171811160155715866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 911
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c6a4bf75c1a220800000000000000
+      internalID: 2495492820822312672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_9
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 999
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c93e5d42db01a810800000000000000
+      internalID: 1774712726029744585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a661684239dc40800000000000000
+      internalID: 5537512503281885786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad543792eb02e570800000000000000
+      internalID: 8494364915001482666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_12
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ff4a0986be7ab0800000000000000
+      internalID: -5008365035889625076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 955
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6643b4ed7a84ba40800000000000000
+      internalID: 5383079727927084654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 911
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18416eb37d80c3b90800000000000000
+      internalID: -7260918778712157055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 949
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7435bb0a8bac10800000000000000
+      internalID: 2065896636968893513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 955
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3855795d04f07e3a0800000000000000
+      internalID: -6636318754771348093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 955
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f925e4914043461a0800000000000000
+      internalID: -6817266743723011425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 955
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00373aec64f448850800000000000000
+      internalID: 6378310137796588288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3690ba3db2af540800000000000000
+      internalID: 5042390920902304687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b084cc7413fb30800000000000000
+      internalID: 4319818993683708082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e769b98f3c9fda0800000000000000
+      internalID: -5910477563417428412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 858
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ca9b7b92afa2d60800000000000000
+      internalID: 7866374756238994501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62876ee39c02f40a0800000000000000
+      internalID: -6895256455765133274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1568e02b11de500800000000000000
+      internalID: 427016996115599854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068eee71e5a79ff50800000000000000
+      internalID: 6915693247351154784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_26
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9acae612e25d700800000000000000
+      internalID: 564408049430473188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_27
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a250203e4a57aa0800000000000000
+      internalID: -6163839220088231323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ae85d5e80690a0800000000000000
+      internalID: -6875297997911054254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_29
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b729ab472618e0800000000000000
+      internalID: -1723146601508654359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c3bcf935440b80800000000000000
+      internalID: -8429536487175633491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 783
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96212c310c96ad7a0800000000000000
+      internalID: -6351648050766540183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8ccde2489c846a0800000000000000
+      internalID: -6464695695531259685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_33
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a2614de867f680800000000000000
+      internalID: -8721386785166154704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413f1b0b2a8014be0800000000000000
+      internalID: -1494904106468117740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_35
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7afefdfcdeb0750800000000000000
+      internalID: 6272368383114586026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389861aa3e9bb730800000000000000
+      internalID: 4015977467384207410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592364be5abed3730800000000000000
+      internalID: 3980596743514763925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44bb5202d5f2770800000000000000
+      internalID: 8588185407072191707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 730
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54745115969664020800000000000000
+      internalID: 2325662158636271429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 655
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa10871038302e10800000000000000
+      internalID: 2170796799596436223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768fe6b7fdf91ea0800000000000000
+      internalID: -5901406596324424066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_42
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ccf81be36b3c00800000000000000
+      internalID: 881408013468746601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_43
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fa9c1322036aed0800000000000000
+      internalID: -2403180427733258457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08a1e3c7afa4b40800000000000000
+      internalID: 5425424112645996768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_45
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23231d83efaa430800000000000000
+      internalID: 3795125155994415782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_46
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200780125bfa56d30800000000000000
+      internalID: 4424135401439522818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_47
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54556dd57c35e220800000000000000
+      internalID: 2514482443879535707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e94defc82d0f10800000000000000
+      internalID: 2237489463377388055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 655
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b89a538551e3d0800000000000000
+      internalID: -3179165839297824724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 693
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab39e7802a3bc7b0800000000000000
+      internalID: -5203001033102902364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76e28297f40a0e0800000000000000
+      internalID: -2260719631156221971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f4d35cc4e5ee40800000000000000
+      internalID: 5685201670856044790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_53
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e6c2058f5b1fa30800000000000000
+      internalID: 4247376001688694291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a4145113fd2700800000000000000
+      internalID: 517336787968107921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4397eb5ab2d0ba0800000000000000
+      internalID: -6121188327661423417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f16c8109f51fc00800000000000000
+      internalID: 932631670337970006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a03b0247b135040800000000000000
+      internalID: 4635078627073133072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_58
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 602
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c966aa40aa2ecd0800000000000000
+      internalID: -2530273103613354924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_59
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 527
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7eb0ce4c7af430800000000000000
+      internalID: 3817500311832919987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_60
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9d6289981113e0800000000000000
+      internalID: -2084858104898544071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_61
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ed967f360e8ed0800000000000000
+      internalID: -2409981880953870841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_62
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a532d75186925b0800000000000000
+      internalID: -5392664637296387503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_63
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 615
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0189fb7098bc30820800000000000000
+      internalID: 2883371975848204304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26fed679acb2e40800000000000000
+      internalID: 5632818510690214593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_65
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 527
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b801a29c017cea0800000000000000
+      internalID: -5852690734564471993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_66
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 565
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ce9695b66c8490800000000000000
+      internalID: -7742700729254625029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_67
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1f50ed9df2fa30800000000000000
+      internalID: 4247736253079821984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7bc0204cb9d6870800000000000000
+      internalID: 8677763323163097075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_69
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 571
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6149f487311ba80800000000000000
+      internalID: -8452953618145601878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_70
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffeb02a72ad85500800000000000000
+      internalID: 385297631897448435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbe310dd9e2f080800000000000000
+      internalID: -9154997957072863364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56923318a93c87b20800000000000000
+      internalID: 3132468609196173669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_73
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca96e0164b4ccd0800000000000000
+      internalID: -2538705960983483199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_74
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548717c1a218c10f0800000000000000
+      internalID: -1144898187393140667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_75
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16e599f3f51b2470800000000000000
+      internalID: 8370808470006785565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_76
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b504fdf31799b9f0800000000000000
+      internalID: -452164175453223500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_77
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df419188238f4e40800000000000000
+      internalID: 5642873068114235344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_78
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3aadeded048850800000000000000
+      internalID: 6378238287809231733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2171ca2a0c5a9e0800000000000000
+      internalID: -1610669486810656020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d292197cfdeea0800000000000000
+      internalID: -5841735544696809643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_81
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 282
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d82f7568550e920800000000000000
+      internalID: 3017505785827724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 283
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286eb9d65fbc59e40800000000000000
+      internalID: 5662656361454626434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_83
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e318c56229a9f780800000000000000
+      internalID: -8648695644186733596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_84
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189634350d0bf300800000000000000
+      internalID: 286837317270149150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_85
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc32f963adb23e70800000000000000
+      internalID: 9093539107169254613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_86
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127e473d21269a00800000000000000
+      internalID: 762833664971010589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_87
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad9fb861243aee60800000000000000
+      internalID: 7992257806818319783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_88
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e7856b198d3ea50800000000000000
+      internalID: 6549316403467943435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_89
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d232910e676e760800000000000000
+      internalID: 7486802135416515923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed74f8d627645c20800000000000000
+      internalID: 3194291452258844143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8f1a78a5e09ef0800000000000000
+      internalID: -103330279663367533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa1c05a7fbc18ee0800000000000000
+      internalID: -1260502156200633688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 160
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d875f2f4c5d3f870800000000000000
+      internalID: 8715544745758521559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 160
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e897839997aa60800000000000000
+      internalID: 7685280148045226079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_95
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 142
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4524bf2250e5ee0800000000000000
+      internalID: -1270572397069445958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 142
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbeec75905aab970800000000000000
+      internalID: 8771504683803929547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_97
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 160
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33e4b984b61b980800000000000000
+      internalID: -8524914660048227354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_98
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 160
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238923335a12cf0e0800000000000000
+      internalID: -2234874321670334414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_99
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 154
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440838d2677373780800000000000000
+      internalID: -8703426774160932796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_100
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 154
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40627c108974c1430800000000000000
+      internalID: 3754954907510580740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_101
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 153
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a98fcf79b269b0800000000000000
+      internalID: -5088300670381348579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fc6c5db1a26ba50800000000000000
+      internalID: 6536458208213913360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a3bb5f47f385600800000000000000
+      internalID: 457185133749549662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_104
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb634d14a3002350800000000000000
+      internalID: 5989791507803237352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_105
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b8993f6f2af170800000000000000
+      internalID: 8212929025217704253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1fdc2a82075e490800000000000000
+      internalID: -7717639066597068344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_107
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb5348cb5d680a0800000000000000
+      internalID: -6879576375113171321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_108
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb45adfb1d831610800000000000000
+      internalID: 1590770244751018958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_109
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758299bcaf09256e0800000000000000
+      internalID: -1850257090063816617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_110
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fec6bc3adcaacc0800000000000000
+      internalID: -3698918040555163868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_111
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb13368e52197c0800000000000000
+      internalID: -4066427308512003288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_112
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0691502a257330ae0800000000000000
+      internalID: -1584361815859193504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_113
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5807f5d316525740800000000000000
+      internalID: 5139264767977261147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_114
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462dcffd1e04eda0800000000000000
+      internalID: -5916588488449513918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NintendoGamecube_115
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7250f36c0704c9b90800000000000000
+      internalID: -7233836048357325529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NintendoGamecube_0: 2097532245811612101
+      NintendoGamecube_1: -5019623102080558256
+      NintendoGamecube_10: 5537512503281885786
+      NintendoGamecube_100: 3754954907510580740
+      NintendoGamecube_101: -5088300670381348579
+      NintendoGamecube_102: 6536458208213913360
+      NintendoGamecube_103: 457185133749549662
+      NintendoGamecube_104: 5989791507803237352
+      NintendoGamecube_105: 8212929025217704253
+      NintendoGamecube_106: -7717639066597068344
+      NintendoGamecube_107: -6879576375113171321
+      NintendoGamecube_108: 1590770244751018958
+      NintendoGamecube_109: -1850257090063816617
+      NintendoGamecube_11: 8494364915001482666
+      NintendoGamecube_110: -3698918040555163868
+      NintendoGamecube_111: -4066427308512003288
+      NintendoGamecube_112: -1584361815859193504
+      NintendoGamecube_113: 5139264767977261147
+      NintendoGamecube_114: -5916588488449513918
+      NintendoGamecube_115: -7233836048357325529
+      NintendoGamecube_12: -5008365035889625076
+      NintendoGamecube_13: 5383079727927084654
+      NintendoGamecube_14: -7260918778712157055
+      NintendoGamecube_15: 2065896636968893513
+      NintendoGamecube_16: -6636318754771348093
+      NintendoGamecube_17: -6817266743723011425
+      NintendoGamecube_18: 6378310137796588288
+      NintendoGamecube_19: 5042390920902304687
+      NintendoGamecube_2: -3140352477962825995
+      NintendoGamecube_20: 4319818993683708082
+      NintendoGamecube_21: -5910477563417428412
+      NintendoGamecube_22: 7866374756238994501
+      NintendoGamecube_23: -6895256455765133274
+      NintendoGamecube_24: 427016996115599854
+      NintendoGamecube_25: 6915693247351154784
+      NintendoGamecube_26: 564408049430473188
+      NintendoGamecube_27: -6163839220088231323
+      NintendoGamecube_28: -6875297997911054254
+      NintendoGamecube_29: -1723146601508654359
+      NintendoGamecube_3: 4920215323246656550
+      NintendoGamecube_30: -8429536487175633491
+      NintendoGamecube_31: -6351648050766540183
+      NintendoGamecube_32: -6464695695531259685
+      NintendoGamecube_33: -8721386785166154704
+      NintendoGamecube_34: -1494904106468117740
+      NintendoGamecube_35: 6272368383114586026
+      NintendoGamecube_36: 4015977467384207410
+      NintendoGamecube_37: 3980596743514763925
+      NintendoGamecube_38: 8588185407072191707
+      NintendoGamecube_39: 2325662158636271429
+      NintendoGamecube_4: 1705796345014107601
+      NintendoGamecube_40: 2170796799596436223
+      NintendoGamecube_41: -5901406596324424066
+      NintendoGamecube_42: 881408013468746601
+      NintendoGamecube_43: -2403180427733258457
+      NintendoGamecube_44: 5425424112645996768
+      NintendoGamecube_45: 3795125155994415782
+      NintendoGamecube_46: 4424135401439522818
+      NintendoGamecube_47: 2514482443879535707
+      NintendoGamecube_48: 2237489463377388055
+      NintendoGamecube_49: -3179165839297824724
+      NintendoGamecube_5: -2207832517070688095
+      NintendoGamecube_50: -5203001033102902364
+      NintendoGamecube_51: -2260719631156221971
+      NintendoGamecube_52: 5685201670856044790
+      NintendoGamecube_53: 4247376001688694291
+      NintendoGamecube_54: 517336787968107921
+      NintendoGamecube_55: -6121188327661423417
+      NintendoGamecube_56: 932631670337970006
+      NintendoGamecube_57: 4635078627073133072
+      NintendoGamecube_58: -2530273103613354924
+      NintendoGamecube_59: 3817500311832919987
+      NintendoGamecube_6: 8029986594764622351
+      NintendoGamecube_60: -2084858104898544071
+      NintendoGamecube_61: -2409981880953870841
+      NintendoGamecube_62: -5392664637296387503
+      NintendoGamecube_63: 2883371975848204304
+      NintendoGamecube_64: 5632818510690214593
+      NintendoGamecube_65: -5852690734564471993
+      NintendoGamecube_66: -7742700729254625029
+      NintendoGamecube_67: 4247736253079821984
+      NintendoGamecube_68: 8677763323163097075
+      NintendoGamecube_69: -8452953618145601878
+      NintendoGamecube_7: 2171811160155715866
+      NintendoGamecube_70: 385297631897448435
+      NintendoGamecube_71: -9154997957072863364
+      NintendoGamecube_72: 3132468609196173669
+      NintendoGamecube_73: -2538705960983483199
+      NintendoGamecube_74: -1144898187393140667
+      NintendoGamecube_75: 8370808470006785565
+      NintendoGamecube_76: -452164175453223500
+      NintendoGamecube_77: 5642873068114235344
+      NintendoGamecube_78: 6378238287809231733
+      NintendoGamecube_79: -1610669486810656020
+      NintendoGamecube_8: 2495492820822312672
+      NintendoGamecube_80: -5841735544696809643
+      NintendoGamecube_81: 3017505785827724681
+      NintendoGamecube_82: 5662656361454626434
+      NintendoGamecube_83: -8648695644186733596
+      NintendoGamecube_84: 286837317270149150
+      NintendoGamecube_85: 9093539107169254613
+      NintendoGamecube_86: 762833664971010589
+      NintendoGamecube_87: 7992257806818319783
+      NintendoGamecube_88: 6549316403467943435
+      NintendoGamecube_89: 7486802135416515923
+      NintendoGamecube_9: 1774712726029744585
+      NintendoGamecube_90: 3194291452258844143
+      NintendoGamecube_91: -103330279663367533
+      NintendoGamecube_92: -1260502156200633688
+      NintendoGamecube_93: 8715544745758521559
+      NintendoGamecube_94: 7685280148045226079
+      NintendoGamecube_95: -1270572397069445958
+      NintendoGamecube_96: 8771504683803929547
+      NintendoGamecube_97: -8524914660048227354
+      NintendoGamecube_98: -2234874321670334414
+      NintendoGamecube_99: -8703426774160932796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

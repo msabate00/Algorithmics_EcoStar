@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: 80168426e48a48b4487bb80c65820d29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2602262521271535921
+    second: XboxSeries_0
+  - first:
+      213: -781651035110102798
+    second: XboxSeries_1
+  - first:
+      213: 9008590740491059471
+    second: XboxSeries_2
+  - first:
+      213: 2515412302713223474
+    second: XboxSeries_3
+  - first:
+      213: 6085901958840693444
+    second: XboxSeries_4
+  - first:
+      213: -4914939969066708691
+    second: XboxSeries_5
+  - first:
+      213: 3364768244788711399
+    second: XboxSeries_6
+  - first:
+      213: 6056628038166722483
+    second: XboxSeries_7
+  - first:
+      213: 4788777698150732567
+    second: XboxSeries_8
+  - first:
+      213: 3753597610741650048
+    second: XboxSeries_9
+  - first:
+      213: -4397459667227280798
+    second: XboxSeries_10
+  - first:
+      213: 1922204409992000123
+    second: XboxSeries_11
+  - first:
+      213: 827635452414031010
+    second: XboxSeries_12
+  - first:
+      213: 4393431984010412480
+    second: XboxSeries_13
+  - first:
+      213: -4158002859144878572
+    second: XboxSeries_14
+  - first:
+      213: -5485202424693363485
+    second: XboxSeries_15
+  - first:
+      213: 2440949056284095348
+    second: XboxSeries_16
+  - first:
+      213: -7094379829385885826
+    second: XboxSeries_17
+  - first:
+      213: 1740604772313136185
+    second: XboxSeries_18
+  - first:
+      213: -5310862817583854824
+    second: XboxSeries_19
+  - first:
+      213: 1889522275026731780
+    second: XboxSeries_20
+  - first:
+      213: -1326106402062852247
+    second: XboxSeries_21
+  - first:
+      213: 337056434606603816
+    second: XboxSeries_22
+  - first:
+      213: -1291896538418084564
+    second: XboxSeries_23
+  - first:
+      213: 962221786590290791
+    second: XboxSeries_24
+  - first:
+      213: -4031837642852656049
+    second: XboxSeries_25
+  - first:
+      213: -9144497634172347736
+    second: XboxSeries_26
+  - first:
+      213: -8705933341764143795
+    second: XboxSeries_27
+  - first:
+      213: -8876319409745344050
+    second: XboxSeries_28
+  - first:
+      213: -1736839199413860508
+    second: XboxSeries_29
+  - first:
+      213: 2493629900171483189
+    second: XboxSeries_30
+  - first:
+      213: 3617321876366314096
+    second: XboxSeries_31
+  - first:
+      213: -9113338281264764844
+    second: XboxSeries_32
+  - first:
+      213: -6544718037612483622
+    second: XboxSeries_33
+  - first:
+      213: -3131683324154287814
+    second: XboxSeries_34
+  - first:
+      213: 6596794200423307879
+    second: XboxSeries_35
+  - first:
+      213: -2310106822798292435
+    second: XboxSeries_36
+  - first:
+      213: 8504226956402969915
+    second: XboxSeries_37
+  - first:
+      213: 782956330130295992
+    second: XboxSeries_38
+  - first:
+      213: 7943794692068629962
+    second: XboxSeries_39
+  - first:
+      213: -2409347554063453931
+    second: XboxSeries_40
+  - first:
+      213: 3446913351837107794
+    second: XboxSeries_41
+  - first:
+      213: -4573560106965417681
+    second: XboxSeries_42
+  - first:
+      213: -2903976499147784740
+    second: XboxSeries_43
+  - first:
+      213: -5168694875354053912
+    second: XboxSeries_44
+  - first:
+      213: 5211181957635256079
+    second: XboxSeries_45
+  - first:
+      213: 3217782279230923368
+    second: XboxSeries_46
+  - first:
+      213: 7821810926866876351
+    second: XboxSeries_47
+  - first:
+      213: -8932968629773292672
+    second: XboxSeries_48
+  - first:
+      213: -5321511023219126124
+    second: XboxSeries_49
+  - first:
+      213: 2646630353317215692
+    second: XboxSeries_50
+  - first:
+      213: 8193057335249720192
+    second: XboxSeries_51
+  - first:
+      213: 3089605476886391498
+    second: XboxSeries_52
+  - first:
+      213: 8679056289436956264
+    second: XboxSeries_53
+  - first:
+      213: 7057861779712612344
+    second: XboxSeries_54
+  - first:
+      213: -6775319979150303164
+    second: XboxSeries_55
+  - first:
+      213: 7099023767116275636
+    second: XboxSeries_56
+  - first:
+      213: 2298222470712230357
+    second: XboxSeries_57
+  - first:
+      213: -1623208266783059974
+    second: XboxSeries_58
+  - first:
+      213: -8228028141441905679
+    second: XboxSeries_59
+  - first:
+      213: -8809433734389011931
+    second: XboxSeries_60
+  - first:
+      213: 2157878838465735912
+    second: XboxSeries_61
+  - first:
+      213: 3622203035975551592
+    second: XboxSeries_62
+  - first:
+      213: 1186885341304343824
+    second: XboxSeries_63
+  - first:
+      213: 1709763332122076587
+    second: XboxSeries_64
+  - first:
+      213: 3106718922594457325
+    second: XboxSeries_65
+  - first:
+      213: -3374369848954624390
+    second: XboxSeries_66
+  - first:
+      213: -6222077621767758765
+    second: XboxSeries_67
+  - first:
+      213: 6228792734735338794
+    second: XboxSeries_68
+  - first:
+      213: -6042215999232020552
+    second: XboxSeries_69
+  - first:
+      213: 1653940061555375539
+    second: XboxSeries_70
+  - first:
+      213: 7373153914359801920
+    second: XboxSeries_71
+  - first:
+      213: 8787174733772558280
+    second: XboxSeries_72
+  - first:
+      213: -6037928339859308342
+    second: XboxSeries_73
+  - first:
+      213: -2051342424471103259
+    second: XboxSeries_74
+  - first:
+      213: -3848823598794718095
+    second: XboxSeries_75
+  - first:
+      213: -6643654706720673835
+    second: XboxSeries_76
+  - first:
+      213: 7650613275899773894
+    second: XboxSeries_77
+  - first:
+      213: 1625416363785176724
+    second: XboxSeries_78
+  - first:
+      213: -6976307401593311796
+    second: XboxSeries_79
+  - first:
+      213: 7577480925078776144
+    second: XboxSeries_80
+  - first:
+      213: -3768519678631846187
+    second: XboxSeries_81
+  - first:
+      213: -2552738570398553919
+    second: XboxSeries_82
+  - first:
+      213: 3928168127545487157
+    second: XboxSeries_83
+  - first:
+      213: 8848211259643505843
+    second: XboxSeries_84
+  - first:
+      213: 9090831613956163414
+    second: XboxSeries_85
+  - first:
+      213: -4893202398711225190
+    second: XboxSeries_86
+  - first:
+      213: -6426481157851248191
+    second: XboxSeries_87
+  - first:
+      213: -1751906023748788376
+    second: XboxSeries_88
+  - first:
+      213: 8481770738574745874
+    second: XboxSeries_89
+  - first:
+      213: -4358542224459016199
+    second: XboxSeries_90
+  - first:
+      213: -4708397929097610187
+    second: XboxSeries_91
+  - first:
+      213: -3112156235605189470
+    second: XboxSeries_92
+  - first:
+      213: 441623190226120657
+    second: XboxSeries_93
+  - first:
+      213: -2465908009358135537
+    second: XboxSeries_94
+  - first:
+      213: 4311621333635018007
+    second: XboxSeries_95
+  - first:
+      213: 8361392429609580482
+    second: XboxSeries_96
+  - first:
+      213: -2285454817231079583
+    second: XboxSeries_97
+  - first:
+      213: -3272046710388159656
+    second: XboxSeries_98
+  - first:
+      213: -6902616806843088312
+    second: XboxSeries_99
+  - first:
+      213: 2837520472320483965
+    second: XboxSeries_100
+  - first:
+      213: 2127878031120793298
+    second: XboxSeries_101
+  - first:
+      213: -2083831363942698874
+    second: XboxSeries_102
+  - first:
+      213: -7147701293907966232
+    second: XboxSeries_103
+  - first:
+      213: -5540682739985255055
+    second: XboxSeries_104
+  - first:
+      213: -3891470907120507904
+    second: XboxSeries_105
+  - first:
+      213: -6503581992297505316
+    second: XboxSeries_106
+  - first:
+      213: -7280115310754174087
+    second: XboxSeries_107
+  - first:
+      213: 2237361433964701467
+    second: XboxSeries_108
+  - first:
+      213: -3906002328125548926
+    second: XboxSeries_109
+  - first:
+      213: 2926267801833316975
+    second: XboxSeries_110
+  - first:
+      213: -6256616254242508424
+    second: XboxSeries_111
+  - first:
+      213: 1692060286416682765
+    second: XboxSeries_112
+  - first:
+      213: -2528715597452580308
+    second: XboxSeries_113
+  - first:
+      213: 4681467904678821613
+    second: XboxSeries_114
+  - first:
+      213: -6701395771382531994
+    second: XboxSeries_115
+  - first:
+      213: -4459102010230586127
+    second: XboxSeries_116
+  - first:
+      213: -2823809910464967291
+    second: XboxSeries_117
+  - first:
+      213: 2914657626125363244
+    second: XboxSeries_118
+  - first:
+      213: -1119415883189831663
+    second: XboxSeries_119
+  - first:
+      213: -1531263452741367780
+    second: XboxSeries_120
+  - first:
+      213: -5560312090152487118
+    second: XboxSeries_121
+  - first:
+      213: 3769681777566431302
+    second: XboxSeries_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XboxSeries_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc63c473608e2ebd0800000000000000
+      internalID: -2602262521271535921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1167
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f822f166840725f0800000000000000
+      internalID: -781651035110102798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c7d58c81f40d70800000000000000
+      internalID: 9008590740491059471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1167
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397ede792a88e220800000000000000
+      internalID: 2515412302713223474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2bd8a4697757450800000000000000
+      internalID: 6085901958840693444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d86b7320aacbb0800000000000000
+      internalID: -4914939969066708691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1167
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef452e24ee02be20800000000000000
+      internalID: 3364768244788711399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1255
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7399f7c177d0450800000000000000
+      internalID: 6056628038166722483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1243
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135696c1f7257240800000000000000
+      internalID: 4788777698150732567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_9
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1243
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d20ab325771430800000000000000
+      internalID: 3753597610741650048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_10
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a7fcc3bb519f2c0800000000000000
+      internalID: -4397459667227280798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1167
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7233430aba0daa10800000000000000
+      internalID: 1922204409992000123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_12
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1151
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a478a81f0a5c7b00800000000000000
+      internalID: 827635452414031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c7cfac1b98fc30800000000000000
+      internalID: 4393431984010412480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4166c9dfd6ecb46c0800000000000000
+      internalID: -4158002859144878572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1167
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6a03e475a0e3b0800000000000000
+      internalID: -5485202424693363485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1167
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47373a6eb3effd120800000000000000
+      internalID: 2440949056284095348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7702cff123bb8d90800000000000000
+      internalID: -7094379829385885826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1114
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf21c71ded72810800000000000000
+      internalID: 1740604772313136185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1039
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b8513d7660c46b0800000000000000
+      internalID: -5310862817583854824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1039
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403082e7f7ee83a10800000000000000
+      internalID: 1889522275026731780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1123
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1caad049b89de0800000000000000
+      internalID: -1326106402062852247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1039
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7cfd9a077da400800000000000000
+      internalID: 337056434606603816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1039
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25880d61f2421ee0800000000000000
+      internalID: -1291896538418084564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1127
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632bd8ed9f7a5d00800000000000000
+      internalID: 962221786590290791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1039
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c18b186090c08c0800000000000000
+      internalID: -4031837642852656049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1127
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aad1c1f9d7381180800000000000000
+      internalID: -9144497634172347736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_27
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453bed60cf4e2780800000000000000
+      internalID: -8705933341764143795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9493d868af0d480800000000000000
+      internalID: -8876319409745344050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_29
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1114
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46786f643f185e7e0800000000000000
+      internalID: -1736839199413860508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5389301be272b9220800000000000000
+      internalID: 2493629900171483189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1039
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a4017c41f433230800000000000000
+      internalID: 3617321876366314096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1077
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ae332e1be68180800000000000000
+      internalID: -9113338281264764844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2405ce9d7c25a0800000000000000
+      internalID: -6544718037612483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39e4caeb960a84d0800000000000000
+      internalID: -3131683324154287814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a969cbf558c8b50800000000000000
+      internalID: 6596794200423307879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_36
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac6e9851ad0ffd0800000000000000
+      internalID: -2310106822798292435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_37
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1039
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d43b90c55150670800000000000000
+      internalID: 8504226956402969915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_38
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1077
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc4f0c42ae9dda00800000000000000
+      internalID: 782956330130295992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_39
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1083
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd52653f270e3e60800000000000000
+      internalID: 7943794692068629962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51177933a27409ed0800000000000000
+      internalID: -2409347554063453931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564dc35e65e5df20800000000000000
+      internalID: 3446913351837107794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21cd6180537780c0800000000000000
+      internalID: -4573560106965417681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 927
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddb63c82c003b7d0800000000000000
+      internalID: -2903976499147784740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 927
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c322556b1548b0800000000000000
+      internalID: -5168694875354053912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_45
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f26c46166d15840800000000000000
+      internalID: 5211181957635256079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622b163febd7ac20800000000000000
+      internalID: 3217782279230923368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_47
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb74b24a897ac8c60800000000000000
+      internalID: 7821810926866876351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_48
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 915
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba7a03c58b70480800000000000000
+      internalID: -8932968629773292672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_49
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d2b04be13626b0800000000000000
+      internalID: -5321511023219126124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 795
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd3d3da848bab420800000000000000
+      internalID: 2646630353317215692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_51
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 802
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d7fbdc3693b170800000000000000
+      internalID: 8193057335249720192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_52
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 865
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2ae1dfcb70ea20800000000000000
+      internalID: 3089605476886391498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 802
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866728d26b3327870800000000000000
+      internalID: 8679056289436956264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_54
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7939df4ef82f160800000000000000
+      internalID: 7057861779712612344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 799
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a32b406a39f1a0800000000000000
+      internalID: -6775319979150303164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 799
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf5503018cc48260800000000000000
+      internalID: 7099023767116275636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_57
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18f9d192de4ef10800000000000000
+      internalID: 2298222470712230357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 811
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff0be57ea43979e0800000000000000
+      internalID: -1623208266783059974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_59
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 811
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0073dffb20dd80800000000000000
+      internalID: -8228028141441905679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 811
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a666561ba9eb580800000000000000
+      internalID: -8809433734389011931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_61
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 811
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2513ee5352fd10800000000000000
+      internalID: 2157878838465735912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_62
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 783
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0aaf4876a44230800000000000000
+      internalID: 3622203035975551592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4095fde9a87010800000000000000
+      internalID: 1186885341304343824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5ef1d11bc4ab710800000000000000
+      internalID: 1709763332122076587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_65
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de61a3666684d1b20800000000000000
+      internalID: 3106718922594457325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7665442084db21d0800000000000000
+      internalID: -3374369848954624390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_67
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c10a57e5db6a9a0800000000000000
+      internalID: -6222077621767758765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_68
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d0f6d9dfd117650800000000000000
+      internalID: 6228792734735338794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfe79dcf8cb52ca0800000000000000
+      internalID: -6042215999232020552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 667
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbbc819b9f3f610800000000000000
+      internalID: 1653940061555375539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_71
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 667
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04862b3ab64b25660800000000000000
+      internalID: 7373153914359801920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_72
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 667
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf0dc92dd052f970800000000000000
+      internalID: 8787174733772558280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac00c6b4a28f43ca0800000000000000
+      internalID: -6037928339859308342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e816b4feea2883e0800000000000000
+      internalID: -2051342424471103259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17443be245b369ac0800000000000000
+      internalID: -3848823598794718095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_76
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfef8b6e3ffcc3a0800000000000000
+      internalID: -6643654706720673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c4ef5d307c2a60800000000000000
+      internalID: 7650613275899773894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_78
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496c58f2293ae8610800000000000000
+      internalID: 1625416363785176724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_79
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2a1c516d2f2f90800000000000000
+      internalID: -6976307401593311796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_80
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0596e9f01ce982960800000000000000
+      internalID: 7577480925078776144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_81
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de541a915783bbc0800000000000000
+      internalID: -3768519678631846187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_82
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a4f29bc9d29cd0800000000000000
+      internalID: -2552738570398553919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2c548918a38630800000000000000
+      internalID: 3928168127545487157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_84
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bca9a4c2492bca70800000000000000
+      internalID: 8848211259643505843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_85
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6578fb6003f192e70800000000000000
+      internalID: 9090831613956163414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_86
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a946abaf75ad71cb0800000000000000
+      internalID: -4893202398711225190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c909869f6d80d6a0800000000000000
+      internalID: -6426481157851248191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_88
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f169ed0caffa7e0800000000000000
+      internalID: -1751906023748788376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_89
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ec036c8d45b570800000000000000
+      internalID: 8481770738574745874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_90
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7549c70f85383c0800000000000000
+      internalID: -4358542224459016199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_91
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb3f6970968aeb0800000000000000
+      internalID: -4708397929097610187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_92
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5c3384666fc4d0800000000000000
+      internalID: -3112156235605189470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_93
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa002a3f5f02600800000000000000
+      internalID: 441623190226120657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_94
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fea6dfab557cdd0800000000000000
+      internalID: -2465908009358135537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_95
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71daf4d42c4f5db30800000000000000
+      internalID: 4311621333635018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_96
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f48a3d12a90470800000000000000
+      internalID: 8361392429609580482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_97
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1677cbcd3fe6840e0800000000000000
+      internalID: -2285454817231079583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_98
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b04da5ada5792d0800000000000000
+      internalID: -3272046710388159656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_99
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8420a77f59af430a0800000000000000
+      internalID: -6902616806843088312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_100
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 287
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72af83f5d5e06720800000000000000
+      internalID: 2837520472320483965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_101
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deff4a9bcdb78d10800000000000000
+      internalID: 2127878031120793298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_102
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b0644a6eb413e0800000000000000
+      internalID: -2083831363942698874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_103
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e604081b834ecc90800000000000000
+      internalID: -7147701293907966232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757a0e576a8b13b0800000000000000
+      internalID: -5540682739985255055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_105
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a05fe3d7bef9c0800000000000000
+      internalID: -3891470907120507904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_106
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddda7da2a2aeb5a0800000000000000
+      internalID: -6503581992297505316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_107
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b6d9252b5d7fa90800000000000000
+      internalID: -7280115310754174087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_108
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ef91ce54bc0f10800000000000000
+      internalID: 2237361433964701467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_109
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865a34d3971bc9c0800000000000000
+      internalID: -3906002328125548926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_110
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6220fdcf013c9820800000000000000
+      internalID: 2926267801833316975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_111
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b0fd6aa80c29a0800000000000000
+      internalID: -6256616254242508424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_112
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f79669dd76b7710800000000000000
+      internalID: 1692060286416682765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a69d3df8238ecd0800000000000000
+      internalID: -2528715597452580308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 29
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef5cd714ae7f040800000000000000
+      internalID: 4681467904678821613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 29
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668707b2d0cdff2a0800000000000000
+      internalID: -6701395771382531994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_116
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4c9f6d8561e12c0800000000000000
+      internalID: -4459102010230586127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_117
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d028df8dfcfc8d0800000000000000
+      internalID: -2823809910464967291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_118
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e51f1ba1f27820800000000000000
+      internalID: 2914657626125363244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_119
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1183a866f290770f0800000000000000
+      internalID: -1119415883189831663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_120
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1800d1b00cdfbae0800000000000000
+      internalID: -1531263452741367780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_121
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 31
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237b6222d9dc5d2b0800000000000000
+      internalID: -5560312090152487118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XboxSeries_122
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 31
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6483c14aa99905430800000000000000
+      internalID: 3769681777566431302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      XboxSeries_0: -2602262521271535921
+      XboxSeries_1: -781651035110102798
+      XboxSeries_10: -4397459667227280798
+      XboxSeries_100: 2837520472320483965
+      XboxSeries_101: 2127878031120793298
+      XboxSeries_102: -2083831363942698874
+      XboxSeries_103: -7147701293907966232
+      XboxSeries_104: -5540682739985255055
+      XboxSeries_105: -3891470907120507904
+      XboxSeries_106: -6503581992297505316
+      XboxSeries_107: -7280115310754174087
+      XboxSeries_108: 2237361433964701467
+      XboxSeries_109: -3906002328125548926
+      XboxSeries_11: 1922204409992000123
+      XboxSeries_110: 2926267801833316975
+      XboxSeries_111: -6256616254242508424
+      XboxSeries_112: 1692060286416682765
+      XboxSeries_113: -2528715597452580308
+      XboxSeries_114: 4681467904678821613
+      XboxSeries_115: -6701395771382531994
+      XboxSeries_116: -4459102010230586127
+      XboxSeries_117: -2823809910464967291
+      XboxSeries_118: 2914657626125363244
+      XboxSeries_119: -1119415883189831663
+      XboxSeries_12: 827635452414031010
+      XboxSeries_120: -1531263452741367780
+      XboxSeries_121: -5560312090152487118
+      XboxSeries_122: 3769681777566431302
+      XboxSeries_13: 4393431984010412480
+      XboxSeries_14: -4158002859144878572
+      XboxSeries_15: -5485202424693363485
+      XboxSeries_16: 2440949056284095348
+      XboxSeries_17: -7094379829385885826
+      XboxSeries_18: 1740604772313136185
+      XboxSeries_19: -5310862817583854824
+      XboxSeries_2: 9008590740491059471
+      XboxSeries_20: 1889522275026731780
+      XboxSeries_21: -1326106402062852247
+      XboxSeries_22: 337056434606603816
+      XboxSeries_23: -1291896538418084564
+      XboxSeries_24: 962221786590290791
+      XboxSeries_25: -4031837642852656049
+      XboxSeries_26: -9144497634172347736
+      XboxSeries_27: -8705933341764143795
+      XboxSeries_28: -8876319409745344050
+      XboxSeries_29: -1736839199413860508
+      XboxSeries_3: 2515412302713223474
+      XboxSeries_30: 2493629900171483189
+      XboxSeries_31: 3617321876366314096
+      XboxSeries_32: -9113338281264764844
+      XboxSeries_33: -6544718037612483622
+      XboxSeries_34: -3131683324154287814
+      XboxSeries_35: 6596794200423307879
+      XboxSeries_36: -2310106822798292435
+      XboxSeries_37: 8504226956402969915
+      XboxSeries_38: 782956330130295992
+      XboxSeries_39: 7943794692068629962
+      XboxSeries_4: 6085901958840693444
+      XboxSeries_40: -2409347554063453931
+      XboxSeries_41: 3446913351837107794
+      XboxSeries_42: -4573560106965417681
+      XboxSeries_43: -2903976499147784740
+      XboxSeries_44: -5168694875354053912
+      XboxSeries_45: 5211181957635256079
+      XboxSeries_46: 3217782279230923368
+      XboxSeries_47: 7821810926866876351
+      XboxSeries_48: -8932968629773292672
+      XboxSeries_49: -5321511023219126124
+      XboxSeries_5: -4914939969066708691
+      XboxSeries_50: 2646630353317215692
+      XboxSeries_51: 8193057335249720192
+      XboxSeries_52: 3089605476886391498
+      XboxSeries_53: 8679056289436956264
+      XboxSeries_54: 7057861779712612344
+      XboxSeries_55: -6775319979150303164
+      XboxSeries_56: 7099023767116275636
+      XboxSeries_57: 2298222470712230357
+      XboxSeries_58: -1623208266783059974
+      XboxSeries_59: -8228028141441905679
+      XboxSeries_6: 3364768244788711399
+      XboxSeries_60: -8809433734389011931
+      XboxSeries_61: 2157878838465735912
+      XboxSeries_62: 3622203035975551592
+      XboxSeries_63: 1186885341304343824
+      XboxSeries_64: 1709763332122076587
+      XboxSeries_65: 3106718922594457325
+      XboxSeries_66: -3374369848954624390
+      XboxSeries_67: -6222077621767758765
+      XboxSeries_68: 6228792734735338794
+      XboxSeries_69: -6042215999232020552
+      XboxSeries_7: 6056628038166722483
+      XboxSeries_70: 1653940061555375539
+      XboxSeries_71: 7373153914359801920
+      XboxSeries_72: 8787174733772558280
+      XboxSeries_73: -6037928339859308342
+      XboxSeries_74: -2051342424471103259
+      XboxSeries_75: -3848823598794718095
+      XboxSeries_76: -6643654706720673835
+      XboxSeries_77: 7650613275899773894
+      XboxSeries_78: 1625416363785176724
+      XboxSeries_79: -6976307401593311796
+      XboxSeries_8: 4788777698150732567
+      XboxSeries_80: 7577480925078776144
+      XboxSeries_81: -3768519678631846187
+      XboxSeries_82: -2552738570398553919
+      XboxSeries_83: 3928168127545487157
+      XboxSeries_84: 8848211259643505843
+      XboxSeries_85: 9090831613956163414
+      XboxSeries_86: -4893202398711225190
+      XboxSeries_87: -6426481157851248191
+      XboxSeries_88: -1751906023748788376
+      XboxSeries_89: 8481770738574745874
+      XboxSeries_9: 3753597610741650048
+      XboxSeries_90: -4358542224459016199
+      XboxSeries_91: -4708397929097610187
+      XboxSeries_92: -3112156235605189470
+      XboxSeries_93: 441623190226120657
+      XboxSeries_94: -2465908009358135537
+      XboxSeries_95: 4311621333635018007
+      XboxSeries_96: 8361392429609580482
+      XboxSeries_97: -2285454817231079583
+      XboxSeries_98: -3272046710388159656
+      XboxSeries_99: -6902616806843088312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

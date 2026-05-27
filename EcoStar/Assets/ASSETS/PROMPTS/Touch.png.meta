@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: eca904fd1bc855a4a896b5479a6708c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7786579738626157732
+    second: Touch_0
+  - first:
+      213: 5459894860030251966
+    second: Touch_1
+  - first:
+      213: 3701807727655460856
+    second: Touch_2
+  - first:
+      213: -6642814028082977276
+    second: Touch_3
+  - first:
+      213: 6278875155212291243
+    second: Touch_4
+  - first:
+      213: -6057002302101986430
+    second: Touch_5
+  - first:
+      213: -3614179864705191409
+    second: Touch_6
+  - first:
+      213: -2223183371368843315
+    second: Touch_7
+  - first:
+      213: -8692618853330862863
+    second: Touch_8
+  - first:
+      213: 8816260028487076707
+    second: Touch_9
+  - first:
+      213: -4961628545469743610
+    second: Touch_10
+  - first:
+      213: 753839577911679495
+    second: Touch_11
+  - first:
+      213: 2042746310146381830
+    second: Touch_12
+  - first:
+      213: -207727450926729131
+    second: Touch_13
+  - first:
+      213: 2290427520174044376
+    second: Touch_14
+  - first:
+      213: -7056063730260798158
+    second: Touch_15
+  - first:
+      213: 205136309711788734
+    second: Touch_16
+  - first:
+      213: 7347992786208257019
+    second: Touch_17
+  - first:
+      213: -1600371932802488107
+    second: Touch_18
+  - first:
+      213: -8003432049902092637
+    second: Touch_19
+  - first:
+      213: -5488120156576691948
+    second: Touch_20
+  - first:
+      213: 6544813948529052779
+    second: Touch_21
+  - first:
+      213: -1587306335730593353
+    second: Touch_22
+  - first:
+      213: 8473883723495716046
+    second: Touch_23
+  - first:
+      213: 8573890315455093267
+    second: Touch_24
+  - first:
+      213: -5560648019179718630
+    second: Touch_25
+  - first:
+      213: -162950852269047235
+    second: Touch_26
+  - first:
+      213: 4431305500115187764
+    second: Touch_27
+  - first:
+      213: -6115043340890026118
+    second: Touch_28
+  - first:
+      213: 4778408454005467226
+    second: Touch_29
+  - first:
+      213: 8734327349285550245
+    second: Touch_30
+  - first:
+      213: -3748989306923162512
+    second: Touch_31
+  - first:
+      213: -2028394784934135172
+    second: Touch_32
+  - first:
+      213: 3109677232849187521
+    second: Touch_33
+  - first:
+      213: 1514470533549988767
+    second: Touch_34
+  - first:
+      213: 5906946541529958983
+    second: Touch_35
+  - first:
+      213: 8902159531891322740
+    second: Touch_36
+  - first:
+      213: -9163216980180907968
+    second: Touch_37
+  - first:
+      213: 1487096930878724461
+    second: Touch_38
+  - first:
+      213: -7374723862644236369
+    second: Touch_39
+  - first:
+      213: 6759432359475807813
+    second: Touch_40
+  - first:
+      213: 8776905785171997954
+    second: Touch_41
+  - first:
+      213: -7832537931186826360
+    second: Touch_42
+  - first:
+      213: 652532446879268917
+    second: Touch_43
+  - first:
+      213: -2681957031680011504
+    second: Touch_44
+  - first:
+      213: -2932608152162196486
+    second: Touch_45
+  - first:
+      213: -6584554070934602090
+    second: Touch_46
+  - first:
+      213: -5069777146458422201
+    second: Touch_47
+  - first:
+      213: -7751260179588140922
+    second: Touch_48
+  - first:
+      213: -4452531555550822273
+    second: Touch_49
+  - first:
+      213: -4692628288764215427
+    second: Touch_50
+  - first:
+      213: 6611480902907537840
+    second: Touch_51
+  - first:
+      213: -1311885021019803429
+    second: Touch_52
+  - first:
+      213: -2176231324636614109
+    second: Touch_53
+  - first:
+      213: 4019432286966548502
+    second: Touch_54
+  - first:
+      213: 1691541904083428234
+    second: Touch_55
+  - first:
+      213: 6837190577065897122
+    second: Touch_56
+  - first:
+      213: -3402702426959646647
+    second: Touch_57
+  - first:
+      213: 1173482687913270813
+    second: Touch_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Touch_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 552
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531fe79bf280f390800000000000000
+      internalID: -7786579738626157732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 555
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3951b827175cb40800000000000000
+      internalID: 5459894860030251966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 565
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff13b9e3867f5330800000000000000
+      internalID: 3701807727655460856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 594
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406e12b26dbffc3a0800000000000000
+      internalID: -6642814028082977276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 565
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac447fcfab032750800000000000000
+      internalID: 6278875155212291243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 593
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283ec736f7431fba0800000000000000
+      internalID: -6057002302101986430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 529
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b0e1df8ad7ddc0800000000000000
+      internalID: -3614179864705191409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 511
+        width: 257
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7310fa08aa521e0800000000000000
+      internalID: -2223183371368843315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 529
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb957553d9d5780800000000000000
+      internalID: -8692618853330862863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 529
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b827d09c5a95a70800000000000000
+      internalID: 8816260028487076707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 531
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e76df2021c42bb0800000000000000
+      internalID: -4961628545469743610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 455
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a5e032a1d267a00800000000000000
+      internalID: 753839577911679495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 401
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d38632fa495c10800000000000000
+      internalID: 2042746310146381830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 457
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5583a65ebf00e1df0800000000000000
+      internalID: -207727450926729131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 401
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b0c3c1bb39cf10800000000000000
+      internalID: 2290427520174044376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 433
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23599450c63d31e90800000000000000
+      internalID: -7056063730260798158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 401
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebad7e6036ac8d200800000000000000
+      internalID: 205136309711788734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 423
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3731af18059f560800000000000000
+      internalID: 7347992786208257019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 401
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d86dccc4365ac9e0800000000000000
+      internalID: -1600371932802488107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 427
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefb9164f81ee090800000000000000
+      internalID: -8003432049902092637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_20
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 401
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c59e7bc746d3b0800000000000000
+      internalID: -5488120156576691948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 434
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c881b3c99d3da50800000000000000
+      internalID: 6544813948529052779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 401
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b11d0d2c41c8f9e0800000000000000
+      internalID: -1587306335730593353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 417
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec43de69958499570800000000000000
+      internalID: 8473883723495716046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 331
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31adcd3c0d39cf670800000000000000
+      internalID: 8573890315455093267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1830df861c94d2b0800000000000000
+      internalID: -5560648019179718630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 331
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3208ae20151dbdf0800000000000000
+      internalID: -162950852269047235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 331
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b991dfd82f7d30800000000000000
+      internalID: 4431305500115187764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc128fa70032ba0800000000000000
+      internalID: -6115043340890026118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 303
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5828bcfb21505240800000000000000
+      internalID: 4778408454005467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f42e9270963970800000000000000
+      internalID: 8734327349285550245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 331
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746b1e961ae8fbc0800000000000000
+      internalID: -3748989306923162512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7afeb3a0b1b9d3e0800000000000000
+      internalID: -2028394784934135172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 327
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2781ea7fac72b20800000000000000
+      internalID: 3109677232849187521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_34
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b1b0f1dea740510800000000000000
+      internalID: 1514470533549988767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_35
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 329
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a8d1b4590b9f150800000000000000
+      internalID: 5906946541529958983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_36
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 273
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f6d38bde2da8b70800000000000000
+      internalID: 8902159531891322740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 289
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484d7094b6b5d080800000000000000
+      internalID: -9163216980180907968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 199
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69999797ca33a410800000000000000
+      internalID: 1487096930878724461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5e7a48b7b7a990800000000000000
+      internalID: -7374723862644236369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 203
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54606ddfae35ecd50800000000000000
+      internalID: 6759432359475807813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2057f304f45ddc970800000000000000
+      internalID: 8776905785171997954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 203
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88316d9004c3d4390800000000000000
+      internalID: -7832537931186826360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 203
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c7ac9dc24e0900800000000000000
+      internalID: 652532446879268917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0131adf0a46c7cad0800000000000000
+      internalID: -2681957031680011504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 175
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af325f85c684d47d0800000000000000
+      internalID: -2932608152162196486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e379d75f6fe94a0800000000000000
+      internalID: -6584554070934602090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 203
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c3fecb8884a9b0800000000000000
+      internalID: -5069777146458422201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b4024fedfd6490800000000000000
+      internalID: -7751260179588140922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_49
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 199
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700d28042e6532c0800000000000000
+      internalID: -4452531555550822273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_50
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 145
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f72491f6f60eeb0800000000000000
+      internalID: -4692628288764215427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b925112ad2b0cb50800000000000000
+      internalID: 6611480902907537840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_52
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 17
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd075f7268f3bcde0800000000000000
+      internalID: -1311885021019803429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 31
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f4f1f3297cc1e0800000000000000
+      internalID: -2176231324636614109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 31
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618806f7e54e7c730800000000000000
+      internalID: 4019432286966548502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_55
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 67
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a49b4660997710800000000000000
+      internalID: 1691541904083428234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_56
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 21
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac29a7da9492ee50800000000000000
+      internalID: 6837190577065897122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 65
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f5b4cb2c27c0d0800000000000000
+      internalID: -3402702426959646647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Touch_58
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 21
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e142b894c094010800000000000000
+      internalID: 1173482687913270813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Touch_0: -7786579738626157732
+      Touch_1: 5459894860030251966
+      Touch_10: -4961628545469743610
+      Touch_11: 753839577911679495
+      Touch_12: 2042746310146381830
+      Touch_13: -207727450926729131
+      Touch_14: 2290427520174044376
+      Touch_15: -7056063730260798158
+      Touch_16: 205136309711788734
+      Touch_17: 7347992786208257019
+      Touch_18: -1600371932802488107
+      Touch_19: -8003432049902092637
+      Touch_2: 3701807727655460856
+      Touch_20: -5488120156576691948
+      Touch_21: 6544813948529052779
+      Touch_22: -1587306335730593353
+      Touch_23: 8473883723495716046
+      Touch_24: 8573890315455093267
+      Touch_25: -5560648019179718630
+      Touch_26: -162950852269047235
+      Touch_27: 4431305500115187764
+      Touch_28: -6115043340890026118
+      Touch_29: 4778408454005467226
+      Touch_3: -6642814028082977276
+      Touch_30: 8734327349285550245
+      Touch_31: -3748989306923162512
+      Touch_32: -2028394784934135172
+      Touch_33: 3109677232849187521
+      Touch_34: 1514470533549988767
+      Touch_35: 5906946541529958983
+      Touch_36: 8902159531891322740
+      Touch_37: -9163216980180907968
+      Touch_38: 1487096930878724461
+      Touch_39: -7374723862644236369
+      Touch_4: 6278875155212291243
+      Touch_40: 6759432359475807813
+      Touch_41: 8776905785171997954
+      Touch_42: -7832537931186826360
+      Touch_43: 652532446879268917
+      Touch_44: -2681957031680011504
+      Touch_45: -2932608152162196486
+      Touch_46: -6584554070934602090
+      Touch_47: -5069777146458422201
+      Touch_48: -7751260179588140922
+      Touch_49: -4452531555550822273
+      Touch_5: -6057002302101986430
+      Touch_50: -4692628288764215427
+      Touch_51: 6611480902907537840
+      Touch_52: -1311885021019803429
+      Touch_53: -2176231324636614109
+      Touch_54: 4019432286966548502
+      Touch_55: 1691541904083428234
+      Touch_56: 6837190577065897122
+      Touch_57: -3402702426959646647
+      Touch_58: 1173482687913270813
+      Touch_6: -3614179864705191409
+      Touch_7: -2223183371368843315
+      Touch_8: -8692618853330862863
+      Touch_9: 8816260028487076707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

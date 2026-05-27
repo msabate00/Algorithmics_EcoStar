@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: c618c6caffeec3d45b3968a8d4c295fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8648362728457251391
+    second: SteamFrame_0
+  - first:
+      213: 7866074054024841739
+    second: SteamFrame_1
+  - first:
+      213: 4313094077746341988
+    second: SteamFrame_2
+  - first:
+      213: -2198078104558670745
+    second: SteamFrame_3
+  - first:
+      213: 5096215360765582458
+    second: SteamFrame_4
+  - first:
+      213: 9142872471870397197
+    second: SteamFrame_5
+  - first:
+      213: 5450313284242091849
+    second: SteamFrame_6
+  - first:
+      213: -3085845297620378282
+    second: SteamFrame_7
+  - first:
+      213: -1981545481543516000
+    second: SteamFrame_8
+  - first:
+      213: -2186184931185777439
+    second: SteamFrame_9
+  - first:
+      213: -3106716051721540202
+    second: SteamFrame_10
+  - first:
+      213: 3386910610720652139
+    second: SteamFrame_11
+  - first:
+      213: -6115666680297365307
+    second: SteamFrame_12
+  - first:
+      213: -8769101623009522413
+    second: SteamFrame_13
+  - first:
+      213: 2441602780006668193
+    second: SteamFrame_14
+  - first:
+      213: 9007324438821270332
+    second: SteamFrame_15
+  - first:
+      213: -3227414686609757771
+    second: SteamFrame_16
+  - first:
+      213: -7847867186543127972
+    second: SteamFrame_17
+  - first:
+      213: -8226087915358951543
+    second: SteamFrame_18
+  - first:
+      213: 6439143116851130013
+    second: SteamFrame_19
+  - first:
+      213: 859851706270529589
+    second: SteamFrame_20
+  - first:
+      213: 7167679417376641183
+    second: SteamFrame_21
+  - first:
+      213: -5299233345585314652
+    second: SteamFrame_22
+  - first:
+      213: -6324988069358803108
+    second: SteamFrame_23
+  - first:
+      213: 6997138144132996729
+    second: SteamFrame_24
+  - first:
+      213: -3086869051651720991
+    second: SteamFrame_25
+  - first:
+      213: -3132046231701066572
+    second: SteamFrame_26
+  - first:
+      213: -265919214404067783
+    second: SteamFrame_27
+  - first:
+      213: -5981535919488183181
+    second: SteamFrame_28
+  - first:
+      213: -3833829379233382902
+    second: SteamFrame_29
+  - first:
+      213: 954607007109772011
+    second: SteamFrame_30
+  - first:
+      213: -5802148846272828522
+    second: SteamFrame_31
+  - first:
+      213: -5128967556222552756
+    second: SteamFrame_32
+  - first:
+      213: 7781629154323050156
+    second: SteamFrame_33
+  - first:
+      213: -2201817243542682954
+    second: SteamFrame_34
+  - first:
+      213: -1629368208033101052
+    second: SteamFrame_35
+  - first:
+      213: -3845328075114683597
+    second: SteamFrame_36
+  - first:
+      213: 7596253050160760737
+    second: SteamFrame_37
+  - first:
+      213: -8648643291768816559
+    second: SteamFrame_38
+  - first:
+      213: -4838503055244215506
+    second: SteamFrame_39
+  - first:
+      213: -3949105543489437043
+    second: SteamFrame_40
+  - first:
+      213: -6034156989052922586
+    second: SteamFrame_41
+  - first:
+      213: 6605800313979792145
+    second: SteamFrame_42
+  - first:
+      213: -8487393576122212682
+    second: SteamFrame_43
+  - first:
+      213: -1760085894415596467
+    second: SteamFrame_44
+  - first:
+      213: 7466224715168541569
+    second: SteamFrame_45
+  - first:
+      213: 1065636926982983780
+    second: SteamFrame_46
+  - first:
+      213: 1416191178824237998
+    second: SteamFrame_47
+  - first:
+      213: -7236903767410597103
+    second: SteamFrame_48
+  - first:
+      213: -8241496852195010796
+    second: SteamFrame_49
+  - first:
+      213: 1456405713286840254
+    second: SteamFrame_50
+  - first:
+      213: 1667350310897529514
+    second: SteamFrame_51
+  - first:
+      213: 769765881138932275
+    second: SteamFrame_52
+  - first:
+      213: -5466399620500059281
+    second: SteamFrame_53
+  - first:
+      213: -2687884432040853232
+    second: SteamFrame_54
+  - first:
+      213: -1358956965720545830
+    second: SteamFrame_55
+  - first:
+      213: 8813902458080026378
+    second: SteamFrame_56
+  - first:
+      213: 4922587858802542788
+    second: SteamFrame_57
+  - first:
+      213: 3563980303400281295
+    second: SteamFrame_58
+  - first:
+      213: -2243607175750487886
+    second: SteamFrame_59
+  - first:
+      213: -7636545864621850090
+    second: SteamFrame_60
+  - first:
+      213: -7649062093096818733
+    second: SteamFrame_61
+  - first:
+      213: -126318779195195551
+    second: SteamFrame_62
+  - first:
+      213: -6794100024211336880
+    second: SteamFrame_63
+  - first:
+      213: -6476901116930984747
+    second: SteamFrame_64
+  - first:
+      213: 6513142266066334397
+    second: SteamFrame_65
+  - first:
+      213: -2346928721837067746
+    second: SteamFrame_66
+  - first:
+      213: 7184738582118960716
+    second: SteamFrame_67
+  - first:
+      213: 1757019582100143330
+    second: SteamFrame_68
+  - first:
+      213: -4634464920246795884
+    second: SteamFrame_69
+  - first:
+      213: -183598573323004092
+    second: SteamFrame_70
+  - first:
+      213: 808270753710858729
+    second: SteamFrame_71
+  - first:
+      213: -2616866494968375883
+    second: SteamFrame_72
+  - first:
+      213: -1545047846244281684
+    second: SteamFrame_73
+  - first:
+      213: 1982963909431259427
+    second: SteamFrame_74
+  - first:
+      213: -801687897200061205
+    second: SteamFrame_75
+  - first:
+      213: 9157131055537201123
+    second: SteamFrame_76
+  - first:
+      213: -3845262363209269128
+    second: SteamFrame_77
+  - first:
+      213: 5029326029235642465
+    second: SteamFrame_78
+  - first:
+      213: -6578343988116395861
+    second: SteamFrame_79
+  - first:
+      213: -67499830013132990
+    second: SteamFrame_80
+  - first:
+      213: 8746489857533585508
+    second: SteamFrame_81
+  - first:
+      213: 977539484735876451
+    second: SteamFrame_82
+  - first:
+      213: -3624884731527829964
+    second: SteamFrame_83
+  - first:
+      213: -8261441253802949703
+    second: SteamFrame_84
+  - first:
+      213: 60387578690276856
+    second: SteamFrame_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteamFrame_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a2c6e9418250870800000000000000
+      internalID: 8648362728457251391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 911
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a41170da8e92d60800000000000000
+      internalID: 7866074054024841739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 895
+        width: 897
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46869e246303bdb30800000000000000
+      internalID: 4313094077746341988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c673d1c9bde71e0800000000000000
+      internalID: -2198078104558670745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 858
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5255aed469b640800000000000000
+      internalID: 5096215360765582458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5888721202ee70800000000000000
+      internalID: 9142872471870397197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 783
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa7d51e0763ab40800000000000000
+      internalID: 5450313284242091849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 867
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d17832d00ec25d0800000000000000
+      internalID: -3085845297620378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 783
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0815a12e22084e0800000000000000
+      internalID: -1981545481543516000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42c53536c19a1e0800000000000000
+      internalID: -2186184931185777439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2227063ab2e4d0800000000000000
+      internalID: -3106716051721540202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 783
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b710e7149b00f20800000000000000
+      internalID: 3386910610720652139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_12
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 871
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ee247e89c02ba0800000000000000
+      internalID: -6115666680297365307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 859
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d4739d884ed4680800000000000000
+      internalID: -8769101623009522413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 859
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a757e0dac052e120800000000000000
+      internalID: 2441602780006668193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f2a0bad1700d70800000000000000
+      internalID: 9007324438821270332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 783
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b92fbd217be533d0800000000000000
+      internalID: -3227414686609757771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 821
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5217a5af56c61390800000000000000
+      internalID: -7847867186543127972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98765e9ef9017dd80800000000000000
+      internalID: -8226087915358951543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e20d97c8e6c5950800000000000000
+      internalID: 6439143116851130013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 827
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538b4c7329eceeb00800000000000000
+      internalID: 859851706270529589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 783
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f901d904476b87360800000000000000
+      internalID: 7167679417376641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 783
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a48b7649575576b0800000000000000
+      internalID: -5299233345585314652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57e845bcd02938a0800000000000000
+      internalID: -6324988069358803108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e1265d114da1160800000000000000
+      internalID: 6997138144132996729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 730
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f624d3fc3925d0800000000000000
+      internalID: -3086869051651720991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 655
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc6b5beb8cb884d0800000000000000
+      internalID: -3132046231701066572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 655
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9e7622e34f4cf0800000000000000
+      internalID: -265919214404067783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 739
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374daa3d5c05dfca0800000000000000
+      internalID: -5981535919488183181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7659fd708bcac0800000000000000
+      internalID: -3833829379233382902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_30
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be270e6e3027f3d00800000000000000
+      internalID: 954607007109772011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b27fb8d50aa7fa0800000000000000
+      internalID: -5802148846272828522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_32
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 655
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45f9da9e2f32d8b0800000000000000
+      internalID: -5128967556222552756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 743
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeaf3dac76edfb60800000000000000
+      internalID: 7781629154323050156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20f4af1e29171e0800000000000000
+      internalID: -2201817243542682954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4fdf5f325369e0800000000000000
+      internalID: -1629368208033101052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 655
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333e3f53d76a2aac0800000000000000
+      internalID: -3845328075114683597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 693
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74fc607ef4b6960800000000000000
+      internalID: 7596253050160760737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cfd05afb8d9f780800000000000000
+      internalID: -8648643291768816559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb6835b1f2adcb0800000000000000
+      internalID: -4838503055244215506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_40
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 699
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8249c37e65f139c0800000000000000
+      internalID: -3949105543489437043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_41
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6255f84503e524ca0800000000000000
+      internalID: -6034156989052922586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bede3f2648cab50800000000000000
+      internalID: 6605800313979792145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be9d4ab288b63a80800000000000000
+      internalID: -8487393576122212682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44ce21543be297e0800000000000000
+      internalID: -1760085894415596467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_45
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18becd812db5d9760800000000000000
+      internalID: 7466224715168541569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601c5c9327e9ce00800000000000000
+      internalID: 1065636926982983780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea34cd3bf5257a310800000000000000
+      internalID: 1416191178824237998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132ec5cd5a519b90800000000000000
+      internalID: -7236903767410597103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_49
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 527
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4179a6b374250ad80800000000000000
+      internalID: -8241496852195010796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfbf45a741363410800000000000000
+      internalID: 1456405713286840254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23f25164e932710800000000000000
+      internalID: 1667350310897529514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a60819df1ceaa00800000000000000
+      internalID: 769765881138932275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b83c3e1827324b0800000000000000
+      internalID: -5466399620500059281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_54
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01107ee9957b2bad0800000000000000
+      internalID: -2687884432040853232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_55
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad52f29f6d3042de0800000000000000
+      internalID: -1358956965720545830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_56
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f5dca6695415a70800000000000000
+      internalID: 8813902458080026378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_57
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8839b939b805440800000000000000
+      internalID: 4922587858802542788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_58
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 399
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4a9a2043dc57130800000000000000
+      internalID: 3563980303400281295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 299
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0ffd9292b1dd0e0800000000000000
+      internalID: -2243607175750487886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 299
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6128c3c0ff9850690800000000000000
+      internalID: -7636545864621850090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ee048d8219d590800000000000000
+      internalID: -7649062093096818733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffb955db93f3ef0800000000000000
+      internalID: -126318779195195551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_63
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0511960560286b1a0800000000000000
+      internalID: -6794100024211336880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_64
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d47fff00cc6d16a0800000000000000
+      internalID: -6476901116930984747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_65
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db277740264536a50800000000000000
+      internalID: 6513142266066334397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_66
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127db513c80e6fd0800000000000000
+      internalID: -2346928721837067746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_67
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 271
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8e3f8ca155b360800000000000000
+      internalID: 7184738582118960716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecfb763000326810800000000000000
+      internalID: 1757019582100143330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4914ea0a5b21fafb0800000000000000
+      internalID: -4634464920246795884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44750dff11ab37df0800000000000000
+      internalID: -183598573323004092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 171
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e545d7fd873b00800000000000000
+      internalID: 808270753710858729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_72
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 171
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d9ce99c50fabd0800000000000000
+      internalID: -2616866494968375883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_73
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca290ab7b23ee8ae0800000000000000
+      internalID: -1545047846244281684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_74
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321f1106b27e48b10800000000000000
+      internalID: 1982963909431259427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_75
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be419a2ea15dfd4f0800000000000000
+      internalID: -801687897200061205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_76
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 143
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef1efead2aa41f70800000000000000
+      internalID: 9157131055537201123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8708bb4f042e2aac0800000000000000
+      internalID: -3845262363209269128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_78
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16067388061cbc540800000000000000
+      internalID: 5029326029235642465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8eef11ff605b4a0800000000000000
+      internalID: -6578343988116395861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_80
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 15
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ffaa12341301ff0800000000000000
+      internalID: -67499830013132990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_81
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a8dd3f26c16970800000000000000
+      internalID: 8746489857533585508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_82
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da99d6bfae09d00800000000000000
+      internalID: 977539484735876451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_83
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436eb89ca82d1bdc0800000000000000
+      internalID: -3624884731527829964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_84
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3415e53f6795d80800000000000000
+      internalID: -8261441253802949703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamFrame_85
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 15
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd0ea0de2a86d000800000000000000
+      internalID: 60387578690276856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SteamFrame_0: 8648362728457251391
+      SteamFrame_1: 7866074054024841739
+      SteamFrame_10: -3106716051721540202
+      SteamFrame_11: 3386910610720652139
+      SteamFrame_12: -6115666680297365307
+      SteamFrame_13: -8769101623009522413
+      SteamFrame_14: 2441602780006668193
+      SteamFrame_15: 9007324438821270332
+      SteamFrame_16: -3227414686609757771
+      SteamFrame_17: -7847867186543127972
+      SteamFrame_18: -8226087915358951543
+      SteamFrame_19: 6439143116851130013
+      SteamFrame_2: 4313094077746341988
+      SteamFrame_20: 859851706270529589
+      SteamFrame_21: 7167679417376641183
+      SteamFrame_22: -5299233345585314652
+      SteamFrame_23: -6324988069358803108
+      SteamFrame_24: 6997138144132996729
+      SteamFrame_25: -3086869051651720991
+      SteamFrame_26: -3132046231701066572
+      SteamFrame_27: -265919214404067783
+      SteamFrame_28: -5981535919488183181
+      SteamFrame_29: -3833829379233382902
+      SteamFrame_3: -2198078104558670745
+      SteamFrame_30: 954607007109772011
+      SteamFrame_31: -5802148846272828522
+      SteamFrame_32: -5128967556222552756
+      SteamFrame_33: 7781629154323050156
+      SteamFrame_34: -2201817243542682954
+      SteamFrame_35: -1629368208033101052
+      SteamFrame_36: -3845328075114683597
+      SteamFrame_37: 7596253050160760737
+      SteamFrame_38: -8648643291768816559
+      SteamFrame_39: -4838503055244215506
+      SteamFrame_4: 5096215360765582458
+      SteamFrame_40: -3949105543489437043
+      SteamFrame_41: -6034156989052922586
+      SteamFrame_42: 6605800313979792145
+      SteamFrame_43: -8487393576122212682
+      SteamFrame_44: -1760085894415596467
+      SteamFrame_45: 7466224715168541569
+      SteamFrame_46: 1065636926982983780
+      SteamFrame_47: 1416191178824237998
+      SteamFrame_48: -7236903767410597103
+      SteamFrame_49: -8241496852195010796
+      SteamFrame_5: 9142872471870397197
+      SteamFrame_50: 1456405713286840254
+      SteamFrame_51: 1667350310897529514
+      SteamFrame_52: 769765881138932275
+      SteamFrame_53: -5466399620500059281
+      SteamFrame_54: -2687884432040853232
+      SteamFrame_55: -1358956965720545830
+      SteamFrame_56: 8813902458080026378
+      SteamFrame_57: 4922587858802542788
+      SteamFrame_58: 3563980303400281295
+      SteamFrame_59: -2243607175750487886
+      SteamFrame_6: 5450313284242091849
+      SteamFrame_60: -7636545864621850090
+      SteamFrame_61: -7649062093096818733
+      SteamFrame_62: -126318779195195551
+      SteamFrame_63: -6794100024211336880
+      SteamFrame_64: -6476901116930984747
+      SteamFrame_65: 6513142266066334397
+      SteamFrame_66: -2346928721837067746
+      SteamFrame_67: 7184738582118960716
+      SteamFrame_68: 1757019582100143330
+      SteamFrame_69: -4634464920246795884
+      SteamFrame_7: -3085845297620378282
+      SteamFrame_70: -183598573323004092
+      SteamFrame_71: 808270753710858729
+      SteamFrame_72: -2616866494968375883
+      SteamFrame_73: -1545047846244281684
+      SteamFrame_74: 1982963909431259427
+      SteamFrame_75: -801687897200061205
+      SteamFrame_76: 9157131055537201123
+      SteamFrame_77: -3845262363209269128
+      SteamFrame_78: 5029326029235642465
+      SteamFrame_79: -6578343988116395861
+      SteamFrame_8: -1981545481543516000
+      SteamFrame_80: -67499830013132990
+      SteamFrame_81: 8746489857533585508
+      SteamFrame_82: 977539484735876451
+      SteamFrame_83: -3624884731527829964
+      SteamFrame_84: -8261441253802949703
+      SteamFrame_85: 60387578690276856
+      SteamFrame_9: -2186184931185777439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

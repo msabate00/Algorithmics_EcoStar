@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9211382312023922012}
   - component: {fileID: 8427541935239705937}
-  - component: {fileID: 8924980513387642463}
+  - component: {fileID: 7556862624300158684}
   - component: {fileID: 7462880658668992944}
   m_Layer: 0
   m_Name: Spikes
@@ -77,7 +77,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 1864809905279351069, guid: f49d793496cdf7f4f9738c64779bc2e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -89,7 +89,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8924980513387642463
+--- !u!114 &7556862624300158684
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
