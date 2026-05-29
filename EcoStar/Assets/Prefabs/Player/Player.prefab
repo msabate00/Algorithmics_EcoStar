@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8484429028722973582}
   - component: {fileID: 43174682321788129}
   - component: {fileID: 1869001089169238284}
+  - component: {fileID: 6144557682429260892}
   - component: {fileID: 1897122211317404086}
   - component: {fileID: 4071106610560987709}
   - component: {fileID: 4932576678124122759}
@@ -130,6 +131,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Coins: {fileID: 0}
   Diamonds: {fileID: 0}
+--- !u!114 &6144557682429260892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4014948402033989927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f2f817243f0ea4787c30f1b2d26438, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  respawnPoin: {x: 0, y: 0}
 --- !u!50 &1897122211317404086
 Rigidbody2D:
   serializedVersion: 5
