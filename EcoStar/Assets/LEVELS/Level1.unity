@@ -191,6 +191,7 @@ GameObject:
   - component: {fileID: 11796172}
   - component: {fileID: 11796177}
   - component: {fileID: 11796178}
+  - component: {fileID: 11796179}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -311,7 +312,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.99999994
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -461,6 +462,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lobby: {fileID: 0}
   configuration: {fileID: 0}
+--- !u!114 &11796179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 11796171}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88f5cead0c0b2a4eb05b5900433f8d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_AssetsPPU: 100
+  m_RefResolutionX: 1920
+  m_RefResolutionY: 1080
+  m_CropFrame: 4
+  m_GridSnapping: 1
+  m_FilterMode: 0
+  m_UpscaleRT: 0
+  m_PixelSnapping: 0
+  m_CropFrameX: 0
+  m_CropFrameY: 0
+  m_StretchFill: 0
 --- !u!1001 &23767942
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -79470,6 +79495,14 @@ PrefabInstance:
       propertyPath: Diamonds
       value: 
       objectReference: {fileID: 2118634115}
+    - target: {fileID: 1897122211317404086, guid: 70b31fa3f706ab248a233b735a39aa2a, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1897122211317404086, guid: 70b31fa3f706ab248a233b735a39aa2a, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4014948402033989927, guid: 70b31fa3f706ab248a233b735a39aa2a, type: 3}
       propertyPath: m_Name
       value: Player

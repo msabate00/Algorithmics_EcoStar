@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Play Variables")]
     public bool canDash;
+    public float dashForce;
     public int healt = 100;
 
     [Header("Movement")]
@@ -100,7 +101,7 @@ public class PlayerMovement : MonoBehaviour
 
     IEnumerator StopRolling()
     {
-        yield return new WaitForSeconds(0.35f);
+        yield return new WaitForSeconds(dashForce/7);
         isRolling = false;
     }
 
