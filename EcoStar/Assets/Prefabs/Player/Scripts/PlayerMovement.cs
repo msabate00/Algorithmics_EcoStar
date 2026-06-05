@@ -5,13 +5,20 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Play Variables")]
+    public bool canDash;
+    public int healt = 100;
+
+    [Header("Movement")]
     public float moveSpeed = 6f;
     public float jumpForce = 12f;
 
+    [Header("Ground Checker")]
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
     public LayerMask groundLayer;
 
+    [Header("Components References")]
     public Rigidbody2D rb;
     public SpriteRenderer spriteRenderer;
     public Animator animator;
@@ -59,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetBool("Grounded", isGrounded);
                 animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
 
-                if (Input.GetMouseButtonDown(0) && isRolling == false)
+                if (Input.GetMouseButtonDown(0) && isRolling == false && canDash)
                 {
                     animator.SetTrigger("Attack");
                     isRolling = true;

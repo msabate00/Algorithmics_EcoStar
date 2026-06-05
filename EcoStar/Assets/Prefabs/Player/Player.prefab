@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 43174682321788129}
   - component: {fileID: 1869001089169238284}
   - component: {fileID: 6144557682429260892}
+  - component: {fileID: 403699101107632648}
   - component: {fileID: 1897122211317404086}
   - component: {fileID: 4071106610560987709}
   - component: {fileID: 4932576678124122759}
@@ -37,7 +38,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4996892398645475575}
-  - {fileID: 614236770002473833}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &8484429028722973582
@@ -107,6 +107,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98d5b417ee9c8d44e883de17d1da71b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  canDash: 0
+  healt: 100
   moveSpeed: 6
   jumpForce: 6.5
   groundCheck: {fileID: 4996892398645475575}
@@ -144,6 +146,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   respawnPoin: {x: 0, y: 0}
+--- !u!114 &403699101107632648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4014948402033989927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74b3d40b279d3bb479c7102f0a98e308, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  heartsText: {fileID: 0}
+  playerMovement: {fileID: 0}
 --- !u!50 &1897122211317404086
 Rigidbody2D:
   serializedVersion: 5
@@ -261,72 +277,3 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6326525563271066435}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &8691763211736050192
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 614236770002473833}
-  - component: {fileID: 117859268041623343}
-  m_Layer: 0
-  m_Name: FrictionlessColliderWithTheWalls
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &614236770002473833
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8691763211736050192}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 6326525563271066435}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &117859268041623343
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8691763211736050192}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 6200000, guid: edbe214e8cf3d8f43a35b264a7f1ec59, type: 2}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 64
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.25}
-  m_Size: {x: 0.63, y: 0.95}
-  m_Direction: 0
