@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Enemigocomplicado : MonoBehaviour
 {
+#if false
     [Header("Referencias")]
     public Transform[] patrolPoints;
     public Transform player;
@@ -118,5 +119,6 @@ public class Enemigocomplicado : MonoBehaviour
 
 
     // Update is called once per frame
+#endif
 
 }

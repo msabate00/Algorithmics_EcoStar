@@ -7,7 +7,8 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Play Variables")]
     public bool canDash;
-    public float dashForce;
+    public float dashDistance;
+    private float dashForce = 2f;
     public int healt = 100;
 
     [Header("Movement")]
@@ -26,57 +27,57 @@ public class PlayerMovement : MonoBehaviour
     bool isGrounded;
     float moveInput;
 
-    bool isDefeat = false;
-
     
     bool isRolling = false;
 
     // Update is called once per frame
     void Update()
     {
-        if (!isDefeat)
+        moveInput = Input.GetAxisRaw("Horizontal");
+        isGrounded = Physics2D.OverlapCircle(
+        groundCheck.position,
+        groundCheckRadius,
+        groundLayer
+        );
+
+        if ((Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) &&
+        isGrounded)
         {
-            moveInput = Input.GetAxisRaw("Horizontal");
-            isGrounded = Physics2D.OverlapCircle(
-            groundCheck.position,
-            groundCheckRadius,
-            groundLayer
-            );
-
-            if ((Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) &&
-            isGrounded)
-            {
-                rb.linearVelocity = new
-               Vector2(rb.linearVelocity.x, jumpForce);
-            }
-
-            if (spriteRenderer != null)
-            {
-                if (moveInput > 0) spriteRenderer.flipX = false;
-                else if (moveInput < 0) spriteRenderer.flipX = true;
-            }
-
-            if (Input.GetKeyDown(KeyCode.J))
-            {
-                if (animator != null) animator.SetTrigger("Attack");
-            }
-
-            if (animator != null)
-            {
-                animator.SetFloat("Speed", Mathf.Abs(moveInput));
-                animator.SetBool("Grounded", isGrounded);
-                animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
-
-                if (Input.GetMouseButtonDown(0) && isRolling == false && canDash)
-                {
-                    animator.SetTrigger("Attack");
-                    isRolling = true;
-                    rb.linearVelocity = new Vector2(moveSpeed * 2, rb.linearVelocity.y);
-                    StartCoroutine(StopRolling());
-                }
-
-            }
+            rb.linearVelocity = new
+           Vector2(rb.linearVelocity.x, jumpForce);
         }
+
+        if (spriteRenderer != null)
+        {
+            if (moveInput > 0) spriteRenderer.flipX = false;
+            else if (moveInput < 0) spriteRenderer.flipX = true;
+        }
+
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            if (animator != null) animator.SetTrigger("Attack");
+        }
+
+        if (animator != null)
+        {
+            animator.SetFloat("Speed", Mathf.Abs(moveInput));
+            animator.SetBool("Grounded", isGrounded);
+            animator.SetFloat("VerticalSpeed", rb.linearVelocity.y);
+
+            if (Input.GetMouseButtonDown(0) && isRolling == false && canDash)
+            {
+                Dash(dashDistance, dashForce);
+            }
+
+        }
+    }
+
+    public void Dash(float distance, float dashForce)
+    {
+        animator.SetTrigger("Attack");
+        isRolling = true;
+        rb.linearVelocity = new Vector2(moveSpeed * dashForce, rb.linearVelocity.y);
+        StartCoroutine(StopRolling(distance));
     }
 
     private void FixedUpdate()
@@ -99,14 +100,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    IEnumerator StopRolling()
+    IEnumerator StopRolling(float distance)
     {
-        yield return new WaitForSeconds(dashForce/7);
+        yield return new WaitForSeconds(distance * 0.04f);
         isRolling = false;
-    }
-
-    public void StartingDefeat()
-    {
-        isDefeat = true;
     }
 }

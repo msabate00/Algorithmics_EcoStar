@@ -5,7 +5,7 @@ using UnityEngine;
 public class Lifebar : MonoBehaviour
 {
     [Header("Referencias")]
-    [SerializeField] private TMP_Text heartsText;
+    private TMP_Text heartsText;
 
     public PlayerMovement playerMovement;
 
