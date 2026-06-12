@@ -20,12 +20,16 @@ public class PlayerMovement : MonoBehaviour
 
     bool isDefeat = false;
 
-    
+    Vector3 playerPosicion;
     bool isRolling = false;
+    public GameObject BLuebolita;
+    float blueBolaCD = 5f;
+    
 
     // Update is called once per frame
     void Update()
     {
+        playerPosicion = new Vector3(rb.position.x, rb.position.y, 0);
         if (!isDefeat)
         {
             moveInput = Input.GetAxisRaw("Horizontal");
@@ -67,12 +71,22 @@ public class PlayerMovement : MonoBehaviour
                     StartCoroutine(StopRolling());
                 }
 
+                if (Input.GetKeyDown(KeyCode.F) && blueBolaCD < 0)
+                {
+                    if(spriteRenderer.flipX) { Instantiate(BLuebolita, playerPosicion, Quaternion.Euler(0, 180, 0));  blueBolaCD = 5f; }
+                    if (!spriteRenderer.flipX)
+                    {
+                        Instantiate(BLuebolita, playerPosicion, Quaternion.Euler(0, 0, 0));  blueBolaCD = 5f; }
+
+                }
+
             }
         }
     }
 
     private void FixedUpdate()
     {
+        blueBolaCD -= Time.deltaTime;
         if (isRolling == false)
         {
             rb.linearVelocity = new Vector2(moveInput * moveSpeed,
