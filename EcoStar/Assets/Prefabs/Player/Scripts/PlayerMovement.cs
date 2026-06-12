@@ -2,6 +2,7 @@ using System.Collections;
 using System.Diagnostics;
 using Unity.VisualScripting;
 using UnityEngine;
+using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -29,6 +30,7 @@ public class PlayerMovement : MonoBehaviour
 
     
     bool isRolling = false;
+    bool isRailing = false;
 
     // Update is called once per frame
     void Update()
@@ -82,27 +84,46 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isRolling == false)
+        if (!isRailing)
         {
-            rb.linearVelocity = new Vector2(moveInput * moveSpeed,
-            rb.linearVelocity.y);
-        }
-        if(isRolling == true)
-        {
-            if (spriteRenderer.flipX == true)
+            if (isRolling == false)
             {
-                rb.linearVelocity = new Vector2(-moveSpeed * 4f, rb.linearVelocityY);
+                rb.linearVelocity = new Vector2(moveInput * moveSpeed,
+                rb.linearVelocity.y);
             }
-            else
+            if (isRolling == true)
             {
-                rb.linearVelocity = new Vector2(moveSpeed * 4f, rb.linearVelocityY);
+                if (spriteRenderer.flipX == true)
+                {
+                    rb.linearVelocity = new Vector2(-moveSpeed * 4f, rb.linearVelocityY);
+                }
+                else
+                {
+                    rb.linearVelocity = new Vector2(moveSpeed * 4f, rb.linearVelocityY);
+                }
             }
         }
+        
+    }
+
+    public void railMovement(float timeRolling, float railForce)
+    {
+        animator.SetTrigger("Attack");
+        isRailing = true;
+        rb.linearVelocity = new Vector2(railForce, 0);
+        StartCoroutine(StopRailing(timeRolling));
     }
 
     IEnumerator StopRolling(float distance)
     {
         yield return new WaitForSeconds(distance * 0.04f);
         isRolling = false;
+    }
+
+    IEnumerator StopRailing(float time)
+    {
+        yield return new WaitForSeconds(time);
+        isRailing = false;
+        rb.linearVelocity = Vector2.zero;
     }
 }

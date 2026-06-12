@@ -18,7 +18,7 @@ public class Mushroom : MonoBehaviour
         {
             animator.SetTrigger("Activation");
 
-            collision.GetComponent<PlayerMovement>().Dash(dashDistance, dashForce);
+            collision.GetComponent<PlayerMovement>().railMovement(dashDistance, dashForce);
         }
     }
 }
