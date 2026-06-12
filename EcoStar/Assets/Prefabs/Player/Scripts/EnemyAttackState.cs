@@ -4,7 +4,7 @@ public class EnemyAttackState : EnemyStateBase
 {
     
     public EnemyAttackState(EnemyStateMachine enemy) : base(enemy) { }
-    /*
+    
     public override void Enter()
     {
         enemy.SuspendAutoMovement = false;
@@ -44,5 +44,5 @@ public class EnemyAttackState : EnemyStateBase
             enemy.DoAttack();
         }
     }
-    */
+    
 }

@@ -5,9 +5,11 @@ using UnityEngine;
 public class Lifebar : MonoBehaviour
 {
     [Header("Referencias")]
-    [SerializeField] private TMP_Text heartsText;
+    private TMP_Text heartsText;
 
-    [Header("Configuración de Sprites")]
+    public PlayerMovement playerMovement;
+
+    //Configuración de Sprites
     private const int INDEX_LLENO = 0;
     private const int INDEX_MEDIO = 1;
     private const int INDEX_VACIO = 2;
@@ -15,6 +17,15 @@ public class Lifebar : MonoBehaviour
     private const int TOTAL_CORAZONES = 10;
 
 
+    private void Start()
+    {
+        playerMovement = GetComponent<PlayerMovement>();
+    }
+
+    private void Update()
+    {
+        ActualizarCorazones(playerMovement.healt);
+    }
 
     public void ActualizarCorazones(int vidaActual)
     {
@@ -22,7 +33,7 @@ public class Lifebar : MonoBehaviour
         vidaActual = Mathf.Clamp(vidaActual, 0, 100);
 
         // 2. Calculamos cuántos "medios corazones" representan esa vida (cada uno vale 5 pts)
-        // Usamos RoundToInt por si la vida baja en números impares (ej: 93 se redondeará al fragmento más cercano)
+        // Usamos RoundToInt por si la vida baja en números impares
         int fragmentosRestantes = Mathf.RoundToInt(vidaActual / 5f);
 
         // Usamos StringBuilder que es más eficiente para armar textos dentro de bucles

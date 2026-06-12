@@ -3,7 +3,7 @@ using UnityEngine;
 public class EnemyReturnState : EnemyStateBase
 {
     public EnemyReturnState(EnemyStateMachine enemy) : base(enemy) { }
-    /*
+    
 
     public override void Enter()
     {
@@ -55,5 +55,5 @@ public class EnemyReturnState : EnemyStateBase
         if (!enemy.GroundAhead() && enemy.IsGrounded())
             enemy.StopMoving();
     }
-    */
+    
 }
